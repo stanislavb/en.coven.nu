@@ -1,10 +1,10 @@
-[![Build status](https://travis-ci.org/stanislavb/www.coven.nu.svg?branch=master)](https://travis-ci.org/stanislavb/www.coven.nu)
+[![Build status](https://travis-ci.org/stanislavb/en.coven.nu.svg?branch=master)](https://travis-ci.org/stanislavb/www.coven.nu)
 
 # Coven
 
     grunt
     bundle exec jekyll build
-    aws s3 sync _site s3://www.coven.nu/ --delete
+    aws s3 sync _site s3://en.coven.nu/ --delete
 
 ## Minimal Mistakes Jekyll Theme
 

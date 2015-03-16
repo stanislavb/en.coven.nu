@@ -1,0 +1,17 @@
+language: ruby
+rvm:
+- 2.1
+script: bundle exec jekyll build
+branches:
+  only:
+  - master
+deploy:
+  provider: s3
+  access_key_id: AKIAIRK5ZS4V27FTUPWQ
+  secret_access_key:
+    secure: "D3S0pt8MGCfP9K4/kLhtBW2XblhD9eTXqQsSEYR4R03E4Q6VCzZ4im4PG/4aQYtAc2dkS9wVQy5l+ObLuW41Z4vyjMH2SSdDFzGt7PkkakuDjio/BCwDrLGukle7jY0pvBj60c77+nvN9itCeID+FFvHvrcl1nj6paJjdWGrXjs="
+  bucket: en.coven.nu
+  local-dir: _site
+  endpoint: en.coven.nu.s3-website-eu-central-1.amazonaws.com
+  region: eu-central-1
+  skip_cleanup: true
