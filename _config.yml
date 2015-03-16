@@ -2,7 +2,7 @@
 
 title:            Coven
 locale:           en_US
-url:              https://www.coven.nu
+url:              https://en.coven.nu
 
 
 # Jekyll configuration
@@ -28,8 +28,8 @@ event:
   name: Coven
   tagline: Witch LARP
   logo: skull.jpg
-  description: "A Live Action Roleplaying event taking place in Sweden 2015"
-  email: coven@example.com
+  description: "A Live Action Roleplaying event taking place in Sweden autumn 2015"
+  email: covenenglish@example.com
 #  twitter: CovenLARP
 #  facebook: CovenLARP
   google:

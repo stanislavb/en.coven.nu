@@ -24,7 +24,7 @@ Currently searching for location in the Stockholm region.
 
 ## Time & Dates
 
-This autum. Exact dates to follow.
+This autumn. Exact dates to follow.
 
 ## Workshops
 
