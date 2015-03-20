@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Practical
-tags: [practical]
+tags: [practical, location, date, terminology, workshops, participant contract, contact]
 modified: 2015-01-11
 comments: true
 image:
@@ -20,11 +20,11 @@ image:
 
 ## Location
 
-Currently searching for location in the Stockholm region.
+Near Stockholm.
 
 ## Time & Dates
 
-This autumn. Exact dates to follow.
+2-4 October 2015.
 
 ## Workshops
 

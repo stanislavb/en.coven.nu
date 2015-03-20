@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Game Mechanics
-tags: [game mechanics]
+tags: [game mechanics, lottery, meta, cut, break, ping, pong]
 modified: 2015-01-11
 comments: true
 image:

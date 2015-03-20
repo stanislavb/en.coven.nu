@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Characters
-tags: [characters]
+tags: [characters, supreme, household, witches, witch hunters]
 modified: 2015-01-11
 comments: true
 image:

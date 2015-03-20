@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tags: [about]
+tags: [about, background, inspiration, safety]
 modified: 2015-01-11
 comments: true
 image:
