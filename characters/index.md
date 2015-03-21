@@ -18,21 +18,21 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## The Supreme
+## The Supreme and her Seconds
 
-The Supreme Witch is the head of the Coven; each Coven has their own Supreme. 
+The Supreme Witch is the head of the coven; each coven has their own Supreme. 
 
-To become the Supreme of a Coven you must pass the trial of The Seven Wonders. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each Coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in complete Covens i.e. thirteen to twenty witches; meaning that a Coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme.
+To become the Supreme of a coven you must pass the trial of The Seven Wonders. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in covens of thirteen and above; meaning that a coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme serving in the role as Scout Mistress.
 
 The Supreme is not just the Coven leader; their attitude, morals and ethics affects the whole Coven and can make it stronger or weaker, righteous or criminal. The Supremes only answers to The Witch’s Council.
 
 *There will be one acting Supreme at the Dahlin Coven. This role will have additional responsibilities during the larp and be responsible for holding some lessons.*
 
-## The Maidens
+## The Seconds
 
-The Maidens are the highest ranking witches under the Supreme. They were most often the other candidates in the trial where the reigning Supreme was chosen. They assist the Supreme and are her right hand in all manners concerning the Coven. Like the Supreme the Maidens have a huge influence on the Coven; usually in charge of teaching the other witches they enforce the traditions, morals and ethics of the Supreme. And at their own risk, maybe even try to push their own.
+The Seconds are the highest ranking witches under the Supreme. They were most often the other candidates in the trial where the reigning Supreme was chosen. They assist the Supreme and are her right hand in all manners concerning the Coven. Like the Supreme, the Seconds have a huge influence on the coven; usually in charge of teaching the other witches they enforce the traditions, morals and ethics of the Supreme. And, at their own risk, maybe even try to push their own.
 
-*There are two Maidens at the Dahlin Coven. These roles will have additional responsibilities during the larp and be responsible for holding some lessons.*
+*There are two Seconds at the Dahlin Coven. These roles will have additional responsibilities during the larp and be responsible for holding some lessons.*
 
 ## The Witches
 
