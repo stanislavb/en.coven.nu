@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Magic
-tags: [magic, powers, rituals, crystals, tarot]
+title: Fiction
+tags: [fiction, powers, rituals, crystals, tarot]
 modified: 2015-01-11
 comments: true
 image:
