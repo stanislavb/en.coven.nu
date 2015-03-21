@@ -20,23 +20,23 @@ image:
 
 ## Vision
 
-Coven takes place in a newly, rather unwillingly, formed Coven of witches: present day, Sweden. It's about cool powers; the witches that wield them, and the people trying to kill them for it. 
+Coven takes place in a newly, rather unwillingly, formed coven of witches: present day, Sweden. It's about cool powers; the witches that wield them, and the people trying to kill them for it. 
 
 A chance to: indulge in highschool clichés, make friends, be betrayed, fall in love, accidentaly kill someone and desperately try to ressurect them before the Surpreme Witch finds out...or simply cover your tracks. 
 
 The mood is tense. The future is unsure, and you have either way too little power or too much to be in control. You have to make friends. You have to trust. You have to help each other or you'll most probably die one day soon, far too soon for your taste. 
 
-But first you have to work out where the biggest threat lies: outside your Coven or within it?
+But first you have to work out where the biggest threat lies: outside your soven or within it?
 
-## Background Story
+## History
 
-Witches have always existed, but they have mostly kept to themselves and avoided discovery by the outside world. Covens have been their home, refuge and community. 
+Witches have always existed, but they have mostly kept to themselves and avoided discovery by the outside world. They existed in covens, a group of witches bonded together in a specific place. These covens have been their home, refuge and community. 
 
-There has always existed Witch Hunters. Under the cover of large organizations they have tracked and killed Witches for generations. Over the last thirty years they have suceeded in exterminating Coven after Coven. The few Covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have nowhere else to go. Even their greatest authority the Witches' Council seemed to have given up. 
+Witch hunters have always existed. Under the cover of large organizations they have tracked and killed witches for generations. Over the last thirty years they have suceeded in exterminating coven after coven. The few covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have nowhere else to go. Even their greatest authority, the Witches' Council, seemed to have given up. 
 
-Then suddenly something changed. The Witch Hunters stopped focusing on Covens as their main target and started going after individual witches. At first previous Coven members, but then they started targeting anyone with magical potential, sinisterly before many of them were even aware of their own legacy. The Witches' Council was forced to step in; rescuing young witches and sending them to the few Covens still undiscovered by the Witch Hunters. 
+Then suddenly something changed. Witch hunters stopped focusing on covens as their main target and started going after individual witches. At first previous coven members, but then they started targeting anyone with magical potential, even before many of them were aware of their own power. The Witches' Council was forced to step in; rescuing young witches and sending them to the few covens still undiscovered by the witch hunters. 
 
-This is the premise for the LARP: the newly rescued witches arrive at a Swedish Coven to discover and learn to deal with their powers, each other, and the life threatening danger they all face.
+This is the situation now. Newly rescued witches arrive at a Swedish coven to discover and learn to deal with their powers, each other, and the life threatening danger they all face.
 
 ## Inspiration
 
