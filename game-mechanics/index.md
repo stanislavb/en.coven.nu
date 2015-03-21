@@ -54,13 +54,3 @@ The dominant player might get the idea that it would suit the scene to become mo
 In reply the other player can say "Green" to mean 'yes I think this is a good idea and I'm ok with us escalating to controlled physical violence', "Red" to say 'no I think this scene should come to an end now' or "Yellow" to say 'I'm fine with what we were doing, I don't feel comfortable escalating it'.
 
 In this example the dominant player in the scene led, but it can just as easily be used by the other player in the scene. You also do not have to be asked in order to use the system. You can use Red, Green, Yellow to indicate how you feel in a scene even without being asked; to show your bounderies in the scene or to give your consent.
-
-## Ping-Pong
-
-This system is a quick but importat meta-technique to check the well being of your co-player. 
-
-It is not unusal to be confused over a co-players fantastic acting: I'm serious. As a player you might start to question wheter another player is actually acting or genuinly not feeling ok anymore. But since you're unsure, and you don't want to use cut to check in case you're wrong, there's the Ping-Pong system. 
-
-Discreetly whisper "Ping" into your co-players ear and wait for them to respond with "Pong". If you recieve a clear "Pong": you know they are fine and you can continue your play. If the player does not respond, you now know to use cut and to remove the player from the situation. Find organizers. However a response from your co-player is not automatically ok. Think carefully; did the response come quickly? clearly? did the person sound distressed when giving it? People can go into chock or simply be afraid to cause trouble despite feeling bad. If you are unsatisfied with the response you got we trust you to cut the scene and help your co-player. As organizers we will always prefer that you reacted extra caustiously to not at all.
-
-
