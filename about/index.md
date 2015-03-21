@@ -44,10 +44,10 @@ The fiction is mostly inspired by the show "American Horror Story: Coven". You c
 
 Another inspiration is the Swedish book "Cirkeln". Read or watch this if you want more of an insight the types of tropes we will be using in our character creation. It is also a lot more similar to the mood we are trying to achieve.
 
-## Safety
+## Contents Warning
 
 This LARP will contain ingame elements of; horror, group pressure, aspects of bullying, violence and possibly some gore and blood. 
 
 This LARP will not contain real alcohol, sex or drugs. 
 
-For more infomation see the participant contract under practical.
+For more infomation about well-being and safety at the LARP, see the participant contract and safety agreement under practical.
