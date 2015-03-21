@@ -44,20 +44,10 @@ The fiction is mostly inspired by the show "American Horror Story: Coven". You c
 
 Another inspiration is the Swedish book "Cirkeln". Read or watch this if you want more of an insight the types of tropes we will be using in our character creation. It is also a lot more similar to the mood we are trying to achieve.
 
-## Too much information
-
-This LARP uses transparency with its players as much as possible to ensure that they can plan their own narrative accordingly. There will also be times where, depending on the players actions IN game, they will be required to go OFF with the organizers to plan scenes.
-
-Things to learn will be kept to a minimum so that the players can focus on enjoying and exploring the LARP. There will however be some game-mechanics and meta-techniques which the players will be required to learn in order to participate. These will be drilled as much as possible at the preLARP workshop, but since the LARP is designed so that players have almost nothing else to learn or prepare, you will be expected to show up already reasonably proficient. All the neccessary information will be availiable on this site.
-
-Being confident with the techniques the LARP uses will allow the players to have fun with their powers and use them to create great moments for themselves and others; invent rituals, tease each other, defend yourself and really immerse in the world.
-
 ## Safety
 
-There will be members of the Household moving about the area during the LARP. The Household is a mix of Helpers and Organizers and can always be pulled aside if you need to ask something or report a problem. 
+This LARP will contain ingame elements of; horror, group pressure, aspects of bullying, violence and possibly some gore and blood. 
 
-Any problems you bring to the Household will be taken seriously, and we will attempt to deal with any problems, questions or requests as swiftly as possible. Problems involving other players will always be dealt with as a team and no indiviual member of the Household will be taking major safety decisions alone. This however does not include cases where patricipants are in direct danger; such as fire or violence. 
+This LARP will not contain real alcohol, sex or drugs. 
 
-All players have signed a participant contract and any player who breaks this agreement will be asked to leave. To read the participant contract look under Practical.
-
-The LARP will use the Red, Green, Yellow system and the Ping-Pong system for safe play and a system for sex is being decided upon. To read more about these techniques go to Game Mechanics.
+For more infomation see the participant contract under practical.
