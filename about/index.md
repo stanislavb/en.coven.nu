@@ -40,15 +40,9 @@ This is the situation now. Newly rescued witches arrive at a Swedish coven to di
 
 ## Inspiration
 
-The LARP was inspired foremost by the American tv-series "American Horror Story: Coven". A series about a Coven of witches in New Orleans, present day. Since then "Cirkeln", a swedish film based on a book about witches in present day Sweden, has come out. We see many parallels with our vision there too and have decided to draw inspiration from both.
+The fiction is mostly inspired by the show "American Horror Story: Coven". You can watch this is if you want, but it is far from neccessary in order to participate in the LARP. The sexism, racism and cultural appropriation has been removed as thoroughly as we can. 
 
-Other sources of inspiration include: 
-
-Buffy the Vampire Slayer season 7: where a group of newly activated slayers must come to terms with their powers and each other, in the midst of a mystical war. 
-
-X-Men or more specifically "Xavier's School for Gifted Youngsters": the Covens have primarily been a place of teaching young witches to handle their powers. 
-
-Lindängens Riksinternat: a LARP about a private boarding school where hazing, bullying and abuse of power was common, and encouraged under the cover of "tradition". Similarly Covens are not always the best institutions to be stuck in.
+Another inspiration is the Swedish book "Cirkeln". Read or watch this if you want more of an insight the types of tropes we will be using in our character creation. It is also a lot more similar to the mood we are trying to achieve.
 
 ## Too much information
 
