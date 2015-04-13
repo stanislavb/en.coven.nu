@@ -28,16 +28,6 @@ The mood is tense. The future is unsure, and you have either way too little powe
 
 But first you have to work out where the biggest threat lies: outside your soven or within it?
 
-## History
-
-Witches have always existed, but they have mostly kept to themselves and avoided discovery by the outside world. They existed in covens, a group of witches bonded together in a specific place. These covens have been their home, refuge and community. 
-
-Witch hunters have always existed. Under the cover of large organizations they have tracked and killed witches for generations. Over the last thirty years they have suceeded in exterminating coven after coven. The few covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have nowhere else to go. Even their greatest authority, the Witches' Council, seemed to have given up. 
-
-Then suddenly something changed. Witch hunters stopped focusing on covens as their main target and started going after individual witches. At first previous coven members, but then they started targeting anyone with magical potential, even before many of them were aware of their own power. The Witches' Council was forced to step in; rescuing young witches and sending them to the few covens still undiscovered by the witch hunters. 
-
-This is the situation now. Newly rescued witches arrive at a Swedish coven to discover and learn to deal with their powers, each other, and the life threatening danger they all face.
-
 ## Inspiration
 
 The fiction is mostly inspired by the show "American Horror Story: Coven". You can watch this is if you want, but it is far from neccessary in order to participate in the LARP. The sexism, racism and cultural appropriation has been removed as thoroughly as we can. 
