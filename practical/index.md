@@ -38,23 +38,49 @@ As your character you will only be expected to bring minimal bagage. Overnight g
 
 ## Terminology OFF
 
-Meta-Techniques
-OFF/offgame
-IN/ingame
-NPC
-Safety words
-Green, Yellow, Red
+- Meta-Techniques
+- OFF/offgame
+- IN/ingame
+- NPC
+- Safety words
+- Green, Yellow, Red
 
 ## Terminology IN
 
-Supreme Witch or Supreme
-Scout Mistress
-Seconds
+- Supreme Witch or Supreme
+- Scout Mistress
+- Seconds
 
 ## Participant Contract
 
-Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicut de grave feeding iride et serpens. Pestilentia, shaun ofthe dead scythe animated corpses ipsa screams. Pestilentia est plague haec decaying ambulabat mortuos. Sicut zeder apathetic malus voodoo. Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia sint terribiles undeath legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi braindead odores kill and infect, aere implent left four dead.
+We the organizers promise you:
+
+- That the information on the website, when the event and date is released, is valid.
+- That there will be areas at the venue where you can go off-game, rest and feel safe.
+- A thrilling larp with elements of horror and action.
+- Facebook groups for social interaction before the event takes place.
+- A workshop including character building, meta techniques and safe words.
+- A safety host, in a set location, whom you can always reach during the larp.
+- Your own sleeping place in a dorm, indoors, and three warm meals per day.
+
+As a participant we expect of you:
+
+- To contribute to an including and affirming atmosphere.
+- To read and reflect on the information on the web site.
+- To keep up-to-date about new information in the facebook group. If you don’t have a facebook account, you need to create one or have regular contact with a friend who does. 
+- To ask questions, if you have them. The earlier we hear of your queeries, the bigger the chance that we can do something about answering them.
+- To show up at the specified check-in time.
+- To respect and follow rules and instructions from organizers.
+- To reflect upon and accept this simple fact: to attend a larp is like playing in an orchestra, not like going to the theatre. When you are registered and have payed your registration fee, we are counting on you. You are needed in the game and can not easily be replaced. (If an emergency occurs, contact the organizers as soon as possible).
 
 ## Safety Agreement 
 
-In Craven omni memoria patriae zombieland clairvius narcisse religionis sunt diri undead historiarum. Golums, zombies unrelenting et Raimi fascinati beheading. Maleficia! Vel cemetery man a modern bursting eyeballs perhsaps morbi. A terrenti flesh contagium. Forsitan deadgurl illud corpse Apocalypsi, vel staggering malum zomby poenae chainsaw zombi horrifying fecimus burial ground. Indeflexus shotgun coup de poudre monstra per plateas currere. Fit de decay nostra carne undead. Poenitentiam violent zom biehig hway agite RE:dead pœnitentiam! Vivens mortua sunt apud nos night of the living dead.
+- Safety and break words on this larp are Green, Yellow and Red. 
+- Saying OFF is a possibility to cut the scene completely and go off-game. We encourage you to use all words if and whenever you feel they are needed during the game.
+- Safety and break words are to be respected without hesitation.
+- Scenes or play with a sexual under- or overtone between players need to be agreed upon in advance (with explicit consent). - You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
+- At this larp pushing (with open palms) and simple fastholding (hand on wrist/ancle) can occur. Gun replicas might be used as a visual display only. You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
+- All other play based on violence needs to be agreed upon in advance (with explicit consent). You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
+- Play or scenes based on sexism, racism, hbtq-phobia or able-ism is strictly forbidden.
+- Participants found breaking the rules of the safety document can be asked to leave the venue and larp immediately or have their play restricted depending on the severity of the rule breaking. The final decision is made by the organizers. 
+- If a fellow player brings a situation to light where they have felt insecure/violated, listen. Offer a hug (ask, wait for consent), a warm beverage or some seclusion. Help them to get to the security host.
