@@ -22,17 +22,17 @@ image:
 
 Coven takes place in a newly, rather unwillingly, formed coven of witches: present day, Sweden. It's about cool powers; the witches that wield them, and the people trying to kill them for it. 
 
-A chance to: indulge in highschool clichés, make friends, be betrayed, fall in love, accidentaly kill someone and desperately try to ressurect them before the Surpreme Witch finds out...or simply cover your tracks. 
+A chance to: indulge in highschool tropes, make friends, be betrayed, fall in love, accidentaly kill someone and desperately try to ressurect them before the Surpreme Witch finds out...or simply cover your tracks. 
 
 The mood is tense. The future is unsure, and you have either way too little power or too much to be in control. You have to make friends. You have to trust. You have to help each other or you'll most probably die one day soon, far too soon for your taste. 
 
-But first you have to work out where the biggest threat lies: outside your soven or within it?
+But first you have to work out where the biggest threat lies: outside your coven or within it?
 
 ## Inspiration
 
 The fiction is mostly inspired by the show "American Horror Story: Coven". You can watch this is if you want, but it is far from neccessary in order to participate in the LARP. The sexism, racism and cultural appropriation has been removed as thoroughly as we can. 
 
-Another inspiration is the Swedish book "Cirkeln". Read or watch this if you want more of an insight the types of tropes we will be using in our character creation. It is also a lot more similar to the mood we are trying to achieve.
+Another inspiration is the Swedish book "Cirkeln". Read or watch this if you want more of an insight into some of the archetypes we will be using in our character creation. It is also a lot more similar to the mood we are trying to achieve.
 
 ## Contents Warning
 
