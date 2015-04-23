@@ -83,4 +83,4 @@ As a participant we expect of you:
 - All other play based on violence needs to be agreed upon in advance (with explicit consent). You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
 - Play or scenes based on sexism, racism, hbtq-phobia or able-ism is strictly forbidden.
 - Participants found breaking the rules of the safety document can be asked to leave the venue and larp immediately or have their play restricted depending on the severity of the rule breaking. The final decision is made by the organizers. 
-- If a fellow player brings a situation to light where they have felt insecure/violated, listen. Offer a hug (ask, wait for consent), a warm beverage or some seclusion. Help them to get to the security host.
+- If a fellow player brings a situation to light where they have felt insecure, violated, or in any other way mistreated: listen. Ask what the player needs from you. You may want to offer a hug (ask, then wait for consent). Help them to get to the security host.
