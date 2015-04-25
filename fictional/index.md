@@ -30,6 +30,12 @@ This is the situation now. Newly rescued witches arrive at a Swedish coven to di
 
 ## The Dahlin Coven
 
+Alma Dahlin built the first house in Frustunaby near the end of the seventeen hundreds. She arrived with her household and several young female wards, much to the excitement of the small community. However since the Dahlins and their wards kept mostly to themselves the rumours soon began to spread about Frustunaby being a place for pregnant young women to give birth to their unwanted bastards. It was the local church who stepped in and refuted the rumours. Afterwards the Dahlins, their wards, and their whole household would be present at church every sunday and even received several sermons dedicated to them. Generous donations had also begun to be received by the church around this time. The warm relationship between Frustunaby and the church continued even after the death of Alma and her husband.
+
+The coven posed as many different types of retreats; schools and even an orphanage through it’s history. However it was in 1925 when the Countess Ebba von Eckermann, a former member of the Frustunaby Girls Outdoors Club, donated Frustunaby to the Girl Guides Scout Association that a permanent cover was created and remains to this day. Many other covens began to follow in their lead and it became such a popular cover that scouts terminology became part of the coven lingo. 
+
+It wasn’t until the merging of the Girl Guides Scout Association and the Swedish Scout Association in 1960 that boys began to be allowed to join the Dahlin coven.
+
 ## The Five Powers
 
 As the Covens died out, and witches stopped using their gifts, the powers got weaker and the two most rare powers, Pyrokinesis and Telekinesis disappeared altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transferal are the remaining active powers. However the weaker versions of these powers are all that can be accessed today.
