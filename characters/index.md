@@ -18,7 +18,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## The Supreme and her Seconds
+## The Supreme
 
 The Supreme Witch is the head of the coven; each coven has their own Supreme. 
 
