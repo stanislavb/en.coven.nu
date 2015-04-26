@@ -22,7 +22,7 @@ image:
 
 Witches have always existed, but they have mostly kept to themselves and avoided discovery by the outside world. They existed in covens, a group of witches bonded together in a specific place. These covens have been their home, refuge and community. 
 
-Witch hunters have always existed. Under the cover of large organizations they have tracked and killed witches for generations. Over the last thirty years they have suceeded in exterminating coven after coven. The few covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have nowhere else to go. Even their greatest authority, the Witches' Council, seemed to have given up. 
+Witch hunters have always existed. Under the cover of large organizations they have tracked and killed witches for generations. Over the last thirty years they have succeeded in exterminating coven after coven. The few covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have nowhere else to go. Even their greatest authority, the Witches' Council, seemed to have given up. 
 
 Then suddenly something changed. Witch hunters stopped focusing on covens as their main target and started going after individual witches. At first previous coven members, but then they started targeting anyone with magical potential, even before many of them were aware of their own power. The Witches' Council was forced to step in; rescuing young witches and sending them to the few covens still undiscovered by the witch hunters. 
 
@@ -84,7 +84,7 @@ It is harder for a weaker witch to break the Transfero by a stronger witch, but 
 
 ## The Seven Wonders
 
-Every Supreme of every coven has gone through the trial of The Seven Wonders and proven themselves to be the most powerful witch in their coven: able to command all seven powers of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the revelation of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no knowledge avaliable to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in death. 
+Every Supreme of every coven has gone through the trial of The Seven Wonders and proven themselves to be the most powerful witch in their coven: able to command all seven powers of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the revelation of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no knowledge available to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in death. 
 
 ## Rituals and Crystals
 
