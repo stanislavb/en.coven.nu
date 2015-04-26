@@ -48,14 +48,18 @@ There exists a strict hierarchy within a Coven. Even though only the Supreme and
 
 ## The Household
 
-The household includes the cooks and the staff. Most of them have been a part of the Dahlin household from the start. 
+The household includes the cooks and the staff. Most of them have been a part of the Dahlin household for many years. 
 
-*The household is made up of both players and NPCs.*
+*The household is made up of the organizers and their helpers.*
 
 ## Friends & Family
 
-In your character description you will find that some of the people in your characters life have been mentioned. We strongly encourage you to invite people to play either these roles or others which you feel would benefit your character. 
+In your character description you will find that some of the people in your characters life may have been mentioned. Since the LARP is set in the present time you will be able to phone some these characters, if you wish, during the LARP. We strongly encourage you to invite people to play either these roles, or others which you feel would benefit your character. We will also have a list of available players who wish to be phone contacts during the larp.
+
+*Friends and family are played by people you invite yourself or that have been provided by us at your request.*
 
 ## The Witch Hunters
+
+This is a team assembled and sent out by the Swedish branch of the witch hunters. Many of them have worked together before and they are all related somewhere down the line. The duty of hunting and exterminating witches is a family one.
 
 *NPC group.*
