@@ -26,31 +26,31 @@ To become the Supreme of a coven you must pass the trial of The Seven Wonders. T
 
 The Supreme is not just the Coven leader; their attitude, morals and ethics affects the whole Coven and can make it stronger or weaker, righteous or criminal. The Supremes only answers to The Witch’s Council.
 
-*There will be one acting Supreme at the Dahlin Coven. This role will have additional responsibilities during the larp and be responsible for holding some lessons.*
+*There will be one acting Supreme at the Dahlin Coven. This role will have additional responsibilities during the larp and be responsible for holding some lessons. This role will be casted.*
 
 ## The Seconds
 
-The Seconds are the highest ranking witches under the Supreme. They were most often the other candidates in the trial where the reigning Supreme was chosen. They assist the Supreme and are her right hand in all manners concerning the Coven. Like the Supreme, the Seconds have a huge influence on the coven; usually in charge of teaching the other witches they enforce the traditions, morals and ethics of the Supreme. And, at their own risk, maybe even try to push their own.
+The Seconds are the highest ranking witches under the Supreme. They are most often the other top candidates from the trial where the reigning Supreme was chosen. They assist the Supreme and are her right hand in all manners concerning the Coven. Like the Supreme, the Seconds have a huge influence on the coven; usually in charge of teaching the other witches they enforce the traditions, morals and ethics of the Supreme. And, at their own risk, maybe even try to push their own.
 
-*There are two Seconds at the Dahlin Coven. These roles will have additional responsibilities during the larp and be responsible for holding some lessons.*
+*There are two Seconds at the Dahlin Coven. These roles will have additional responsibilities during the larp and be responsible for holding some lessons. These roles will be casted.*
 
 ## The Witches
 
 Witches develop their first power around puberty. Mishaps which foreshadow a later power have however been known to occur earlier; suggesting that the power is dormant in the body until puberty activates it. It is not unusual for it to be very weak in the beginning or to mutate into a more powerful form as the witch grows. So unless the power is particularly strong or traumatic, most witches only start to become aware of their own power in their late teens. At that point a second power might even have begun developing.
 
-Most witches only ever develop one to three powers; normally each one is consecutively weaker. A Coven helps a young witch to steer, amplify and even develop new powers. Without a Coven the powers can be hard to control or to understand at all. 
+Most witches only ever develop one to three powers; normally each one is consecutively weaker. A good coven helps a young witch to steer, amplify and even develop new powers. Without a coven the powers can be hard to control or to understand at all. 
 
-Once initiated into a Coven you belong to it until you die, even if you leave you are still seen as answerable to your Supreme. The only exception being if your Supreme has died and your Coven has ceased to be. In these times most witches that do not want to integrate into society, but have been left Covenless, join together and try to form a new Coven or join with a dying Coven to try to revive it. 
+Once initiated into a coven you belong to it until you die, even if you leave you are still seen as answerable to your Supreme. The only exception being if your Supreme has died and your coven has ceased to be. In these times most witches that do not want to integrate into society, but have been left covenless, join together and try to form a new coven or join with a dying coven and try to revive it. 
 
-There exists a strict hierarchy within a Coven. Even though only the Supreme and the Maidens receive an official title the timing which you entered a Coven is reflected in your status. New arrivals are often referred to as juniors and the older members are their seniors. Disrespecting the hierarchy can have dire consequences. Maidens usually leave punishment of juniors up to the seniors.
+There exists a strict hierarchy within a coven. Even though only the Supreme and the Seconds receive an official title the timing which you entered a coven is reflected in your status. New arrivals are often referred to as juniors and the older members are their seniors. Disrespecting the hierarchy can have dire consequences. Seconds usually leave punishment of juniors up to the seniors.
 
-*The majority of roles at this larp will be juniors, newly arrived. Some will be seniors and these roles will have some additional responsibilities.*
+*The majority of roles at this larp will be juniors, newly arrived. Some will be seniors and these roles will have some additional responsibilities. Some of the seniors will be casted, all the juniors will be lotted.*
 
 ## The Household
 
 The household includes the cooks and the staff. Most of them have been a part of the Dahlin household for many years. 
 
-*The household is made up of the organizers and their helpers.*
+*The household is made up of the organizers and their assistants.*
 
 ## Friends & Family
 
