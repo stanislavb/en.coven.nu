@@ -26,7 +26,13 @@ There are different interpretations of all meta-techniques depending on the coun
 
 ## The Powers
 
-to be translated
+Almost everything to do with using and receiving your powers will involve meta techniques.
+
+The beads we use to symbolise the powers are “invisible” ingame as are the letters you receive when new powers are lotted out. They are a reminders for you and other players of which powers that exists and who has them.
+
+When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist IN, your character doesn’t actually say it, only you as the player. Alma is a meta keyword to catch the other players attention and make them aware that they need to listen to what you are about to say. 
+
+It is also an OFF indicator that your character is actively trying to use their power. You can also play on your character using their powers by accident or trying and failing. If you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it failed completely, they also choose whether their character noticed your characters attempt or not.
 
 ## The Lottery System
 
