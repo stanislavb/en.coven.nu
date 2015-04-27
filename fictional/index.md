@@ -84,7 +84,13 @@ It is harder for a weaker witch to break the Transfero by a stronger witch, but 
 
 ## The Seven Wonders
 
-Every Supreme of every coven has gone through the trial of The Seven Wonders and proven themselves to be the most powerful witch in their coven: able to command all seven powers of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the revelation of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no knowledge available to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in death. 
+Every Supreme of every coven has gone through the The Seven Trials and proven themselves to be the most powerful witch in their coven: able to command all seven powers of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. 
+
+You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the revelation of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no knowledge available to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in death.
+
+It has previously been the tradition in covens for the Supreme to invite witches from the coven to partake in The Seven Trials when it is time for a new Supreme to replace the old. These days it is not unusual for witches to volunteer themselves or even to be forced by their coven to partake.
+
+When a new Supreme appears in a generation they begin to draw their power from the old Supreme whom begins to weaken. This is how a reigning Supreme knows when it is time to hold the trials and welcome a new, stronger Supreme. It has happened that a Supreme, unwilling to let go of their position and power has sought out the potential new Supremes and killed them before the trail can take place. This strategy is also known to be used amongst potential candidates for the trial.
 
 ## Rituals and Crystals
 
