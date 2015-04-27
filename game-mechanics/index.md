@@ -26,6 +26,8 @@ There are different interpretations of all meta-techniques depending on the coun
 
 ## The Powers
 
+to be translated
+
 ## The Lottery System
 
 Each player will begin with one to three out of the five powers. During the game the players can communicate with a member of the household about receiving a new power. The lotto system consists of pulling a coloured bead out of a bag; each power is represented by a colour. Once a new power has been chosen the player receives an envelope in the colour of their new power containing a short text with a memory of the power and a reminder of how the power works in game. 
@@ -36,19 +38,6 @@ The new power does not have to be played on straight away. The player can even c
 
 A player can choose to receive no new powers at all or all five powers, at any pace they choose. You must have at least three powers by the afternoon of the second day if you wish to enter into The Seven Wonders.
 
-## Red, Green, Yellow
+## Fuck, Easy and Tap Out
 
-Also known as the Stoplight System this meta-technique is used to gage the bounderies of the player in a scene before taking action. 
-
-Red: for stop this scene. It is not the same as break or cut. The players do not need to go out of character. They simply end the scene and do something else.
-
-Green: for yes or please escalate. 
-
-Yellow: here's fine but no further. Keep this level but do not escalate.
-
-An example of the system in use would be a bullying scene where one player is dominating the other: 
-The dominant player might get the idea that it would suit the scene to become more physical and can communicate this by for example pushing or grabbing the other player; thereby indicating the direction the dominant player is trying to take the scene. The dominant player can now ask if the other player is comfortable with this new direction by asking if it is: "Green?". 
-
-In reply the other player can say "Green" to mean 'yes I think this is a good idea and I'm ok with us escalating to controlled physical violence', "Red" to say 'no I think this scene should come to an end now' or "Yellow" to say 'I'm fine with what we were doing, I don't feel comfortable escalating it'.
-
-In this example the dominant player in the scene led, but it can just as easily be used by the other player in the scene. You also do not have to be asked in order to use the system. You can use Red, Green, Yellow to indicate how you feel in a scene even without being asked; to show your bounderies in the scene or to give your consent.
+To be completed.
