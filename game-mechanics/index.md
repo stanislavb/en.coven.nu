@@ -46,4 +46,28 @@ A player can choose to receive no new powers at all or all five powers, at any p
 
 ## Fuck, Easy and Tap Out
 
-To be completed.
+Escalation:
+
+If you wish to escalate a scene during the game you can signal this desire to the other player by using the word “Fuck” by itself or in a sentence. I.e. “No, I won’t go with you. Fuck off!” is an invitation to the other player. It is always a good idea to also show what kind of escalation you mean when you extend the invitation. 
+
+For example, if two players are having a fight and this has involved only shouting, but one player feels that it would be a good idea to become more physical this player could gently push the other player. Use the invitation to escalate play and await the reply before continuing.
+
+The other player can now signal that they accept this offer or invitation to escalate by replying with “Fuck”. I.e. “Yes, you fucking are!” would be a possible reply to show that the escalation is accepted. 
+
+De-escalation:
+
+If a player does not want the scene to escalate but are comfortable continuing the scene at the level they currently are at they can use the de-escalation word “Easy”. I.e. “Ok, take it easy!”. This turns down the invitation to escalate but does not end the scene. 
+
+In the previous example this would mean that the player is comfortable with the shouting but does not want any physical play at this time.
+
+The de-escalation word is not only used as a reply to an escalation request. If a player wants a scene to calm down, but not to end completely, they can inform the other player/s of this by using “Easy”. 
+
+Tap Out:
+
+Sometimes we just don’t want a certain type of play or a scene gets too much for us and we want out fast. This doesn’t always mean that we want or need to go OFF. This is when we can use “Tap, Tap” you either physically tap the player twice, or more if they do not notice at first. You can also say “Tap, tap” to the player. This means stop what you are doing or about to do and let’s leave this scene now. 
+
+If a player uses “Tap, tap” with you: first stop what you are doing. Now comes common sense, have you just done an intense scene together or do you know that the player has just come from an intense scene? Do they look distressed? Overtired? Hungry? Even though the player used “Tap,tap” not “OFF”; if you are in any way unsure about their well being, take a minute to go OFF. Ask them if they are alright and if they need anything from you. We would much rather that you break immersion for two seconds to check if a person is ok, then ignore potential signs out of fear of breaking immersion for other players. 
+
+OFF:
+
+OFF is always OFF. You break the game or scene and discuss the problem. If a player uses “OFF” with you, listen to what they have to say. Ask them what they need from you. Help them get to a safety host if necessary. 
