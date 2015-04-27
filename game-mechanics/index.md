@@ -24,6 +24,8 @@ These are ways in which we can communicate between players in-game without havin
 
 There are different interpretations of all meta-techniques depending on the country or even the community they are being used in. Because of this please read our interpretations carefully even if you feel you are already familiar with these techniques. These are the versions we will use at our LARP.
 
+## The Powers
+
 ## The Lottery System
 
 Each player will begin with one to three out of the five powers. During the game the players can communicate with a member of the household about receiving a new power. The lotto system consists of pulling a coloured bead out of a bag; each power is represented by a colour. Once a new power has been chosen the player receives an envelope in the colour of their new power containing a short text with a memory of the power and a reminder of how the power works in game. 
