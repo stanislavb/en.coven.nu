@@ -90,15 +90,17 @@ The power to read another's thoughts. It originates from the power: Clairvoyance
 
 Eye contact with the victim is always required. Clairvoyance is also much harder to break if there is skin contact between the witch and the victim. The words “Alma, Clairvoyance” are spoken and the victim will start speaking their thoughts out loud; sometimes they do not notice themselves doing this, sometimes they do but cannot stop themselves.
 
-As with Concilium the strength of the witch versus the strength of the victim is relevant; a stronger witch might be able to resist or break the Clairvoyance of a weaker witch. A weaker witch might break the spell by managing to break eye contact. 
+As with Concilium the strength of the witch versus the strength of the victim is relevant; a stronger witch might be able to resist or break the Clairvoyance of a weaker witch. A weaker witch might break the spell by managing to break eye contact.  A third person can assist in breaking the eye contact between the witch and their victim.
 
 ### Transfero: Shifting injury to others
 
-The power to transfer pain and injury onto others. It originates from the wonder Transmutation.
+The power to transfer pain and injury onto others. It originates from the power: Transmutation. 
 
-Transfero requires that the witch has eye contact with their victim throughout the Transfero and loss of eye contact breaks the Transfero, but will not undo the damage already transferred. However it is very difficult to break eye contact once Transfero. The witch establishes eye contact, says the words "Alma, Transfero" and then causes damage to their own body in some way i.e. slaps their own face or stabs a fork in their hand. The victim feels the pain in the witch's place and will also sustain the damage to their body even after the Transfero is broken. 
+Transfero requires that the witch has eye contact with their victim throughout the transfer. Loss of eye contact breaks the Transfero, but will not undo the damage already transferred. However it is very difficult to break eye contact once the transferal has begun. 
 
-It is harder for a weaker witch to break the Transfero by a stronger witch, but the Transfero can be broken by a third person coming between the eye contact between the witch and their victim.
+The witch establishes eye contact, says the words: “Alma, Transfero” and then causes damage to their own body in some way i.e. slaps their own face or stabs a fork in their hand. The victim feels the pain in the witch’s place and will also sustain damage to their body.
+
+It is harder for a weaker witch to break the Transfero of a stronger witch. Transfero can also be broken by a third person helping to break the eye contact between the witch and their victim.
 
 ## The Seven Wonders
 
