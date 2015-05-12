@@ -18,6 +18,8 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
+There are different definitions of what a Game-Mechanic is and what a Meta-Technique is. When we talk about game-mechanics for this LARP we will use it describe the interactive mechanics the player must use in order to achieve something in-game: i.e. the lottery system used to gain new powers. We will also use it as an umbrella term to describe all of the following.
+
 ## Meta-techniques
 
 These are ways in which we can communicate between players in-game without having to stop the game completely and break character. As a player if you see or hear these techniques and they are not being directed to you personally, you most often ignore them, they do not exist in the in-game world.
