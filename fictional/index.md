@@ -54,21 +54,23 @@ Legends exist from a time when there were witches so powerful that they could bu
 
 ### Mortis: Touch of Death
 
-The power to take life is a volatile power and very hard to control. It originates from the original power: Descensum.
+The power to take life is a volatile power and very hard to control. It originates from the power: Descensum.
 
 Mortis requires skin to skin contact: the words “Alma, Mortis” are spoken and the victim will feel their body shut down step by step as they die. The death takes as long to complete as the skin contact remains. Meaning that you can kill slowly or quickly depending on touch.
 
 Mortis manifests differently depending on the witch; some can only use it when taken over by a strong emotion, some have no control at all and use it without meaning to, some can use it at will but require more skin contact to do so etc.
 
-### Vitalis: Power of Resurrection
+### Vitalis: Power of Resurrection, Kiss of life, Breath of life
 
-The power to resurrect the dead is, like Mortis, difficult to perfect and requires much practice. It originates from the wonder Vitalum Vitalis.
+The power to resurrect the dead is difficult to perfect and requires practice. It originates from the power: Vitalum Vitalis.
 
-Vitalis doesn’t require skin to skin contact but some witches find this gives better results. The words "Alma, Vitalis" are spoken before gently blowing on the victims face. It can take a little time for the subject to regain the full function of their body after being resurrection.
+Vitalis requires skin to skin contact: the words “Alma, Vitalis” are spoken before gently blowing life back into the victim, most often through the nose or mouth, some witches kiss instead. 
 
-Mastering Vitalis successfully is no easy feat and the side effects of being raised from the dead can be dire if it is not done correctly. Zombification, loss of speech or sight can be some of the results of an unfinished or badly executed Vitalis. Luckily it can often be corrected by more powerful Vitalis.
+Mastering Vitalis successfully is no easy feat and the side effects of being raised from the dead can be dire if it is not done correctly. Brain damage, loss of speech, sight or use of limbs can be some of the results of an unfinished or badly executed Vitalis. Luckily it can often be corrected by more powerful Vitalis. 
 
-The after effects of being raised back from the dead can give the subject a euphoric high comparable with some drugs; this has resulted in some witches using Mortis and Vitalis on each other to get a kick. There are of course many risks. The longer the subject is dead the better the high, but a stronger witch is needed in order to resurrect fully. 
+Vitalis can also be used to heal wounds and repair damage to the body of the living.
+
+One of the side effects of being raised back from the dead is the euphoric rush of life. This has resulted in some witches using Mortis and Vitalis on each other to get a kick. There are of course many risks. The longer the subject is dead the better the high may be, but strong witch is also needed complete the Vitalis. Not all trips are pleasant.
 
 ### Concilium: Mind Control
 
