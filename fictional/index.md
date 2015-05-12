@@ -54,11 +54,11 @@ Legends exist from a time when there were witches so powerful that they could bu
 
 ### Mortis: Touch of Death
 
-The power to take life is a very volatile power and very hard to control. It originates from the wonder Descensum. 
+The power to take life is a volatile power and very hard to control. It originates from the original power: Descensum.
 
-Mortis requires skin to skin contact with the victim; the words "Alma, Mortis" are spoken and the victim will immediately feel their body begin to shut down as die slowly. 
+Mortis requires skin to skin contact: the words “Alma, Mortis” are spoken and the victim will feel their body shut down step by step as they die. The death takes as long to complete as the skin contact remains. Meaning that you can kill slowly or quickly depending on touch.
 
-Mortis manifests differently depending on the witch casting it; some can only cast it when taken over by a strong emotion, some have no control at all and cast it without intention, some can cast it at will but require more skin contact to do so. 
+Mortis manifests differently depending on the witch; some can only use it when taken over by a strong emotion, some have no control at all and use it without meaning to, some can use it at will but require more skin contact to do so etc.
 
 ### Vitalis: Power of Resurrection
 
