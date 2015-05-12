@@ -26,9 +26,18 @@ Trains go regularly.
 
 ## Time & Dates
 
-Swedish Round: 18th-20th September.
+English Round in 2-4 October.
 
-English Round: 2nd-4th October.
+Game starts Friday 2nd at 10:00.  
+Game ends Sunday 4th between 13.00-14.00.
+
+Tickets:
+
+Sponsor
+
+Base price
+
+Student/unemployed
 
 ## Workshops
 
