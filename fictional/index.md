@@ -46,7 +46,11 @@ The Dahlin Coven was like most covens today: on the brink of extinction. The num
 
 ## The Five Powers
 
-As the Covens died out, and witches stopped using their gifts, the powers got weaker and the two most rare powers, Pyrokinesis and Telekinesis disappeared altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transferal are the remaining active powers. However the weaker versions of these powers are all that can be accessed today.
+As the covens began to die out, and witches stopped using their gifts, the powers got weaker over all. The two rarest powers; Pyrokinesis and Telekinesis disappeared almost all altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today. 
+
+Legends exist from a time when there were witches so powerful that they could burn down a forest with one look and control whole villages with their thoughts. If this is true or not is impossible to know, but that witches were once much more powerful than today is undeniable.
+
+Players have a lot of personal input in how they want to play on their powers and how powerful they want to be. This is something we trust the players with. We would like to see that all players facilitate their co-players as much as possible. But it is always possible to avoid being bewitched and to blame this on weak powers or a sudden powerful defence. This exists so that players do not feel forced to play on things they are uncomfortable with OFF.
 
 ### Mortis: Touch of Death
 
