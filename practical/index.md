@@ -45,6 +45,7 @@ A half day workshop will take place the first day of the LARP. This is obligator
 You will be expected to have learnt the five powers before the workshop. 
 
 The workshop will include:
+
  - Character development
  - Relationship building
  - Safety techniques and key words
