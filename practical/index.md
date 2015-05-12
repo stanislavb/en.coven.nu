@@ -24,7 +24,7 @@ Frustunaby, 20 min walk from Gnesta Station.
 One hour drive from Stockholm Center.  
 Trains go regularly.
 
-## Time & Dates
+## Date, Times & Prices
 
 English Round in 2-4 October.
 
