@@ -1,4 +1,4 @@
-[![Build status](https://travis-ci.org/stanislavb/en.coven.nu.svg?branch=master)](https://travis-ci.org/stanislavb/www.coven.nu)
+[![Build status](https://travis-ci.org/stanislavb/en.coven.nu.svg?branch=master)](https://travis-ci.org/stanislavb/en.coven.nu)
 
 # Coven
 
