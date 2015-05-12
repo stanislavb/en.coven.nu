@@ -35,11 +35,14 @@ This is the situation now. Newly rescued witches arrive at a Swedish coven to di
 
 ## The Dahlin Coven
 
-Alma Dahlin built the first house in Frustunaby near the end of the seventeen hundreds. She arrived with her household and several young female wards, much to the excitement of the small community. However since the Dahlins and their wards kept mostly to themselves the rumours soon began to spread about Frustunaby being a place for pregnant young women to give birth to their unwanted bastards. It was the local church who stepped in and refuted the rumours. Afterwards the Dahlins, their wards, and their whole household would be present at church every sunday and even received several sermons dedicated to them. Generous donations had also begun to be received by the church around this time. The warm relationship between Frustunaby and the church continued even after the death of Alma and her husband.
+Alma Dahlin built the first house in Frustunaby near the end of the seventeen hundreds. She arrived with her household and several young female wards, much to the excitement of the small community. However since the Dahlin’s and their wards kept mostly to themselves the rumours soon began to spread about Frustunaby being a place for pregnant young ladies to give birth to their unwanted bastards. 
 
-The coven posed as many different types of retreats; schools and even an orphanage through it’s history. However it was in 1925 when the Countess Ebba von Eckermann, a former member of the Frustunaby Girls Outdoors Club, donated Frustunaby to the Girl Guides Scout Association that a permanent cover was created and remains to this day. Many other covens began to follow in their lead and it became such a popular cover that scouts terminology became part of the coven lingo. 
+It was the local church who stepped in and refuted the rumours. The Dahlin’s, their wards, and their whole household would be present at church every sunday and even received several sermons dedicated to them. Generous donations had also begun to be received by the church around this time. The close relationship between the Dahlin Coven and the local church continued even after the death of Alma and her husband.
 
-It wasn’t until the merging of the Girl Guides Scout Association and the Swedish Scout Association in 1960 that boys began to be allowed to join the Dahlin coven.
+The coven has posed as several different types of retreats; schools, and even an orphanage through its history. However it was in 1925 when the Countess Ebba von Eckermann, a former member of the Frustunaby Girls Outdoor Club, donated Frustunaby to the Girl Guides Association that a permanent cover was created and remains to this day. 
+It wasn’t until the merging of the Girl Guides Association with the Swedish Scout Association in 1960 that boys began to join the Dahlin Coven.
+
+The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other obsolete covens over the last year was promising, and the Seven Trials was held. However it quickly became clear that no new supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
 
 ## The Five Powers
 
