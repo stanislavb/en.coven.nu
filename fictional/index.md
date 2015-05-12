@@ -84,13 +84,13 @@ A good indicator that Concilium has been used is the sharp but temporary headach
 
 Prolonged use of Concilium will also have a physical effect on the witch casting it. The negative side effect vary from witch to witch and can include; nosebleeds, headaches, irritability, increased hunger and fatigue.
 
-### Clarvoyance: Mind Reading
+### Clairvoyance: Mind Reading
 
-The power to read anothers thoughts. It originates from the wonder Clarvoyance.
+The power to read another's thoughts. It originates from the power: Clairvoyance.
 
-Clarvoyance and Concilium have a lot of similarities; both vary slightly depending on the ability and strength of the witch and both require eye contact with the victim. Clarvoyance however is much harder to break if there is also skin contact between the witch and the victim. The words "Alma, Clarvoyance" are spoken and the victim will start speaking their thoughts aloud; sometimes they do not notice themselves doing this, sometimes they do but cannot stop themselves.
+Eye contact with the victim is always required. Clairvoyance is also much harder to break if there is skin contact between the witch and the victim. The words “Alma, Clairvoyance” are spoken and the victim will start speaking their thoughts out loud; sometimes they do not notice themselves doing this, sometimes they do but cannot stop themselves.
 
-As with Concilium the strength of the witch versus the strength of the victim is relevant; a stronger witch might be able to resist or break the Clarvoyance of a weaker witch. 
+As with Concilium the strength of the witch versus the strength of the victim is relevant; a stronger witch might be able to resist or break the Clairvoyance of a weaker witch. A weaker witch might break the spell by managing to break eye contact. 
 
 ### Transfero: Shifting injury to others
 
