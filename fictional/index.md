@@ -50,7 +50,7 @@ As the covens began to die out, and witches stopped using their gifts, the power
 
 Legends exist from a time when there were witches so powerful that they could burn down a forest with one look and control whole villages with their thoughts. If this is true or not is impossible to know, but that witches were once much more powerful than today is undeniable.
 
-Players have a lot of personal input in how they want to play on their powers and how powerful they want to be. This is something we trust the players with. We would like to see that all players facilitate their co-players as much as possible. But it is always possible to avoid being bewitched and to blame this on weak powers or a sudden powerful defence. This exists so that players do not feel forced to play on things they are uncomfortable with OFF.
+*Players have a lot of personal input into how they want to play on their powers and how powerful they want to be. This is something we trust you the player with. We would like to see that all players facilitate their co-players as much as possible. But it is always possible to avoid being bewitched and to blame this on weak powers or a sudden powerful defence. This exists so that players do not feel forced to play on things they are uncomfortable with OFF.*
 
 ### Mortis: Touch of Death
 
