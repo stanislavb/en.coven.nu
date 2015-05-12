@@ -41,7 +41,16 @@ Student/unemployed
 
 ## Workshops
 
-A half day workshop will take place the first day of the LARP. Obligatory.
+A half day workshop will take place the first day of the LARP. This is obligatory.  
+You will be expected to have learnt the five powers before the workshop. 
+
+The workshop will include:
+* Character development
+* Relationship building
+* Safety techniques and key words
+* Meta-techniques and Game Mechanics
+* The narrative plot and time plan
+* Getting into character
 
 ## What to bring with you
 
