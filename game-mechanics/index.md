@@ -31,7 +31,7 @@ The colour coded beads we use to symbolise the powers, for example, are “invis
 
 When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist IN, your character doesn’t actually say it, only you the player. “Alma, Mortis” is a meta-technique to catch the other players attention and make them aware that they need to listen to what you are about to say.
 
-“Alma, Mortis” is also an OFF indicator that your character is actively trying to use their power. You can therfore play on your character using their powers by accident or trying and failing: if you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it has failed completely. They can also choose whether their character noticed your characters attempt to use mortis on them or not.
+“Alma, Mortis” is also an OFF indicator that your character is actively trying to use their power. This also allows you to play on your character using their powers by accident or trying and failing: if you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it has failed completely. They can also choose whether their character noticed your characters attempt to use mortis on them or not.
 
 The meta words for the powers:
 
