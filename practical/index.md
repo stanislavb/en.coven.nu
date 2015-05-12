@@ -34,9 +34,7 @@ Game ends Sunday 4th between 13.00-14.00.
 Tickets:
 
 Sponsor
-
 Base price
-
 Student/unemployed
 
 ## Workshops
