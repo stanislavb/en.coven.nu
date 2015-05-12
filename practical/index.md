@@ -78,13 +78,13 @@ We the organizers promise you:
 
 As a participant we expect of you:
 
-- To contribute to an including and affirming atmosphere.
+- To contribute to an including and welcoming atmosphere.
 - To read and reflect on the information on the web site.
-- To keep up-to-date about new information in the facebook group. If you don’t have a facebook account, you need to create one or have regular contact with a friend who does. 
-- To ask questions, if you have them. The earlier we hear of your queeries, the bigger the chance that we can do something about answering them.
-- To show up at the specified check-in time.
-- To respect and follow rules and instructions from organizers.
-- To reflect upon and accept this simple fact: to attend a larp is like playing in an orchestra, not like going to the theatre. When you are registered and have payed your registration fee, we are counting on you. You are needed in the game and can not easily be replaced. (If an emergency occurs, contact the organizers as soon as possible).
+- To keep up-to-date about new information in the facebook group. If you don’t have a facebook account, you need to create one or have regular contact with a friend who does.
+- To ask questions, if you have them. The faster you bring the question to our attention, the bigger the chance that we can answer quickly and affect changes if necessary.
+- To show up at the specified check-in time, and keep to specified times in general.
+- To respect and follow the rules and instructions from organizers.
+- To reflect upon and accept this simple fact: to attend a larp is like playing in an orchestra, not like going to the theatre. When you are registered and have paid your registration fee, we are counting on you. You are needed in the game and can not easily be replaced. (If an emergency occurs, contact the organizers as soon as possible).
 
 ## Safety Agreement 
 
