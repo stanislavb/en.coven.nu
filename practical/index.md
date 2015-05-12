@@ -45,12 +45,12 @@ A half day workshop will take place the first day of the LARP. This is obligator
 You will be expected to have learnt the five powers before the workshop. 
 
 The workshop will include:
-- Character development
-- Relationship building
-- Safety techniques and key words
-- Meta-techniques and Game Mechanics
-- The narrative plot and time plan
-- Getting into character
+ - Character development
+ - Relationship building
+ - Safety techniques and key words
+ - Meta-techniques and Game Mechanics
+ - The narrative plot and time plan
+ - Getting into character
 
 ## What to bring with you
 
@@ -64,27 +64,25 @@ Acting Supreme, Seconds and Seniors: Your character has lived in the Dahlin Cove
 
 We the organizers promise you:
 
-We the organizers promise you:
-
-- That the information on the website will be the valid information for the LARP and that we will inform you of any changes we make.
-- That there will be areas at the venue where you can go off-game, rest and feel safe.
-- A thrilling LARP with elements of horror and action.
-- Facebook groups for social interaction before the event takes place.
-- A workshop including character building, meta-techniques and safe words.
-- A safety host, in a set location, whom you can always reach during the LARP.
-- Your own sleeping place in a dorm, indoors, and three warm meals per day.
-- That we take our responsibility as organizers seriously and always strive to give our players the support, safety and help they need, to the best of our abilities.
+ - That the information on the website will be the valid information for the LARP and that we will inform you of any changes we make.
+ - That there will be areas at the venue where you can go off-game, rest and feel safe.
+ - A thrilling LARP with elements of horror and action.
+ - Facebook groups for social interaction before the event takes place.
+ - A workshop including character building, meta-techniques and safe words.
+ - A safety host, in a set location, whom you can always reach during the LARP.
+ - Your own sleeping place in a dorm, indoors, and three warm meals per day.
+ - That we take our responsibility as organizers seriously and always strive to give our players the support, safety and help they need, to the best of our abilities.
 
 
 As a participant we expect of you:
 
-- To contribute to an including and welcoming atmosphere.
-- To read and reflect on the information on the web site.
-- To keep up-to-date about new information in the facebook group. If you don’t have a facebook account, you need to create one or have regular contact with a friend who does.
-- To ask questions, if you have them. The faster you bring the question to our attention, the bigger the chance that we can answer quickly and affect changes if necessary.
-- To show up at the specified check-in time, and keep to specified times in general.
-- To respect and follow the rules and instructions from organizers.
-- To reflect upon and accept this simple fact: to attend a larp is like playing in an orchestra, not like going to the theatre. When you are registered and have paid your registration fee, we are counting on you. You are needed in the game and can not easily be replaced. (If an emergency occurs, contact the organizers as soon as possible).
+ - To contribute to an including and welcoming atmosphere.
+ - To read and reflect on the information on the web site.
+ - To keep up-to-date about new information in the facebook group. If you don’t have a facebook account, you need to create one or have regular contact with a friend who does.
+ - To ask questions, if you have them. The faster you bring the question to our attention, the bigger the chance that we can answer quickly and affect changes if necessary.
+ - To show up at the specified check-in time, and keep to specified times in general.
+ - To respect and follow the rules and instructions from organizers.
+ - To reflect upon and accept this simple fact: to attend a larp is like playing in an orchestra, not like going to the theatre. When you are registered and have paid your registration fee, we are counting on you. You are needed in the game and can not easily be replaced. (If an emergency occurs, contact the organizers as soon as possible).
 
 ## Safety Agreement 
 
