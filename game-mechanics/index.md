@@ -22,9 +22,7 @@ There are different definitions of what a Game-Mechanic is and what a Meta-Techn
 
 ## Meta-techniques
 
-These are ways in which we can communicate between players in-game without having to stop the game completely and break character. As a player if you see or hear these techniques and they are not being directed to you personally, you most often ignore them, they do not exist in the in-game world.
-
-There are different interpretations of all meta-techniques depending on the country or even the community they are being used in. Because of this please read our interpretations carefully even if you feel you are already familiar with these techniques. These are the versions we will use at our LARP.
+These are ways in which we can communicate between players in-game without having to stop the game completely and break character. As a player if you see or hear these techniques and they are not being directed at you personally: you most often ignore them. They do not exist in the in-game world. The words used when casting our powers are an example of a meta-technique, as are the beads you will wear to show other players which powers you have.
 
 ## The Powers
 
