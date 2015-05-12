@@ -48,8 +48,8 @@ Another inspiration is the Swedish book “Cirkeln”. Now also a film. This is 
 
 ## Contents Warning
 
-This LARP will contain ingame elements of; horror, group pressure, aspects of bullying, violence and possibly some gore and blood. 
+This LARP will contain ingame elements of; horror, group pressure, bullying, violence and very likely some blood and gore.
 
-This LARP will not contain real alcohol, sex or drugs. 
+This LARP will not contain real alcohol, sex or drugs.
 
-For more infomation about well-being and safety at the LARP, see the participant contract and safety agreement under practical.
+For more information about well-being and safety at the LARP, see the participant contract and safety agreement under practical.
