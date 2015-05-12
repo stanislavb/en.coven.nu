@@ -54,7 +54,11 @@ The workshop will include:
 
 ## What to bring with you
 
-As your character you will only be expected to bring minimal bagage. Overnight gear such as toothbrushes, pyjamas, a towel etc is recommended and at least one change of black clothes is required. Beds with pillows and covers exist on site but you will be required to bring your own bed linen. Ear plugs are recommended.
+Juniors: As your character you have arrived at the coven the day of the LARP and will only be expected to bring minimal baggage. Overnight gear such as a toothbrush, pyjamas, towel etc is recommended and at least one change of black clothes is required. There are beds and bedding on site, you will need to bring your own bed linen however. 
+
+Ear plugs are recommended since you will be sleeping in dorms. 
+
+Acting Supreme, Seconds and Seniors: Your character has lived in the Dahlin Coven for at least a year. You have the same minimum gear expectations as the juniors but you may of course choose to bring more, to decorate your rooms etc. 
 
 ## Participant Contract
 
