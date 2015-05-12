@@ -74,11 +74,15 @@ One of the side effects of being raised back from the dead is the euphoric rush 
 
 ### Concilium: Mind Control
 
-The power to control another’s mind and by extension often their body. It originates from the wonder Concilium.
+The power to control another’s mind and body. It originates from the power: Concilium.
 
-Concilium varies slightly depending on the ability and strength of the witch. Eye contact with the victim is always required and the words "Alma, Concilium" are followed by instructions i.e. "Alma, Concilium. Slap yourself" or a more complex variant could be "Alma, Concilium: Go make me a cup of tea". The strength of the witch versus the strength of the victim is relevant when using Concilium, a stronger witch might be able to resist a Concilium by a weaker witch. Even a weaker witch might snap out of Concilium mid-tea brewing. Concilium might leave a victim feeling confused and disoriented or have them trapped, fully aware of their actions but unable to stop themselves. 
+Eye contact with the victim is always required: the words “Alma, Concilium” are followed by instructions i.e. “Alma, Concilium. Slap yourself” or a more complex variant would be “Alma, Concilium: Go make me a cup of tea”. 
 
-A good indicator that Concilium has been used is the sharp but temporary headache that often follows a longer Concilium exposure. If the victim is being exposed to Concilium repeatedly or has been under Concilium for some time this can even lead to migraines, nausea and vomiting. Prolonged use of Concilium will also have a physical effect on the witch casting it, the effect varies from witch to witch.
+The strength of the witch versus the strength of the victim is relevant when using Concilium, a stronger witch might be able to resist a Concilium by a weaker witch. Even a weaker witch might snap out of Concilium mid-tea brewing. Concilium might leave a victim feeling confused and disoriented or have them trapped, fully aware of their actions but unable to stop themselves.
+
+A good indicator that Concilium has been used is the sharp but temporary headache that often follows a longer Concilium exposure. If the victim is being exposed to Concilium repeatedly or has been under Concilium for some time this can even lead to migraines, nausea and vomiting. 
+
+Prolonged use of Concilium will also have a physical effect on the witch casting it. The negative side effect vary from witch to witch and can include; nosebleeds, headaches, irritability, increased hunger and fatigue.
 
 ### Clarvoyance: Mind Reading
 
