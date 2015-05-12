@@ -86,12 +86,12 @@ As a participant we expect of you:
 
 ## Safety Agreement 
 
-- Safety and break words on this larp are Green, Yellow and Red. 
-- Saying OFF is a possibility to cut the scene completely and go off-game. We encourage you to use all words if and whenever you feel they are needed during the game.
-- Safety and break words are to be respected without hesitation.
-- Scenes or play with a sexual under- or overtone between players need to be agreed upon in advance (with explicit consent). - You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
-- At this larp pushing (with open palms) and simple fastholding (hand on wrist/ancle) can occur. Gun replicas might be used as a visual display only. You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
-- All other play based on violence needs to be agreed upon in advance (with explicit consent). You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
-- Play or scenes based on sexism, racism, hbtq-phobia or able-ism is strictly forbidden.
-- Participants found breaking the rules of the safety document can be asked to leave the venue and larp immediately or have their play restricted depending on the severity of the rule breaking. The final decision is made by the organizers. 
-- If a fellow player brings a situation to light where they have felt insecure, violated, or in any other way mistreated: listen. Ask what the player needs from you. You may want to offer a hug (ask, then wait for consent). Help them to get to the security host.
+ - The safety system used at the LARP is called Fuck, Easy and Tap out. It is explained under Game Mechanics.
+ - Saying OFF cuts the scene and everyone involved goes off-game. We encourage you to use all safety words if and whenever you feel they are needed during the game.
+ - Safety words are to be respected without hesitation. We, the organizers, will always support the use of the safety words and failure to respect the use of safety words will have consequences.
+ - Scenes or play with a sexual under- or overtone between players need to be agreed upon in advance (with explicit consent). You are always welcome to speak to the safety host if you feel at all unsure or unsafe.
+ - At this larp pushing (with open palms) and mild restraint (hand on wrists/ankles) may occur. Gun replicas can come to be used, these will not be loaded OFF. If this makes you feel unsafe or uncomfortable, for any reason, you are always welcome to speak to the safety host. And remember that the safety words always apply.
+ - All other play based on violence needs to be agreed upon in advance (with explicit consent). Speak to the safety host if you feel at all unsure or unsafe.
+ - Play or scenes based on sexism, racism, hbtq-phobia or able-ism are strictly forbidden.
+ - Participants found breaking the rules of the safety document can be asked to leave the venue and LARP immediately or have their play restricted depending on the severity of the rule breaking. The final decision is made by the organizers.
+ - If a fellow player brings a situation to light where they have felt unsafe, violated, or in any other way mistreated: listen. Ask what the player needs from you. You may want to offer a hug (ask, then wait for consent). Help them to get to the security host.
