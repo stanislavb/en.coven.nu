@@ -20,7 +20,9 @@ image:
 
 ## Location
 
-Frustunaby, 20 min walk from Gnesta Station. One hour drive from Stockholm Center. Trains go regularly.
+Frustunaby, 20 min walk from Gnesta Station.  
+One hour drive from Stockholm Center.  
+Trains go regularly.
 
 ## Time & Dates
 
