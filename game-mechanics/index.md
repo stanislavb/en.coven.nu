@@ -26,13 +26,22 @@ These are ways in which we can communicate between players in-game without havin
 
 ## The Powers
 
-Almost everything to do with using and receiving your powers will involve meta techniques.
+Almost everything to do with using and receiving your powers will involve meta-techniques.
+The colour coded beads we use to symbolise the powers, for example, are “invisible” in-game. As are the letters you receive when your new power is lotted out. They are a reminders for you and other players of which powers that exists and who has them.
 
-The beads we use to symbolise the powers are “invisible” ingame as are the letters you receive when new powers are lotted out. They are a reminders for you and other players of which powers that exists and who has them.
+When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist IN, your character doesn’t actually say it, only you the player. “Alma, Mortis” is a meta-technique to catch the other players attention and make them aware that they need to listen to what you are about to say.
 
-When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist IN, your character doesn’t actually say it, only you as the player. Alma is a meta keyword to catch the other players attention and make them aware that they need to listen to what you are about to say. 
+“Alma, Mortis” is also an OFF indicator that your character is actively trying to use their power. You can therfore play on your character using their powers by accident or trying and failing: if you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it has failed completely. They can also choose whether their character noticed your characters attempt to use mortis on them or not.
 
-It is also an OFF indicator that your character is actively trying to use their power. You can also play on your character using their powers by accident or trying and failing. If you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it failed completely, they also choose whether their character noticed your characters attempt or not.
+The meta words for the powers:
+
+“Alma, Mortis”: for the touch of death.  
+“Alma, Vitalis”: to resurrect the dead or heal the living.  
+“Alma, Concilium”: for mind control.  
+“Alma, Clarvoyance”: for mind reading.  
+“Alma, Transfero”: to transfer your injury or emotions to another.  
+
+For more information on the five powers look under Fiction.
 
 ## The Lottery System
 
