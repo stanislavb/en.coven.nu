@@ -20,11 +20,16 @@ image:
 
 ## History
 
-Witches have always existed, but they have mostly kept to themselves and avoided discovery by the outside world. They existed in covens, a group of witches bonded together in a specific place. These covens have been their home, refuge and community. 
+Witches have always existed. They have always tried to keep themselves hidden and avoid discovery by the outside world. Most witches have lived in covens: a group of witches bonded together in a specific place and ruled by one witch: The Supreme. These covens have been their homes, refuge and community. 
 
-Witch hunters have always existed. Under the cover of large organizations they have tracked and killed witches for generations. Over the last thirty years they have succeeded in exterminating coven after coven. The few covens that remain are in hiding and many witches have renounced their powers and assimilated into the rest of society. The few Covens remaining are mostly resigned to their fate since they have nowhere else to go. Even their greatest authority, the Witches' Council, seemed to have given up. 
 
-Then suddenly something changed. Witch hunters stopped focusing on covens as their main target and started going after individual witches. At first previous coven members, but then they started targeting anyone with magical potential, even before many of them were aware of their own power. The Witches' Council was forced to step in; rescuing young witches and sending them to the few covens still undiscovered by the witch hunters. 
+Witch hunters have always existed as long as witches have. Under the cover of a variety of organizations they have tracked and killed witches for generations. The balance had always been pretty even, but over the last thirty years the witch hunters have succeeded in exterminating coven after coven. 
+
+The covens that remain have gone into hiding and many witches have renounced their powers and assimilated into the rest of society. The remaining covens are mostly resigned to their fate, most witches have nowhere else to go. Even their greatest authority the Witches’ Council, seemed to have given up.
+
+
+Then suddenly something changed. Witch hunters stopped focusing on covens and started hunting individual witches. At first previous coven members only, but then they started targeting anyone with magical potential. Even before many of them were aware of their own power. The Witches’ Council was forced to step in; rescuing young witches and sending them to the few covens still undiscovered by the witch hunters.
+
 
 This is the situation now. Newly rescued witches arrive at a Swedish coven to discover and learn to deal with their powers, each other, and the life threatening danger they all face.
 
