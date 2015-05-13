@@ -20,5 +20,6 @@ image:
 
 ## Sources
 Text source from:
-* http://nordiclarp.org/what-is-nordic-larp/
-* http://nordiclarp.org/wiki/Main_Page
+
+* [What is Nordic LARP?](http://nordiclarp.org/what-is-nordic-larp/)
+* [Nordic LARP Wiki](http://nordiclarp.org/wiki/Main_Page)
