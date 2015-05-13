@@ -26,9 +26,9 @@ kramdown:
 # Event info
 event:
   name: Coven
-  tagline: a witch LARP
+  tagline: "a witch <a href="/nordic-larp/">LARP</a>"
   logo: skull.jpg
-  description: "A Live Action Roleplaying event taking place near Stockholm 2-4 October 2015"
+  description: "A <a href="/nordic-larp/">Live Action Roleplaying event taking place near Stockholm 2-4 October 2015</a>"
   email: english@coven.nu
 #  twitter: CovenLARP
 #  facebook: CovenLARP
