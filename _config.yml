@@ -29,9 +29,9 @@ event:
   tagline: a witch LARP
   logo: skull.jpg
   description: "A Live Action Roleplaying event taking place near Stockholm 2-4 October 2015"
-  email: covenenglish@example.com
+  email: english@coven.nu
 #  twitter: CovenLARP
-  facebook: CovenLARP
+#  facebook: CovenLARP
   google:
     analytics: 
     verify: 
