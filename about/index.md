@@ -22,9 +22,9 @@ Coven takes place in a newly, rather unwillingly, formed coven of witches: prese
 
 It’s about cool powers; the witches that wield them, and the people trying to kill them for it.
 
-This LARP will be a chance to indulge in classic high school tropes, to make friends, be betrayed, fall in love and maybe even accidentally kill someone. Then desperately try to resurrect them before the Supreme Witch finds out…or simply cover your tracks.
+This LARP will be a chance to indulge in classic high school tropes, to make friends, be betrayed, fall in love and maybe even accidentally kill someone, then desperately try to resurrect them before the Supreme Witch finds out... or simply cover your tracks.
 
-The mood is tense. The future is unsure, and you have either way too little power or too much to be in control of your own destiny. You have to make friends. You have to trust. You have to help each other or you’ll most probably die soon, maybe sooner than you think.
+The mood is tense. The future is uncertain, and you have either way too little power or too much to be in control of your own destiny. You have to make friends. You have to trust. You have to help each other or you’ll most probably die soon, maybe sooner than you think.
 
 But first you have to work out where the biggest threat lies: outside your coven or within it?
 
@@ -42,7 +42,7 @@ We want to create a LARP which is accessible to both new and more experienced la
 
 ## Inspiration
 
-Our fiction is inspired by the show “American Horror Story: Coven”. You can watch this if you want, but it is not necessary in order to participate in the LARP. We have picked out what we believe to be the core of the series: horror, teenage angst, powers and tense character relationships.
+Our fiction is inspired by the show “American Horror Story: Coven”. You can watch this if you want, but it is not necessary in order to participate in the LARP. We have picked out what is the core of the series: horror, teenage angst, powers and tense character relationships.
 
 Another inspiration is the Swedish book “Cirkeln”. Now also a film. This is too is not necessary for you to read or watch. We are inspired by books use of stereotypical archetypes, that turn out to have much more complexity and depth. We take this with us in our character creation for “Coven”.
 
@@ -52,4 +52,4 @@ This LARP will contain ingame elements of; horror, group pressure, bullying, vio
 
 This LARP will not contain real alcohol, sex or drugs.
 
-For more information about well-being and safety at the LARP, see the participant contract and safety agreement under practical.
+For more information about well-being and safety at the LARP, see the participant contract and safety agreement under [practical](/practical/).
