@@ -21,21 +21,21 @@ image:
 ## Location
 
 Frustunaby, 20 min walk from Gnesta Station.  
-One hour drive from Stockholm Center.  
-Trains go regularly.
+Trains go regularly.  
+One hour drive from Stockholm center.
 
-## Date, Times & Prices
+## Date & Time
 
-English Round in 2-4 October.
+English round 2-4 October.
 
 Game starts Friday 2nd at 10:00.  
 Game ends Sunday 4th between 13.00-14.00.
 
-Tickets:
+## Ticket price
 
-Sponsor
-Base price
-Student/unemployed
+- Sponsor: 
+- Base price: 
+- Student/unemployed: 
 
 ## Workshops
 
@@ -69,7 +69,7 @@ We the organizers promise you:
  - Facebook groups for social interaction before the event takes place.
  - A workshop including character building, meta-techniques and safe words.
  - A safety host, in a set location, whom you can always reach during the LARP.
- - Your own sleeping place in a dorm, indoors, and three warm meals per day.
+ - Your own sleeping place in a dorm, indoors, and three meals per day.
  - That we take our responsibility as organizers seriously and always strive to give our players the support, safety and help they need, to the best of our abilities.
 
 
@@ -85,7 +85,7 @@ As a participant we expect of you:
 
 ## Safety Agreement 
 
- - The safety system used at the LARP is called Fuck, Easy and Tap out. It is explained under Game Mechanics.
+ - The safety system used at the LARP is called Fuck, Easy and Tap out. It is explained under [Game Mechanics](/game-mechanics/).
  - Saying OFF cuts the scene and everyone involved goes off-game. We encourage you to use all safety words if and whenever you feel they are needed during the game.
  - Safety words are to be respected without hesitation. We, the organizers, will always support the use of the safety words and failure to respect the use of safety words will have consequences.
  - Scenes or play with a sexual under- or overtone between players need to be agreed upon in advance (with explicit consent). You are always welcome to speak to the safety host if you feel at all unsure or unsafe.

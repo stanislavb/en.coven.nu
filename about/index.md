@@ -20,7 +20,7 @@ image:
 
 Coven takes place in a newly, rather unwillingly, formed coven of witches: present day, Sweden. 
 
-It’s about cool powers; the witches that wield them, and the people trying to kill them for it.
+It’s about cool powers, the witches that wield them, and the people trying to kill them for it.
 
 This LARP will be a chance to indulge in classic high school tropes, to make friends, be betrayed, fall in love and maybe even accidentally kill someone, then desperately try to resurrect them before the Supreme Witch finds out... or simply cover your tracks.
 
@@ -36,7 +36,9 @@ This is a Nordic LARP: it will focus heavily on the relationship between charact
 
 It is a LARP filled with contradictions to help create inner and outer struggles for the characters:
 
-Power vs Helplessness, Friendship vs Hierarchy, Teenage Angst vs Immense Responsibility.
+* Power vs Helplessness
+* Friendship vs Hierarchy
+* Teenage Angst vs Immense Responsibility
 
 We want to create a LARP which is accessible to both new and more experienced larpers. We therefore aim to make the tools needed to play the game simple and flexible, so that all players can create as epic, fun or miserable an experience they want, at their own pace. Previous experience with Nordic LARP and meta-techniques will unavoidably be an advantage, but we aim to give all the information, support and workshops we can to make it as inclusive as possible.
 
