@@ -30,7 +30,7 @@ But first you have to work out where the biggest threat lies: outside the coven 
 
 ## Vision
 
-We use the word witch in the gender neutral sense. Women, men and non-gender binary people are all called witches.
+We use the word witch in the gender neutral sense. Women, men and non-gender binary people are all called witches. 
 
 This is a Nordic LARP: it will focus heavily on the relationship between characters, use meta-techniques and try to make things look as realistic as possible. 
 
@@ -40,11 +40,11 @@ It is a LARP filled with contradictions to help create inner and outer struggles
 * Friendship vs Hierarchy
 * Teenage Angst vs Immense Responsibility 
 
-We want to create a LARP which is accessible to both new and more experienced larpers. We therefore aim to make the tools needed to play the game simple and flexible, so that all players can create as epic, fun or miserable an experience they want, at their own pace. Previous experience with Nordic LARP and meta-techniques will unavoidably be an advantage, but we aim to give all the information, support and workshops we can to make it as inclusive as possible.
+We want to create a LARP which is accessible to both new and more experienced larpers. We therefore aim to make the tools needed to play the game simple and flexible, so that all players can create as epic, fun or miserable an in game experience as they want, at their own pace. Previous experience with Nordic LARP and meta-techniques will unavoidably be an advantage; but we aim to give all the information, support, and workshops we can to make it as inclusive as possible.
 
 ## Inspiration
 
-Our fiction is inspired by the show “American Horror Story: Coven”. You can watch this if you want, but it is not necessary in order to participate in the LARP. We have picked out what is the core of the series: horror, teenage angst, powers and tense character relationships.
+Our fiction is inspired by the show “American Horror Story: Coven”. You can watch this if you want, but it is not necessary in order to participate in the LARP. We have picked out what we believe is the core of the series: horror, teenage angst, powers and tense character relationships.
 
 Another inspiration is the Swedish book “Cirkeln”. Now also a film. This is too is not necessary for you to read or watch. We are inspired by books use of stereotypical archetypes, that turn out to have much more complexity and depth. We take this with us in our character creation for “Coven”.
 
