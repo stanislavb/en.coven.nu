@@ -18,7 +18,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-There are different definitions of what a Game-Mechanic is and what a Meta-Technique is. When we talk about game-mechanics for this LARP we will use it describe the interactive mechanics the player must use in order to achieve something in-game: i.e. the lottery system used to gain new powers. We will also use it as an umbrella term to describe all of the following.
+There are different definitions of what a game-mechanic is and what a meta-technique is. When we talk about game-mechanics for this LARP we will use it describe the interactive mechanics the player must use in order to achieve something in-game: i.e. the lottery system used to gain new powers. We will also use it as an umbrella term to describe all of the following.
 
 ## Meta-techniques
 
@@ -29,9 +29,9 @@ These are ways in which we can communicate between players in-game without havin
 Almost everything to do with using and receiving your powers will involve meta-techniques.
 The colour coded beads we use to symbolise the powers, for example, are “invisible” in-game. As are the letters you receive when your new power is lotted out. They are a reminders for you and other players of which powers that exists and who has them.
 
-When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist IN, your character doesn’t actually say it, only you the player. “Alma, Mortis” is a meta-technique to catch the other players attention and make them aware that they need to listen to what you are about to say.
+When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist in-game, your character doesn’t actually say it, only you the player. “Alma, Mortis” is a meta-technique to catch the other players attention and make them aware that they need to listen to what you are about to say.
 
-“Alma, Mortis” is also an OFF indicator that your character is actively trying to use their power. This also allows you to play on your character using their powers by accident or trying and failing: if you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it has failed completely. They can also choose whether their character noticed your characters attempt to use mortis on them or not.
+“Alma, Mortis” is also an OFF indicator that your character is actively trying to use their power. This also allows you to play on your character using their powers by accident or trying to use them and failing: if you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it has failed completely. They can also choose whether their character noticed your characters attempt to use mortis on them or not.
 
 The meta words for the powers:
 
@@ -57,28 +57,27 @@ A player can choose to receive no new powers at all during the LARP, or all five
 
 In order to participate in the Seven Trials you must have at least four powers by Saturday afternoon.
 
-## Fuck, Easy and Tap Out
+## Bloody, Easy and Tap Out
 
 This is the safety technique we will be using for this LARP. It has a lot of similarities with the system known as Red, Yellow, Green. 
 
 Escalation:
 
-The word you use to ask your co-player/s to escalate a scene is “Fuck” or “Fucking”.
+The word you use to ask your co-player/s to escalate a scene is “Bloody”.
 
-It can be used by itself or in a sentence: i.e. “No, I won’t go with you. Fuck off!” would be an invitation to the other player to continue dragging you off or to man handle you more.
+It can be used by itself or in a sentence: i.e. “No, I won’t go with you. Bloody hell!” would be an invitation to the other player to continue dragging you off or to man handle you more.
 
 It is always a good idea to try and show what kind of escalation you mean when you extend the invitation. For example, if you and another player are having a fight and this has involved only shouting, but you want to escalate the scene and become more physical you could gently push the other player and use the escalation word. Await the reply before continuing.
 
-
-The other player can now inform you that they accept your offer or invitation to escalate by replying with the escalation word “Fuck/ing”: i.e. “Don’t you fucking start!”.
+The other player can now inform you that they accept your offer, or invitation to escalate by replying with the escalation word “Bloody”: i.e. “Don’t you bloody start!”.
 
 De-escalation:
 
 The word you use to ask your co-player/s to de-escalate a scene is “Easy”.
 
-If you get an invitation to escalate a scene and you do not want to, but you are comfortable continuing the scene at the level it is currently at: use the de-escalation word “Easy”. For example: “Ok, take it easy!”. This turns down the invitation to escalate, but does not end the scene.
+If you get an invitation to escalate a scene and you do not want to, but you are comfortable continuing the scene at the level it is currently at: use the de-escalation word “Easy” to say no thank you. For example: “Ok, take it easy!”. This turns down the invitation to escalate, but does not end the scene.
 
-The de-escalation word is not only used as a reply to an escalation request. If a player wants a scene to calm down, but not to end, they can inform the other player/s of this by using “Easy” at any time.
+The de-escalation word is not only used as a reply to an escalation request: if a player wants a scene to calm down, but not to end, they can inform the other player/s of this by using the word “Easy” at any time.
 
 Tap Out:
 Sometimes we just don’t want a certain type of play or a scene suddenly gets too much for us and we want out fast. This doesn’t always mean that we want or need to go OFF.
