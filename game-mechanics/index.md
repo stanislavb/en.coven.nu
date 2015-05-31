@@ -27,9 +27,10 @@ These are ways in which we can communicate between players in-game without havin
 ## The Powers
 
 Almost everything to do with using and receiving your powers will involve meta-techniques.
+
 The colour coded beads we use to symbolise the powers, for example, are “invisible” in-game. As are the letters you receive when your new power is lotted out. They are a reminders for you and other players of which powers that exists and who has them.
 
-When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist in-game, your character doesn’t actually say it, only you the player. “Alma, Mortis” is a meta-technique to catch the other players attention and make them aware that they need to listen to what you are about to say.
+When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist in-game, your character doesn’t actually say it, only you the player. “Alma” is a meta word to catch the other players attention and make them aware that they need to listen to what you are about to say.
 
 “Alma, Mortis” is also an OFF indicator that your character is actively trying to use their power. This also allows you to play on your character using their powers by accident or trying to use them and failing: if you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it has failed completely. They can also choose whether their character noticed your characters attempt to use mortis on them or not.
 
@@ -41,7 +42,7 @@ The meta words for the powers:
 “Alma, Clarvoyance”: for mind reading.  
 “Alma, Transfero”: to transfer your injury or emotions to another.  
 
-For more information on the five powers look under Fiction.
+For more information on the five powers look under [Fictional](/fictional/).
 
 ## The Lottery System
 
@@ -61,7 +62,7 @@ In order to participate in the Seven Trials you must have at least four powers b
 
 This is the safety technique we will be using for this LARP. It has a lot of similarities with the system known as Red, Yellow, Green. 
 
-Escalation:
+### Escalation
 
 The word you use to ask your co-player/s to escalate a scene is “Bloody”.
 
@@ -71,7 +72,7 @@ It is always a good idea to try and show what kind of escalation you mean when y
 
 The other player can now inform you that they accept your offer, or invitation to escalate by replying with the escalation word “Bloody”: i.e. “Don’t you bloody start!”.
 
-De-escalation:
+### De-escalation
 
 The word you use to ask your co-player/s to de-escalate a scene is “Easy”.
 
@@ -79,7 +80,7 @@ If you get an invitation to escalate a scene and you do not want to, but you are
 
 The de-escalation word is not only used as a reply to an escalation request: if a player wants a scene to calm down, but not to end, they can inform the other player/s of this by using the word “Easy” at any time.
 
-Tap Out:
+### Tap Out
 
 Sometimes we just don’t want a certain type of play, or a scene suddenly gets too much for us and we want out fast. This doesn’t always mean that we want or need to go OFF however.
  
@@ -89,13 +90,13 @@ It can be said/done discreetly or loudly, soft or hard: until the other player n
 
 If a player uses “Tap, tap” with you: first of all stop what you are doing. 
 
-Now comes common sense, have you just done an intense scene together or do you know that the player has just come from an intense scene? Do they look distressed? Overtired? Hungry? Even though the player used “Tap,tap” not “OFF”: if you are in any way unsure or concerned about their well-being, take a minute to go OFF. Ask them if they are ok and if they need anything from you. We would much rather that you break immersion for two seconds to check if a person is ok, then ignore potential signs out of fear of breaking immersion for other player/s.
+Now comes common sense, have you just done an intense scene together or do you know that the player has just come from an intense scene? Do they look distressed? Overtired? Hungry? Even though the player used “Tap, tap” not “OFF”: if you are in any way unsure or concerned about their well-being, take a minute to go OFF. Ask them if they are ok and if they need anything from you. We would much rather that you break immersion for two seconds to check if a person is OK than to ignore potential signs out of fear of breaking immersion for other player/s.
 
 We will always support your choice to go OFF. If the situation feels unclear or you are uncomfortable in any way find the safety host and we’ll sort it out together.
 
 If your common sense tells you that going OFF is not neccessary at this time: end the scene immediately and leave the player. You may choose to check in on the other player at a later time.
 
-OFF:
+### OFF
 
 “OFF” is always “OFF”: you break the game or scene immediately. If a player uses “OFF” with you, listen to what they have to say. Ask them what they need from you. Help them get to a safety host if necessary. 
 
