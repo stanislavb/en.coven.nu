@@ -22,7 +22,7 @@ image:
 
 The Supreme Witch is the head of the coven; each coven has their own Supreme. 
 
-To become the Supreme of a coven you must pass the trial of The Seven Wonders. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in covens of thirteen and above; meaning that a coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme.
+To become the Supreme of a coven you must pass the Seven Trials. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in covens of at least thirteen and above; meaning that a coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme.
 
 The Supreme is not just the Coven leader; their attitude, morals and ethics affects the whole Coven and can make it stronger or weaker, righteous or criminal. The Supremes only answers to The Witch’s Council.
 
@@ -44,7 +44,7 @@ Once initiated into a coven you belong to it until you die, even if you leave yo
 
 There exists a strict hierarchy within a coven. Even though only the Supreme and the Seconds receive an official title the timing which you entered a coven is reflected in your status. New arrivals are often referred to as juniors and the older members are their seniors. Disrespecting the hierarchy can have dire consequences. Seconds usually leave punishment of juniors up to the seniors.
 
-*The majority of roles at this larp will be juniors, newly arrived. Some will be seniors and these roles will have some additional responsibilities. Some of the seniors will be casted, all the juniors will be lotted.*
+*The majority of roles at this larp will be juniors, newly arrived. The senior roles will have some additional responsibilities. Some of these seniors will be casted, all the juniors will be lotted.*
 
 ## The Household
 
