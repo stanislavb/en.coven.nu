@@ -38,7 +38,7 @@ It is a LARP filled with contradictions to help create inner and outer struggles
 
 * Power vs Helplessness
 * Friendship vs Hierarchy
-* Teenage Angst vs Immense Responsibility
+* Teenage Angst vs Immense Responsibility 
 
 We want to create a LARP which is accessible to both new and more experienced larpers. We therefore aim to make the tools needed to play the game simple and flexible, so that all players can create as epic, fun or miserable an experience they want, at their own pace. Previous experience with Nordic LARP and meta-techniques will unavoidably be an advantage, but we aim to give all the information, support and workshops we can to make it as inclusive as possible.
 
