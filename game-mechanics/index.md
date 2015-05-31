@@ -80,9 +80,10 @@ If you get an invitation to escalate a scene and you do not want to, but you are
 The de-escalation word is not only used as a reply to an escalation request: if a player wants a scene to calm down, but not to end, they can inform the other player/s of this by using the word “Easy” at any time.
 
 Tap Out:
-Sometimes we just don’t want a certain type of play or a scene suddenly gets too much for us and we want out fast. This doesn’t always mean that we want or need to go OFF.
+
+Sometimes we just don’t want a certain type of play, or a scene suddenly gets too much for us and we want out fast. This doesn’t always mean that we want or need to go OFF however.
  
-This is when we use “Tap Out”: you physically tap the player twice somewhere on the body, perhaps on the shoulder. You can also say “Tap, tap” to the player. This means stop what you are doing or about to do and let me leave this scene now. 
+This is when we use “Tap Out”: you physically tap the player twice somewhere on the body, like on the shoulder. You can also say “Tap, tap” to the player. This means stop what you are doing or about to do and let me leave this scene now. 
 
 It can be said/done discreetly or loudly, soft or hard: until the other player notices and backs off.
 
@@ -91,6 +92,8 @@ If a player uses “Tap, tap” with you: first of all stop what you are doing.
 Now comes common sense, have you just done an intense scene together or do you know that the player has just come from an intense scene? Do they look distressed? Overtired? Hungry? Even though the player used “Tap,tap” not “OFF”: if you are in any way unsure or concerned about their well-being, take a minute to go OFF. Ask them if they are ok and if they need anything from you. We would much rather that you break immersion for two seconds to check if a person is ok, then ignore potential signs out of fear of breaking immersion for other player/s.
 
 We will always support your choice to go OFF. If the situation feels unclear or you are uncomfortable in any way find the safety host and we’ll sort it out together.
+
+If your common sense tells you that going OFF is not neccessary at this time: end the scene immediately and leave the player.
 
 OFF:
 
