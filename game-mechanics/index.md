@@ -93,7 +93,7 @@ Now comes common sense, have you just done an intense scene together or do you k
 
 We will always support your choice to go OFF. If the situation feels unclear or you are uncomfortable in any way find the safety host and we’ll sort it out together.
 
-If your common sense tells you that going OFF is not neccessary at this time: end the scene immediately and leave the player.
+If your common sense tells you that going OFF is not neccessary at this time: end the scene immediately and leave the player. You may choose to check in on the other player at a later time.
 
 OFF:
 
