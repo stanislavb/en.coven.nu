@@ -20,17 +20,17 @@ image:
 
 Coven takes place in a newly, rather unwillingly, formed coven of witches: present day, Sweden. 
 
-It’s about cool powers, the witches that wield them, and the people trying to kill them for it.
+This is a LARP about cool powers, the witches that wield them and the people trying to kill them for it.
 
-This LARP will be a chance to indulge in classic high school tropes, to make friends, be betrayed, fall in love and maybe even accidentally kill someone, then desperately try to resurrect them before the Supreme Witch finds out... or simply cover your tracks.
+Come and indulge in classic high school tropes, make friends, make enemies, be betrayed, fall in love. Maybe even accidentally kill someone and desperately try to resurrect them before the Supreme Witch finds out... or simply cover your tracks.
 
-The mood is tense. The future is uncertain, and you have either way too little power or too much to be in control of your own destiny. You have to make friends. You have to trust. You have to help each other or you’ll most probably die soon, maybe sooner than you think.
+The mood is tense. The future is uncertain. You have either way too little power, or too much, to be in control of your own destiny. You have to make friends. You have to trust. You have to help each other or you’ll most probably die soon, maybe sooner than you think.
 
-But first you have to work out where the biggest threat lies: outside your coven or within it?
+But first you have to work out where the biggest threat lies: outside the coven or within it?
 
 ## Vision
 
-This is not a women only LARP: we use the word witch in the gender neutral sense. Women, men and non-gender binary people are all called witches.
+We use the word witch in the gender neutral sense. Women, men and non-gender binary people are all called witches.
 
 This is a Nordic LARP: it will focus heavily on the relationship between characters, use meta-techniques and try to make things look as realistic as possible. 
 
@@ -50,7 +50,7 @@ Another inspiration is the Swedish book “Cirkeln”. Now also a film. This is 
 
 ## Contents Warning
 
-This LARP will contain ingame elements of; horror, group pressure, bullying, violence and very likely some blood and gore.
+This LARP will contain in game elements of; horror, group pressure, bullying, violence and very likely some blood and gore.
 
 This LARP will not contain real alcohol, sex or drugs.
 
