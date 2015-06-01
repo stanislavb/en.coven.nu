@@ -35,11 +35,11 @@ Game ends Sunday 4th between 13.00-14.00.
 
 ## Ticket price
 
-- Sponsor: 1000kr
-- Base price: 850kr
-- Reduced price: 550kr
+Sponsor: 1000kr  
+Base price: 850kr  
+Reduced price: 550kr  
 
-We are hoping to offer up to five reduced ticket for players with reduced means, we can not guarantee them at this time.
+*We are hoping to offer up to five reduced ticket for players with reduced means, we can not guarantee them at this time.*
 
 ## Workshops
 
