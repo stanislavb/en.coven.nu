@@ -32,7 +32,7 @@ event:
   description: 'A <a href="http://nordiclarp.org/what-is-nordic-larp/">Live Action Roleplaying</a> event taking place near Stockholm 2-4 October 2015'
   email: english@coven.nu
 #  twitter: CovenLARP
-#  facebook: CovenLARP
+  facebook: CovenLARP
   google:
     analytics: 
     verify: 
