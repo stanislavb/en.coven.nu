@@ -24,9 +24,11 @@ Frustunaby, 20 min walk from Gnesta Station.
 Trains go regularly.  
 One hour drive from Stockholm center.
 
-## Date & Time
+## Date, Time & Players
 
 English round 2-4 October.
+
+25 players
 
 Game starts Friday 2nd at 10:00.  
 Game ends Sunday 4th between 13.00-14.00.
