@@ -32,7 +32,9 @@ Four larger cabins built mid 17th century, beside a large lake with a space for 
 
 English round 2-4 October.
 
-25 players
+Sign up opens 7th of june.
+
+25 players (16 years age limit).
 
 Game starts Friday 2nd at 10:00.  
 Game ends Sunday 4th between 13.00-14.00.
