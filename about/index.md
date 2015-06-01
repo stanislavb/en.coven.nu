@@ -30,7 +30,7 @@ But first you have to work out where the biggest threat lies: outside the coven 
 
 ## Vision
 
-We use the word witch in the gender neutral sense. Women, men and non-gender binary people are all called witches. 
+We use the word witch in the gender neutral sense. Anyone with magical abilities are called witches. 
 
 This is a Nordic LARP: it will focus heavily on the relationship between characters, use meta-techniques and try to make things look as realistic as possible. 
 
