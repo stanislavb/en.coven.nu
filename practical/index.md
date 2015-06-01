@@ -24,6 +24,8 @@ Frustunaby, 20 min walk from Gnesta Station.
 Trains go regularly.  
 One hour drive from Stockholm center.
 
+Four larger cabins built mid 17th century, beside a large lake with a space for outdoor grilling. One of the cabins is fully wheelchair accessible (including large toilet in same house) and there is a ramp avaliable for access to other houses.
+
 ## Date, Time & Players
 
 English round 2-4 October.
