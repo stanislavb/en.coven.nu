@@ -101,3 +101,27 @@ If your common sense tells you that going OFF is not neccessary at this time: en
 “OFF” is always “OFF”: you break the game or scene immediately. If a player uses “OFF” with you, listen to what they have to say. Ask them what they need from you. Help them get to a safety host if necessary. 
 
 We will always support a players choice to break immersion for the well-being of themselves or others. If you feel that this goes against your LARP vision/wishes/immersion needs then this is not the LARP for you.
+
+## Sex
+
+Här nedan följer tre olika metatekniker som kan användas för att spela på hångel och sex, vi kommer att gå igenom dem på workshopen. Broms- och stoppord gäller alltid och kan utan problem kombineras med alla dessa tekniker. Detta kommer också att fördjupas under workshopen.
+
+Bara för att dessa tekniker existerar och får användas under lajvet betyder det dock inte att din karaktär måste ha sex. Detta lajv har inte sex som specifikt handlingsmoment, men eftersom det innehåller tonåringar och deras relationer ville vi göra teknikerna tillgängliga.
+
+### Hand på Hand
+
+Lägg din egen hand på din egen kropp, din medspelare är nu tillåten att röra vid din handrygg. Du kontrollerar var dina händer ligger på din kropp och kan själv bestämma var din medspelare får “röra” vid dig. 
+
+Din medspelare behöver inte heller röra vid din hand om du lägger den på en kroppsdel som hen inte är bekväm med. Om detta händer, flytta på din hand.
+
+Hur en rör vid sin medspelares handrygg är en bra indikation på vilken form av sex karaktärerna har: mjukt, tveksamt, hårt etc.
+
+### Ars Amandi
+
+I den här tekniken representerar dina armar, upp till armbågen, din kropps sexuella områden. Du får endast röra vid din medspelares armar med smekningar, massage etc för att visa på vilken typ av sex som pågår.
+
+### Hångelteknik
+
+Använd dina händer för att vidröra din medspelares ansikte. Som de två andra teknikerna kan tekniken också användas för att visa vilken form av hångel/kyssar det handlar om.
+
+*Förhandla alltid intima scener med din medspelare OFF först. Vi kan inte vara nog tydliga. Om NÅGON pussar, kysser eller rör vid en medspelare på ett sätt som bedöms olämpligt (av mottagaren) utan uttalat samtycke från medspelare kommer denna person att uteslutas från lajvet omedelbart. Det här är ett lajv, vi ser ingen anledning till att inte prata med sina medspelare om intima scener som en vill spela med dem innan de spelas ut.*
