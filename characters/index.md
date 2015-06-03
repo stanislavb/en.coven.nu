@@ -46,6 +46,8 @@ There exists a strict hierarchy within a coven. Even though only the Supreme and
 
 *The majority of roles at this larp will be juniors, newly arrived. The senior roles will have some additional responsibilities. Some of these seniors will be casted, all the juniors will be lotted.*
 
+*All seniors and juniors will be written as between 17-21 in age, regardless of the players age OFF.*
+
 ## The Household
 
 The household includes the cooks and the staff. Most of them have been a part of the Dahlin household for many years. 
