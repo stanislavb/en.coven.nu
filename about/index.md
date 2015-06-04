@@ -46,7 +46,7 @@ We want to create a LARP which is accessible to both new and more experienced la
 
 Our fiction is inspired by the show “American Horror Story: Coven”. You can watch this if you want, but it is not necessary in order to participate in the LARP. We have picked out what we believe is the core of the series: horror, teenage angst, powers and tense character relationships.
 
-Another inspiration is the Swedish book “Cirkeln”. Now also a film. This is too is not necessary for you to read or watch. We are inspired by books use of stereotypical archetypes, that turn out to have much more complexity and depth. We take this with us in our character creation for “Coven”.
+Another inspiration is the Swedish book “Cirkeln”. The book is avaliable in English (and 24 other languages). The first part of the trilogy has also been made into a film. This too is not necessary for you to read or watch in order to participate in the LARP. We are inspired by the books use of stereotypical archetypes, that turn out to have much more complexity and depth. We take this with us in our character creation for “Coven”.
 
 ## Contents Warning
 
