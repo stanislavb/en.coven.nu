@@ -104,24 +104,24 @@ We will always support a players choice to break immersion for the well-being of
 
 ## Sex
 
-Här nedan följer tre olika metatekniker som kan användas för att spela på hångel och sex, vi kommer att gå igenom dem på workshopen. Broms- och stoppord gäller alltid och kan utan problem kombineras med alla dessa tekniker. Detta kommer också att fördjupas under workshopen.
+Here are three different meta-techniques, to represent sex and kissing, that we will go through in more detail at the workshop. The safety words always apply and can be combined with all these techniques. More on this at the workshop.
 
-Bara för att dessa tekniker existerar och får användas under lajvet betyder det dock inte att din karaktär måste ha sex. Detta lajv har inte sex som specifikt handlingsmoment, men eftersom det innehåller tonåringar och deras relationer ville vi göra teknikerna tillgängliga.
+Just because these techniques exist does not mean that your character has to have sex at this LARP. This is not a LARP about sex, but since it is a LARP about teenagers we want to have these techniques in place.
 
-### Hand på Hand
+### Hand on Hand
 
-Lägg din egen hand på din egen kropp, din medspelare är nu tillåten att röra vid din handrygg. Du kontrollerar var dina händer ligger på din kropp och kan själv bestämma var din medspelare får “röra” vid dig. 
+Place your own hand on your own body, the other player is now allowed to touch the back of your hand. You control your own hand on your own body and can move it wherever you are comfortable having the other player “touch” you. 
 
-Din medspelare behöver inte heller röra vid din hand om du lägger den på en kroppsdel som hen inte är bekväm med. Om detta händer, flytta på din hand.
+The other player does not have to touch your hand if you place it in an area they are uncomfortable with. If this happens simply move your hand to another area.
 
-Hur en rör vid sin medspelares handrygg är en bra indikation på vilken form av sex karaktärerna har: mjukt, tveksamt, hårt etc.
+How you touch the back of the hand is a good indicator of what kind of sex you are having: rough, soft, hesitant etc.
 
 ### Ars Amandi
 
-I den här tekniken representerar dina armar, upp till armbågen, din kropps sexuella områden. Du får endast röra vid din medspelares armar med smekningar, massage etc för att visa på vilken typ av sex som pågår.
+In this technique your arms, up to the elbow or upper arms, represent the sexual areas of your body. You can touch this area only: stroke, massage etc to demonstrate the type of sex you are having. 
 
-### Hångelteknik
+### Making out technique
 
-Använd dina händer för att vidröra din medspelares ansikte. Som de två andra teknikerna kan tekniken också användas för att visa vilken form av hångel/kyssar det handlar om.
+Using your hands to stroke the other player's face. Like the other two techniques this can be used to demonstrate what type of kiss is happening.
 
-*Förhandla alltid intima scener med din medspelare OFF först. Vi kan inte vara nog tydliga. Om NÅGON pussar, kysser eller rör vid en medspelare på ett sätt som bedöms olämpligt (av mottagaren) utan uttalat samtycke från medspelare kommer denna person att uteslutas från lajvet omedelbart. Det här är ett lajv, vi ser ingen anledning till att inte prata med sina medspelare om intima scener som en vill spela med dem innan de spelas ut.*
+*Always negotiate intimate scenes with a player OFF first. We cannot stress this enough: ANYONE who kisses or touches another player inappropriately without the explicit consent of that player will be kicked off the LARP immediately. This is a LARP, there is no reason for you not to talk to your co-players about an intimate scene you want to do with them before you do it.*  
