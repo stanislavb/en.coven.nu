@@ -117,5 +117,3 @@ When a new Supreme begins to develop in a generation they draw their power from 
 There exists several rituals within the coven, some of these require the use of crystals and others don’t. 
 
 These rituals can be used to amplify a witch's powers temporarily, to create protective barriers, or to simply get a high from dangerous games such as Mortis and Vitalis. 
-
-Each power has a crystal to represent it.
