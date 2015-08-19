@@ -19,7 +19,7 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## Location
-<iframe src="https://www.google.com/maps/embed/v1/place?q=frustuna+by&key=AIzaSyClEWLh20lxrQBFR7omuuVESviszPxONyk" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/place?q=frustuna&key=AIzaSyClEWLh20lxrQBFR7omuuVESviszPxONyk" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
 
 Frustunaby, 20 min walk from Gnesta Station.  
 Trains go regularly.  
