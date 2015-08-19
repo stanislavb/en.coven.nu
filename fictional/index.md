@@ -42,7 +42,7 @@ It was the local church who stepped in and refuted the rumours. The Dahlin’s, 
 The coven has posed as several different types of retreats; schools, and even an orphanage through its history. However it was in 1925 when the Countess Ebba von Eckermann, a former member of the Frustunaby Girls Outdoor Club, donated Frustunaby to the Girl Guides Association that a permanent cover was created and remains to this day. 
 It wasn’t until the merging of the Girl Guides Association with the Swedish Scout Association in 1960 that boys began to join the Dahlin Coven.
 
-The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other obsolete covens over the last year was promising, and the Seven Trials was held. However it quickly became clear that no new supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
+The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other covens over the last year was promising, and the Seven Trials was held. However it quickly became clear that no new Supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
 
 ## The Five Powers
 
