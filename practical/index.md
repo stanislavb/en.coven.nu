@@ -35,10 +35,10 @@ English round 2-4 October.
 
 Sign up opens 7th of june.
 
-25 players (16 years age limit).
+29 players (16 years age limit).
 
-Game starts Friday 2nd at 10:00.  
-Game ends Sunday 4th between 13.00-14.00.
+The LARP starts on Friday with a five hour workshop from 10:00 sharp.  
+The LARP ends 13.00 on Sunday.
 
 ## Ticket price
 
@@ -50,7 +50,7 @@ Reduced price: 600kr
 
 ## Workshops
 
-A half day workshop will take place the first day of the LARP. This is obligatory.  
+A five hour workshop will take place the first day of the LARP. This is obligatory.  
 You will be expected to have learnt the five powers before the workshop. 
 
 The workshop will include:
@@ -66,7 +66,7 @@ The workshop will include:
 
 Juniors: As your character you have arrived at the coven the day of the LARP and will only be expected to bring minimal baggage. Overnight gear such as a toothbrush, pyjamas, towel etc is recommended and at least one change of black clothes is required. There are beds and bedding on site, you will need to bring your own bed linen however. 
 
-Ear plugs are recommended since you will be sleeping in dorms. 
+Ear plugs are recommended since you will be sleeping in dorms. Bring a watch to the larp. You’ll need it. The venue isn’t big, but it is big enough not to notice that everyone else has disappeared and there will be some times you are expected to keep.
 
 Acting Supreme, Seconds and Seniors: Your character has lived in the Dahlin Coven for at least a year. You have the same minimum gear expectations as the juniors but you may of course choose to bring more, to decorate your rooms etc. 
 
