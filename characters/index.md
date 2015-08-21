@@ -22,7 +22,7 @@ image:
 
 The Supreme Witch is the head of the coven; each coven has their own Supreme. 
 
-To become the Supreme of a coven you must pass the Seven Trials. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in covens of at least thirteen and above; meaning that a coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme.
+To become the Supreme of a coven you must complete The Seven Trials. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in covens of at least thirteen and above; meaning that a coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme.
 
 The Supreme is not just the Coven leader; their attitude, morals and ethics affects the whole Coven and can make it stronger or weaker, righteous or criminal. The Supremes only answers to The Witch’s Council.
 
