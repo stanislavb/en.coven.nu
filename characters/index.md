@@ -36,11 +36,9 @@ The Seconds are the highest ranking witches under the Supreme. They are most oft
 
 ## The Witches
 
-Witches develop their first power around puberty. Mishaps which foreshadow a later power have however been known to occur earlier; suggesting that the power is dormant in the body until puberty activates it. It is not unusual for it to be very weak in the beginning or to mutate into a more powerful form as the witch grows. So unless the power is particularly strong or traumatic, most witches only start to become aware of their own power in their late teens. At that point a second power might even have begun developing.
+Witches develop their first power in their early teens. It is not unusual for it to be very weak in the beginning or to mutate into a more powerful form as the witch grows. So unless the power is particularly strong or traumatic, most witches only start to become aware of their own power in their late teens. At that point a second power might even have begun developing.
 
 Most witches only ever develop one to three powers; normally each one is consecutively weaker. A good coven helps a young witch to steer, amplify and even develop new powers. Without a coven the powers can be hard to control or to understand at all. 
-
-Once initiated into a coven you belong to it until you die, even if you leave you are still seen as answerable to your Supreme. The only exception being if your Supreme has died and your coven has ceased to be. In these times most witches that do not want to integrate into society, but have been left covenless, join together and try to form a new coven or join with a dying coven and try to revive it. 
 
 There exists a strict hierarchy within a coven. Even though only the Supreme and the Seconds receive an official title the timing which you entered a coven is reflected in your status. New arrivals are often referred to as juniors and the older members are their seniors. Disrespecting the hierarchy can have dire consequences. Seconds usually leave punishment of juniors up to the seniors.
 
