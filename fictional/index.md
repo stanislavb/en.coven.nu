@@ -112,8 +112,12 @@ It has previously been the tradition that the Supreme should personally select t
 
 When a new Supreme begins to develop in a generation they draw their power from the old Supreme, whom in turn begins to weaken. This is how a reigning Supreme knows when it is time to hold the trials and welcome a new, stronger Supreme. It has happened that a Supreme, unwilling to let go of their position and power has sought out the potential new Supremes and killed them before the trial takes place. This approach has also been known to be used amongst potential candidates for the trial to eliminate their competition.
 
-## Rituals and Crystals
+## Magic 
 
-There exists several rituals within the coven, some of these require the use of crystals and others don’t. 
+All magic in this universe is linked to the powers present in The Seven Trials: Mortis, Vitalis, Concilium, Clairvoyance, Transfero, Telekinesis and Pyrokinesis. What that means is that as long as you can link it to one of the powers, it can be done: i.e. a ritual to load an amulet with the power of Vitalis to heal someone or protect from a deadly attack. Or maybe “curse” an object using Transfero, causing the first person to touch it to feel intense hatred or despair. 
 
-These rituals can be used to amplify a witch's powers temporarily, to create protective barriers, or to simply get a high from dangerous games such as Mortis and Vitalis. 
+Tarot cards, crystals, amulets, rituals etc can all be used to chanel, store, enhance or protect against magic. However the bigger the effect wanted the more tiring and time consuming to use or create: requiring preparation, patience or great strength. (Also if you do make for example, a cursed object, either inform the person you plan to use it on or leave a little note on it or something so other players know how to play on it).
+
+You can also lend your fellow witches your strength through example a ritual to enhance their power: i.e. if a witch with Vitalis is too weak to heal someone, fellow witches can lend them strength to make their power strong enough. You can not “give” another witch your power though: i.e. a witch with Mortis cannot lend this power to another witch that doesn’t possess it. This also means that if, for example, healing ritual is being done at least one person with Vitalis must be part of it.
+
+The LARP aims for a type or realism (with magic, yes I know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
