@@ -27,3 +27,6 @@ Most seniors have come from families that are aware of their linage and would ha
 Not necessarily. The seniors have mostly come from families that would have recognised the signs of the powers developing early on. 
 
 Most of the juniors have had no idea that they are witches and can therefore have had their powers for years, without understanding them, before they came to the Dahlin Coven. 
+
+## What happens to my family when I join a Coven?
+Back when witches were prevalent it wasn’t unusual for a family to contain more than one witch within the same generation. Nowadays you may only have a single distant relative in a far off coven, but they are now your “family”. The family and friends you had outside of the magical community are rarely seen or spoken to again. Even your parents.
