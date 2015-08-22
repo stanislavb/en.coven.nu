@@ -19,6 +19,11 @@ image:
 </section><!-- /#table-of-contents -->
 
 ## How do you normally end up in a coven?
- Once your first power appears, usually in your early teens you are sent to a coven. If you have family living within the magical community then you, or they, may have had a say in which coven you were sent to. 
+Once your first power appears, usually in your early teens you are sent to a coven. If you have family living within the magical community then you, or they, may have had a say in which coven you were sent to. 
 
 Most seniors have come from families that are aware of their linage and would have expected the Council to come get you when it became clear that you were a witch.
+
+## If your powers show up in your early teens, are the juniors less powerful since they were only picked up now?
+Not necessarily. The seniors have mostly come from families that would have recognised the signs of the powers developing early on. 
+
+Most of the juniors have had no idea that they are witches and can therefore have had their powers for years, without understanding them, before they came to the Dahlin Coven. 
