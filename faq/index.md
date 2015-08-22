@@ -35,3 +35,6 @@ Back when witches were prevalent it wasn’t unusual for a family to contain mor
 Covens are not actually schools, although they do teach their members. They are more like tribes or even nunneries, once you have sworn yourself to a coven you are there for life, and you can’t change your mind and leave whenever you want. Depending on the Supreme, punishment for unacceptable behaviour can vary greatly.
 
 The two ultimate punishment are death by burning and exile.
+
+## If the Witches' Council promises to protect you, why wouldn’t you want to swear an oath to them?
+They do not only protect you, they also have their own ideas and traditions that you will be expected to answer to. They can also mete out punishment against the wishes of the Supreme, or command the Coven or the Supreme to take certain actions they’d prefer not to. Most importantly they are also bound to follow the wishes of their Supreme Witch, like all Covens, what kind of Supreme is the relatively new Alessa Caito?
