@@ -33,20 +33,18 @@ Four larger cabins built mid 17th century, beside a large lake with a space for 
 
 English round 2-4 October.
 
-Sign up opens 7th of june.
-
 29 players (16 years age limit).
 
-The LARP starts on Friday with a five hour workshop from 10:00 sharp.  
+The LARP starts on Friday with a workshop from 10:00 sharp.  
 The LARP ends 13.00 on Sunday.
 
 ## Ticket price
 
 Sponsor: 1100kr  
 Base price: 850kr  
-Reduced price: 600kr  
+Reduced price: 650kr  
 
-*We are hoping to offer up to five reduced ticket for players with reduced means, we can not guarantee them at this time.*
+*Thanks to the support of http://larpfund.org/ we ahve been able to offer four reduced tickets.*
 
 ## Workshops
 
