@@ -18,5 +18,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Question
-Answer
+## How do you normally end up in a coven?
+ Once your first power appears, usually in your early teens you are sent to a coven. If you have family living within the magical community then you, or they, may have had a say in which coven you were sent to. 
+
+Most seniors have come from families that are aware of their linage and would have expected the Council to come get you when it became clear that you were a witch.
