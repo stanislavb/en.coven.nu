@@ -30,3 +30,8 @@ Most of the juniors have had no idea that they are witches and can therefore hav
 
 ## What happens to my family when I join a Coven?
 Back when witches were prevalent it wasn’t unusual for a family to contain more than one witch within the same generation. Nowadays you may only have a single distant relative in a far off coven, but they are now your “family”. The family and friends you had outside of the magical community are rarely seen or spoken to again. Even your parents.
+
+## What happens if I misbehave at the Coven?
+Covens are not actually schools, although they do teach their members. They are more like tribes or even nunneries, once you have sworn yourself to a coven you are there for life, and you can’t change your mind and leave whenever you want. Depending on the Supreme, punishment for unacceptable behaviour can vary greatly.
+
+The two ultimate punishment are death by burning and exile.
