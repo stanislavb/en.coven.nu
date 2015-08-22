@@ -38,3 +38,10 @@ The two ultimate punishment are death by burning and exile.
 
 ## If the Witches' Council promises to protect you, why wouldn’t you want to swear an oath to them?
 They do not only protect you, they also have their own ideas and traditions that you will be expected to answer to. They can also mete out punishment against the wishes of the Supreme, or command the Coven or the Supreme to take certain actions they’d prefer not to. Most importantly they are also bound to follow the wishes of their Supreme Witch, like all Covens, what kind of Supreme is the relatively new Alessa Caito?
+
+## Who are the Witch Hunters and are they really evil?
+As long as there have been witches there have been witch hunters. Unlike witches, who can be born into any family, hunters are a family tradition. Children are trained from a young age to defend themselves from and even attack witches. 
+
+These families usually have a long history with many stories, legends and grudges to pass on to the younger generations. They most likely stem from families that have at some point suffered an "injustice" at the hands of a witch.
+
+So are they evil? Are witches evil? It's all a matter of perspective I'd say.
