@@ -71,6 +71,15 @@ Ear plugs are recommended since you will be sleeping in dorms. Bring a watch to 
 
 Acting Supreme, Seconds and Seniors: Your character has lived in the Dahlin Coven for at least a year. You have the same minimum gear expectations as the juniors but you may of course choose to bring more, to decorate your rooms etc. 
 
+## Sleeping arrangements
+
+The Supreme sleeps in her own room in the house called Lillstugan. *No own toilet or shower.*       
+The Sekonds sleep in their own rooms in the house called Backstugan. *One shared bathroom and shower.*  
+The Seniors share two rooms with two bunkbeds in each room, in the same house as the Sekonds. *One shared bathroom and shower.*  
+The Juniors sleep in two open dormitories in the house called Logementet. *Three shared toilets and two showers.*  
+
+
+
 ## Participant Contract
 
 We the organizers promise you:
