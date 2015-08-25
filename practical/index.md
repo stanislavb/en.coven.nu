@@ -47,9 +47,11 @@ Reduced price: 650kr
 
 *Thanks to the support of http://larpfund.org/ we ahve been able to offer four reduced tickets.*
 
-## Workshops
+## Workshop
 
-A five hour workshop will take place the first day of the LARP. This is obligatory.  
+**The workshop is obligatory.**
+Starts at 10.00 and finishes at 16.00, with an hour for lunch.  
+You then have an hour before the larp starts to prepare your things OFF.    
 You will be expected to have learnt the five powers before the workshop. 
 
 The workshop will include:
