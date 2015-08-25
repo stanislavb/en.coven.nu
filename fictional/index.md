@@ -63,6 +63,14 @@ The personality of the Supreme steers the Coven: a kind Supreme nourishes its Co
 
 There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (if they have sworn to it). It is also generally seen as bad taste to mistreat your Coven and since its survival relies on new witches joining it, not the smartest move.
 
+**The Seven Trials**
+
+Every Supreme of every coven has gone through the The Seven Trials and proven themselves to be the most powerful witch in their coven: able to command all seven powers of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. 
+
+You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the reveal of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no available research to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in their death.
+
+It has previously been the tradition that the Supreme should personally select the witches that will partake in the Seven Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake.
+
 **The Witches’ Council** 
 
 The largest and oldest recorded Coven in the world. For hundreds of years it has been the highest authority amongst the Covens. It functions as the magical communities police, legal system and army. This Coven and its Supreme are heavily guarded and its exact location in the world is kept secret. 
@@ -72,17 +80,6 @@ Its current Supreme Witch is the rather newly ordained Alessa Caito. Agents of t
 It is expected that the Supremes swear an oath to the Council on behalf of their Coven. Thereby placing everyone in their Coven under the Council's protection and power. Supremes are only answerable to the Council.
 
 The Witches’ Council can only exercise this power over those that have sworn the oath to them, and they cannot force a Supreme or any other witch to swear the oath. However most covens  traditionally do so and those that do not are often regarded with suspicion. 
-
-## The Dahlin Coven
-
-Alma Dahlin built the first house in Frustunaby near the end of the seventeen hundreds. She arrived with her household and several young female wards, much to the excitement of the small community. However since the Dahlin’s and their wards kept mostly to themselves the rumours soon began to spread about Frustunaby being a place for pregnant young ladies to give birth to their unwanted bastards. 
-
-It was the local church who stepped in and refuted the rumours. The Dahlin’s, their wards, and their whole household would be present at church every sunday and even received several sermons dedicated to them. Generous donations had also begun to be received by the church around this time. The close relationship between the Dahlin Coven and the local church continued even after the death of Alma and her husband.
-
-The coven has posed as several different types of retreats; schools, and even an orphanage through its history. However it was in 1925 when the Countess Ebba von Eckermann, a former member of the Frustunaby Girls Outdoor Club, donated Frustunaby to the Girl Guides Association that a permanent cover was created and remains to this day. 
-It wasn’t until the merging of the Girl Guides Association with the Swedish Scout Association in 1960 that boys began to join the Dahlin Coven.
-
-The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other covens over the last year was promising, and the Seven Trials was held. However it quickly became clear that no new Supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
 
 ## Magic 
 
@@ -152,14 +149,13 @@ The witch establishes eye contact, says the words: “Alma, Transfero” and the
 
 It is harder for a weaker witch to break the Transfero of a stronger witch. Transfero can also be broken by a third person helping to break the eye contact between the witch and their victim.
 
-## The Seven Trials
+## The Dahlin Coven
 
-Every Supreme of every coven has gone through the the Seven Trials and proven themselves to be the most powerful witch in their coven: able to command all seven powers of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. 
+Alma Dahlin built the first house in Frustunaby near the end of the seventeen hundreds. She arrived with her household and several young female wards, much to the excitement of the small community. However since the Dahlin’s and their wards kept mostly to themselves the rumours soon began to spread about Frustunaby being a place for pregnant young ladies to give birth to their unwanted bastards. 
 
-You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the reveal of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no available research to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in their death.
+It was the local church who stepped in and refuted the rumours. The Dahlin’s, their wards, and their whole household would be present at church every sunday and even received several sermons dedicated to them. Generous donations had also begun to be received by the church around this time. The close relationship between the Dahlin Coven and the local church continued even after the death of Alma and her husband.
 
-It has previously been the tradition that the Supreme should personally select the witches that will partake in the Seven Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake.
+The coven has posed as several different types of retreats; schools, and even an orphanage through its history. However it was in 1925 when the Countess Ebba von Eckermann, a former member of the Frustunaby Girls Outdoor Club, donated Frustunaby to the Girl Guides Association that a permanent cover was created and remains to this day. 
+It wasn’t until the merging of the Girl Guides Association with the Swedish Scout Association in 1960 that boys began to join the Dahlin Coven.
 
-When a new Supreme begins to develop in a generation they draw their power from the old Supreme, whom in turn begins to weaken. This is how a reigning Supreme knows when it is time to hold the trials and welcome a new, stronger Supreme. It has happened that a Supreme, unwilling to let go of their position and power has sought out the potential new Supremes and killed them before the trial takes place. This approach has also been known to be used amongst potential candidates for the trial to eliminate their competition.
-
-
+The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other covens over the last year was promising, and the Seven Trials was held. However it quickly became clear that no new Supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
