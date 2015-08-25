@@ -35,7 +35,7 @@ The English Round 2-4 October.
 29 players (16 years age limit).
 
 **The LARP starts on Friday with a workshop from 10:00 sharp.** 
-*The workshop will start at ten so please be on time and ready to start.*
+*The workshop will start at ten so please be on time and ready to start.* 
 **The LARP ends 13.00 on Sunday.**
 *There will follow a lunch and a debrief, then we ask for your help to clear out the venue. Expect to check out around four, contact us if you have any problems with this.*
 
