@@ -87,9 +87,11 @@ All magic in this universe is linked to the powers present in The Seven Trials: 
 
 Tarot cards, crystals, amulets, rituals etc can all be used to chanel, store, enhance or protect against magic. However the bigger the effect wanted the more tiring and time consuming to use or create: requiring preparation, patience or great strength. (Also if you do make for example, a cursed object, either inform the person you plan to use it on or leave a little note on it or something so other players know how to play on it).
 
-You can also lend your fellow witches your strength through example a ritual to enhance their power: i.e. if a witch with Vitalis is too weak to heal someone, fellow witches can lend them strength to make their power strong enough. You can not “give” another witch your power though: i.e. a witch with Mortis cannot lend this power to another witch that doesn’t possess it. This also means that if, for example, healing ritual is being done at least one person with Vitalis must be part of it.
+You can also lend your fellow witches your strength through a ritual or chant to enhance their power: i.e. if a witch with Vitalis is too weak to heal someone, fellow witches can lend them strength to make their power strong enough. You can not “give” another witch your power though: i.e. a witch with Mortis can not lend this power to another witch that doesn’t possess it. This also means that if, say a healing ritual is being done at least one person with Vitalis must be part of it.
 
 The LARP aims for a type or realism (with magic, yes I know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
+
+*These Rituals, Chants etc do not have a right or wrong way that they can be done (we will go through ideas for them during the workshop). In game, if you want it to work it will. If you don't want it to, mess it up. Absolutely best is to communicate with the players involved OFF before hand. However as a junior: if a Senior, Second or the The Supreme tells you something isn't going to work or breaks off a ritual or spell, they are always right.* 
 
 ## The Five Powers
 
