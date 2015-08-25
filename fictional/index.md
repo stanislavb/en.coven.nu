@@ -61,7 +61,7 @@ The Supreme Witch is summoned by The Seven Trials, these can only take place on 
 
 The personality of the Supreme steers the Coven: a kind Supreme nourishes its Coven and creates harmony, a nasty Supreme poisons the Coven and creates conflict. Still it would be an offence punishable by death to try to kill your Supreme, so you must simply hope for better luck next time.
 
-There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (if they have sworn to it). It is also generally seen as bad taste to mistreat your Coven and since its survival relies on new witches joining it, not the smartest move.
+There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (if they have sworn to it). It is also generally seen as bad taste to mistreat your Coven and, since its survival relies on new witches joining it, not the smartest move.
 
 **The Seven Trials**
 
