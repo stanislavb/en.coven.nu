@@ -33,6 +33,42 @@ Then suddenly something changed. Witch hunters stopped focusing on covens and st
 
 This is the situation now. Newly rescued witches arrive at a Swedish coven to discover and learn to deal with their powers, each other, and the life threatening danger they all face.
 
+## Hierarchy and World Structure
+
+**The Covens**
+There are several covens around the world. They are stationary, formed in areas with a strong magical energy. This energy responds to the Coven: a large coven makes it stronger, a strong Supreme makes it stronger, strong witches make it stronger, and in turn stronger Supremes appear, and so forth. When a coven starts to die out the energy starts to wane.
+
+A coven must consist of at least thirteen witches, less than this and a new Supreme will not appear and the coven will gradually lose its strength and die out. The Witches’ Council is a coven: it is the largest existing coven in the world. 
+
+Other Covens you should know of are:
+* Dahlin has been a Coven on the brink of extinction for several years, but once it was an influential coven with strong ties to the Council.
+* Ekdal is a large prestigious Coven with close ties to the Witches’ Council. Many of its witches go on to work for the Council.
+* Almsted is also a respectable Coven with loyalties to the Council.
+* Holm was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. About a year ago it was attacked and destroyed by the witch hunters.
+
+**The Oaths**
+You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme. 
+
+Witches apply to a coven by their early teens (as their powers emerge) and are trained there until they choose to take the oath, usually somewhere in their early twenties. You do not have to swear your oath to the coven that trained you, however most do.
+
+You cannot swear an oath to two covens at the same time. The only exception being the Witches’ Council (no one knows how they can do this). Unlike the oath to your Coven, which binds you for life, the longevity of your oath to the Witches’ Council depends on who swore it. If you swore it directly to them it lasts the rest of your life, if the Supreme of your Coven swore it on behalf of the whole Coven: it last their lifetime and has to be renewed by the next Supreme.
+
+**The Supreme Witches**
+The Supreme Witch is summoned by The Seven Trials, these can only take place on the Covens ground. The Coven is ruled by its Supreme and all the witches in the Coven must answer to their Supreme. The stronger the Supreme the stronger the rest of the Coven becomes. 
+
+The personality of the Supreme steers the Coven: a kind Supreme nourishes its Coven and creates harmony, a nasty Supreme poisons the Coven and creates conflict. Still it would be an offence punishable by death to try to kill your Supreme, so you must simply hope for better luck next time.
+
+There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (if they have sworn to it). It is also generally seen as bad taste to mistreat your Coven and since its survival relies on new witches joining it, not the smartest move.
+
+**The Witches’ Council**
+The largest and oldest recorded Coven in the world. For hundreds of years it has been the highest authority amongst the Covens. It functions as the magical communities police, legal system and army. This Coven and its Supreme are heavily guarded and its exact location in the world is kept secret. 
+
+Its current Supreme Witch is the rather newly ordained Alessa Caito. Agents of the Council exist all over world. These agents are respected and feared as direct extensions of the will of the Council and The Supreme Witch Alessa.
+
+It is expected that the Supremes swear an oath to the Council on behalf of their Coven. Thereby placing everyone in their Coven under the Council's protection and power. Supremes are only answerable to the Council.
+
+The Witches’ Council can only exercise this power over those that have sworn the oath to them, and they cannot force a Supreme or any other witch to swear the oath. However most covens  traditionally do so and those that do not are often regarded with suspicion. 
+
 ## The Dahlin Coven
 
 Alma Dahlin built the first house in Frustunaby near the end of the seventeen hundreds. She arrived with her household and several young female wards, much to the excitement of the small community. However since the Dahlin’s and their wards kept mostly to themselves the rumours soon began to spread about Frustunaby being a place for pregnant young ladies to give birth to their unwanted bastards. 
@@ -43,6 +79,16 @@ The coven has posed as several different types of retreats; schools, and even an
 It wasn’t until the merging of the Girl Guides Association with the Swedish Scout Association in 1960 that boys began to join the Dahlin Coven.
 
 The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other covens over the last year was promising, and the Seven Trials was held. However it quickly became clear that no new Supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
+
+## Magic 
+
+All magic in this universe is linked to the powers present in The Seven Trials: Mortis, Vitalis, Concilium, Clairvoyance, Transfero, Telekinesis and Pyrokinesis. What that means is that as long as you can link it to one of the powers, it can be done: i.e. a ritual to load an amulet with the power of Vitalis to heal someone or protect from a deadly attack. Or maybe “curse” an object using Transfero, causing the first person to touch it to feel intense hatred or despair. 
+
+Tarot cards, crystals, amulets, rituals etc can all be used to chanel, store, enhance or protect against magic. However the bigger the effect wanted the more tiring and time consuming to use or create: requiring preparation, patience or great strength. (Also if you do make for example, a cursed object, either inform the person you plan to use it on or leave a little note on it or something so other players know how to play on it).
+
+You can also lend your fellow witches your strength through example a ritual to enhance their power: i.e. if a witch with Vitalis is too weak to heal someone, fellow witches can lend them strength to make their power strong enough. You can not “give” another witch your power though: i.e. a witch with Mortis cannot lend this power to another witch that doesn’t possess it. This also means that if, for example, healing ritual is being done at least one person with Vitalis must be part of it.
+
+The LARP aims for a type or realism (with magic, yes I know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
 
 ## The Five Powers
 
@@ -112,12 +158,4 @@ It has previously been the tradition that the Supreme should personally select t
 
 When a new Supreme begins to develop in a generation they draw their power from the old Supreme, whom in turn begins to weaken. This is how a reigning Supreme knows when it is time to hold the trials and welcome a new, stronger Supreme. It has happened that a Supreme, unwilling to let go of their position and power has sought out the potential new Supremes and killed them before the trial takes place. This approach has also been known to be used amongst potential candidates for the trial to eliminate their competition.
 
-## Magic 
 
-All magic in this universe is linked to the powers present in The Seven Trials: Mortis, Vitalis, Concilium, Clairvoyance, Transfero, Telekinesis and Pyrokinesis. What that means is that as long as you can link it to one of the powers, it can be done: i.e. a ritual to load an amulet with the power of Vitalis to heal someone or protect from a deadly attack. Or maybe “curse” an object using Transfero, causing the first person to touch it to feel intense hatred or despair. 
-
-Tarot cards, crystals, amulets, rituals etc can all be used to chanel, store, enhance or protect against magic. However the bigger the effect wanted the more tiring and time consuming to use or create: requiring preparation, patience or great strength. (Also if you do make for example, a cursed object, either inform the person you plan to use it on or leave a little note on it or something so other players know how to play on it).
-
-You can also lend your fellow witches your strength through example a ritual to enhance their power: i.e. if a witch with Vitalis is too weak to heal someone, fellow witches can lend them strength to make their power strong enough. You can not “give” another witch your power though: i.e. a witch with Mortis cannot lend this power to another witch that doesn’t possess it. This also means that if, for example, healing ritual is being done at least one person with Vitalis must be part of it.
-
-The LARP aims for a type or realism (with magic, yes I know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
