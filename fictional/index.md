@@ -97,7 +97,9 @@ The LARP aims for a type or realism (with magic, yes I know), but basically try 
 
 ## The Five Powers
 
-As the covens began to die out, and witches stopped using their gifts and the powers got weaker over all. The two rarest powers: Pyrokinesis and Telekinesis disappeared altogether, only Supremes can use them. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today.
+As the covens began to die out and more witches stopped using their gifts, the powers got weaker over all. The two rarest powers: Pyrokinesis and Telekinesis disappeared almost all altogether, only Supremes can use them after having gained them through The Seven Trials. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today. 
+
+Your first power to develop is called your Primary Power. All your powers after your primary power are consecutively weaker.
 
 Legends exist from a time when there were witches so powerful that they could burn down a forest with one look and control whole villages with their thoughts. If this is true or not is impossible to know, but that witches were once much more powerful than today is undeniable.
 
