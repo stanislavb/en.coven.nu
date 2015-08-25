@@ -69,7 +69,9 @@ Every Supreme of every coven has gone through the The Seven Trials and proven th
 
 You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the reveal of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no available research to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in their death.
 
-It has previously been the tradition that the Supreme should personally select the witches that will partake in the Seven Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake.
+It has previously been the tradition that the Supreme should personally select the witches that will partake in the Seven Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake. If they are willing to pay the price even a junior Witch can take the Trials.
+
+*We will ask all those interested in taking the Trials to report to us on the friday, and explain everything you'd need to know about taking part of them at that time.*
 
 **The Witches’ Council** 
 
