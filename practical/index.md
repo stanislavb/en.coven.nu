@@ -21,13 +21,12 @@ image:
 ## Location
 <iframe src="https://www.google.com/maps/embed/v1/place?q=frustuna&key=AIzaSyClEWLh20lxrQBFR7omuuVESviszPxONyk" width="100%" height="100%" frameborder="0" style="border:0"></iframe>
 
-Frustunaby, 20 min walk from Gnesta Station.  
-Trains go regularly.  
-One hour drive from Stockholm center.
+**Frustunaby, 20 min walk from Gnesta Station. Trains go regularly from Stockholm Central Station.   
+An hour and half drive from Stockholm city center. There is a small car park next to the venue.**
 
-Four larger cabins built mid 17th century, beside a large lake with a space for outdoor grilling. One of the cabins is fully wheelchair accessible (including large toilet in same house) and there is a ramp avaliable for access to other houses.
+Four larger cabins built mid 17th century, beside a large lake with a space for outdoor grilling. One of the cabins is fully wheelchair accessible (including large toilet in same house) and there is a ramp avaliable for access to other houses. *Let us know as soon as possible if you require this access.*
 
-[Pictures of Frustunaby](http://old.scoutkansliet.se/frus/frusbild.htm)
+Click here to see [Pictures of Frustunaby](http://old.scoutkansliet.se/frus/frusbild.htm)
 
 ## Date, Time & Players
 
