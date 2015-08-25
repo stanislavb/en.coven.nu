@@ -81,7 +81,7 @@ The workshop will include:
 ## Sleeping arrangements
 
 The Supreme sleeps in her own room in the house called Lillstugan. *No own toilet or shower.*       
-The Sekonds sleep in their own rooms in the house called Backstugan. *One shared bathroom and shower.*  
+The Seconds sleep in their own rooms in the house called Backstugan. *One shared bathroom and shower.*  
 The Seniors share two rooms with two bunkbeds in each room, in the same house as the Sekonds. *One shared bathroom and shower.*  
 The Juniors sleep in two open dormitories in the house called Logementet. *Three shared toilets and two showers.*  
 
