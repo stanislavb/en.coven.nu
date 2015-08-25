@@ -87,7 +87,6 @@ The Juniors sleep in two open dormitories in the house called Logementet. *Three
 
 We will not be dividing the rooms up into genders.      
 Remember that there are more than two genders present at this LARP.  
-If you feel uncomfortable sharing rooms with someone of a different gender than your own, contact us as soon as possible and we will do our best to find a solution.  
 
 ## Participant Contract
 
