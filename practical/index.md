@@ -74,9 +74,9 @@ The workshop will include:
 7. Ear plugs (optional, but you will be sharing a room).
 8. A WATCH (You’ll need it. The venue isn’t big, but it is big enough not to notice that everyone else has disappeared and there will be some times you are expected to keep).
 
-Juniors: As your character you have arrived at the coven the day of the LARP and will not be expected to bring more than minimal baggage. 
+**Juniors:** As your character you have arrived at the Coven the day of the LARP and will not be expected to bring more than minimal baggage. 
 
-Acting Supreme, Seconds and Seniors: Your character has lived in the Dahlin Coven for at least a year. You have the same minimum gear expectations as the Juniors but you may of course choose to bring more, to decorate your rooms etc. 
+**Acting Supreme, Seconds and Seniors:** Your character has lived in the Dahlin Coven for at least a year, some of you several years. You have the same minimum gear expectations as the Juniors but you may of course choose to bring more, to decorate your rooms etc. 
 
 ## Sleeping arrangements
 
