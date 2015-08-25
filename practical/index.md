@@ -45,7 +45,7 @@ Sponsor: 1100kr
 Base price: 850kr  
 Reduced price: 650kr  
 
-*Thanks to the support of http://larpfund.org/ we ahve been able to offer four reduced tickets.*
+*Thanks to the support of http://larpfund.org/ we have been able to offer four reduced tickets.*
 
 ## Workshop
 
@@ -60,16 +60,23 @@ The workshop will include:
  - Relationship building
  - Safety techniques and key words
  - Meta-techniques and Game Mechanics
- - The narrative plot and time plan
+ - The narrative plot and time schedule 
  - Getting into character
 
 ## What to bring with you
 
-Juniors: As your character you have arrived at the coven the day of the LARP and will only be expected to bring minimal baggage. Overnight gear such as a toothbrush, pyjamas, towel etc is recommended and at least one change of black clothes is required. There are beds and bedding on site, you will need to bring your own bed linen however. 
+1. At least one pair of black clothing (that you are not afraid to get blood on).
+2. Bed linen (a pillow and a bed cover is provided).  
+3. Toothbrush.    
+4. Towel.    
+5. Pyjamas.    
+6. Indoor slippers (optional, but no shoes are allowed indoors).  
+7. Ear plugs (optional, but you will be sharing a room).
+8. A WATCH (You’ll need it. The venue isn’t big, but it is big enough not to notice that everyone else has disappeared and there will be some times you are expected to keep).
 
-Ear plugs are recommended since you will be sleeping in dorms. Bring a watch to the larp. You’ll need it. The venue isn’t big, but it is big enough not to notice that everyone else has disappeared and there will be some times you are expected to keep.
+Juniors: As your character you have arrived at the coven the day of the LARP and will not be expected to bring more than minimal baggage. 
 
-Acting Supreme, Seconds and Seniors: Your character has lived in the Dahlin Coven for at least a year. You have the same minimum gear expectations as the juniors but you may of course choose to bring more, to decorate your rooms etc. 
+Acting Supreme, Seconds and Seniors: Your character has lived in the Dahlin Coven for at least a year. You have the same minimum gear expectations as the Juniors but you may of course choose to bring more, to decorate your rooms etc. 
 
 ## Sleeping arrangements
 
