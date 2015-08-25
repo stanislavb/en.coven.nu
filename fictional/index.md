@@ -20,7 +20,7 @@ image:
 
 ## History
 
-Witches have always existed. They have always tried to keep themselves hidden and avoid discovery by the outside world. Most witches have lived in covens: a group of witches bonded together in a specific place and ruled by one witch: The Supreme. These covens have been their homes, refuge and community. 
+Witches have always existed. They have always tried to keep themselves hidden and avoid discovery by the outside world. Most witches have lived in covens: a group of witches bonded together in a specific place and ruled by one witch: The Supreme Witch or Supreme for short. These covens have been their homes, refuge and community. 
 
 
 Witch hunters have existed as long as witches have. Under the cover of a variety of organizations they have tracked and killed witches for generations. The balance had always been pretty even, but over the last thirty years the witch hunters have succeeded in exterminating coven after coven. 
