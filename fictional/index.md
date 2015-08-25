@@ -65,7 +65,7 @@ There are of course limits, should a Supreme go mad and begin murdering their me
 
 **The Seven Trials**
 
-Every Supreme of every coven has gone through the The Seven Trials and proven themselves to be the most powerful witch in their coven: able to command all seven powers of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. 
+Every Supreme of every coven has gone through the The Seven Trials and proven themselves to be the most powerful witch in their coven: able to command all seven of the original powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. 
 
 You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the reveal of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no available research to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in their death.
 
