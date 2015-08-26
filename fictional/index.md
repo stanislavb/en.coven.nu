@@ -122,13 +122,19 @@ The powers manifests differently depending on the witch: some can only use them 
 
 ### Mortis: Touch of Death
 
-The power to take life is a volatile power and very hard to control. It originates from the power: Descensum.
+Mortis is the power to take life. It comes from the Original Power: Descensum. Descensum being the decent into a hell dimension where your worst nightmares repeat endlessly, so if you kill someone with Mortis, you send them to this eternal hell. This is also a more true death than by knife or Transfero and needs a witch with Vitalis as their Primary Power to undo.  
 
-Mortis requires skin to skin contact: the words “Alma, Mortis” are spoken and the victim will feel their body shut down step by step as they die. The death takes as long to complete as the skin contact remains. Meaning that you can kill slowly or quickly depending on touch.
+**If it is your primary power:** You do not require skin contact to use it, but you must be visible to the person/s you are casting on. You can cast on more than one person at the same time.    
 
-Mortis manifests differently depending on the witch; some can only use it when taken over by a strong emotion, some have no control at all and use it without meaning to, some can use it at will but require more skin contact to do so etc.
+**It is known:** *A powerful enough Mortis witch can make a deal with the Gate Keeper of Descensum for a longer life in exchange for the souls of others. This make other witches a little fearful and suspicious of the Mortis witch and earned them a reputation as the witches “most likely to become evil one day”.*  
 
-### Vitalis: Power of Resurrection, Kiss of life, Breath of life
+**If it is not your primary power:** It requires skin contact, you need to link with more witches to cast as if it was a Primary Power.  
+
+**How to use it:** The words “Alma, Mortis” are spoken and the victim will feel their body shut down step by step as they die. You can describe the process of their death to the player i.e. “you can feel your heart rate slow down and your breathing becoming harder…” or you can hold up your hand as a counter to show them how close to their death they are (counting down with your fingers, so five is alive and zero is dead). You can also combine these methods. 
+
+It is possible to be too weak to complete the Mortis: leaving the victim on the brink of death, or for a powerful witch to purposely do so as a form of torture. The damage to the organs caused by the Mortis remain after the witch has stopped casting. Depending on how close to death the victim is the more powerful Vitalis is needed to heal them.
+
+### Vitalis: Power of Resurrection
 
 The power to resurrect the dead is difficult to perfect and requires practice. It originates from the power: Vitalum Vitalis.
 
