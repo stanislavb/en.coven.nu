@@ -48,11 +48,11 @@ Covens are not actually schools, although they do teach their members. They are 
 
 The two ultimate punishment are death by burning or exile.  
 
-**Other Covens you should know of are:**
-* **Dahlin** has been a Coven on the brink of extinction for several years, but once it was an influential coven with strong ties to the Council.
-* **Ekdal** is a large prestigious Coven with close ties to the Witches’ Council. Many of its witches go on to work for the Council.
-* **Almsted** is also a respectable Coven with loyalties to the Council.
-* **Holm** was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. About a year ago it was attacked and destroyed by the witch hunters.
+**Other Covens you should know of are:**  
+* **Dahlin** has been a Coven on the brink of extinction for several years, but once it was an influential coven with strong ties to the Council.  
+* **Ekdal** is a large prestigious Coven with close ties to the Witches’ Council. Many of its witches go on to work for the Council.  
+* **Almsted** is also a respectable Coven with loyalties to the Council.  
+* **Holm** was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. About a year ago it was attacked and destroyed by the witch hunters.  
 
 **The Oaths**  
 You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme.  
