@@ -140,7 +140,7 @@ The power to resurrect the dead and heal the living. It comes from the Original 
 
 **If it is your Primary Power:** You can resurrect yourself from the dead. You can heal yourself and others. You can resurrect someone killed by Mortis. (One of the side effects of being raised back from Mortis is the euphoric rush of life. This has resulted in some witches using Mortis and Vitalis on each other to get a kick, known as M&V).  
 
-**It is known:** *Vitalis witches share of their life energy to heal others, this should shorten their lifespan considerably, but since they also constantly heal themselves it often isn’t as dire as it could be. A powerful Vitalis witch can begin to suck the life energy out of those whom they heal and prolong their own life. This can make some witches reluctant to be healed by a powerful Vitalis witch.*  
+**It is known:** *Vitalis witches share of their life energy to heal others, this should shorten their lifespan considerably, but since they also constantly heal themselves it often isn’t as dire as it could be. A powerful Vitalis witch can begin to suck the life energy out of those whom they heal and prolong their own life. This can make some witches reluctant to be healed by a powerful Vitalis witch, even though it is very unusual and can take half a lifetime to achieve.*  
 
 **If it is not your primary power:** You can heal yourself and others, but you can not resurrect yourself from the dead. You need to link with more witches to heal someone from Mortis.  
 
