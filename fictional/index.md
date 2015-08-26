@@ -136,15 +136,19 @@ It is possible to be too weak to complete the Mortis: leaving the victim on the 
 
 ### Vitalis: Power of Resurrection
 
-The power to resurrect the dead is difficult to perfect and requires practice. It originates from the power: Vitalum Vitalis.
+The power to resurrect the dead and heal the living. It comes from the Original Power: Vitalum Vitalis. It is a very respected and powerful gift to have, but also exhausting, you share your own life force with others to heal them.  
 
-Vitalis requires skin to skin contact: the words “Alma, Vitalis” are spoken before gently blowing life back into the victim, most often through the nose or mouth, some witches kiss instead. 
+**If it is your Primary Power:** You can resurrect yourself from the dead. You can heal yourself and others. You can resurrect someone killed by Mortis. (One of the side effects of being raised back from Mortis is the euphoric rush of life. This has resulted in some witches using Mortis and Vitalis on each other to get a kick, known as M&V).  
 
-Mastering Vitalis successfully is no easy feat and the side effects of being raised from the dead can be dire if it is not done correctly. Brain damage, loss of speech, sight or use of limbs can be some of the results of an unfinished or badly executed Vitalis. Luckily it can often be corrected by more powerful Vitalis. 
+**It is known:** *Vitalis witches share of their life energy to heal others, this should shorten their lifespan considerably, but since they also constantly heal themselves it often isn’t as dire as it could be. A powerful Vitalis witch can begin to suck the life energy out of those whom they heal and prolong their own life. This can make some witches reluctant to be healed by a powerful Vitalis witch.*  
 
-Vitalis can also be used to heal wounds and repair damage to the body of the living.
+**If it is not your primary power:** You can heal yourself and others, but you can not resurrect yourself from the dead. You need to link with more witches to heal someone from Mortis.  
 
-One of the side effects of being raised back from the dead is the euphoric rush of life. This has resulted in some witches using Mortis and Vitalis on each other to get a kick. There are of course many risks. The longer the subject is dead the better the high may be, but strong witch is also needed complete the Vitalis. Not all trips are pleasant.
+**How to use it:** Vitalis requires skin to skin contact: the words “Alma: Vitalis” and you can either describe the process of their resurrection to the player i.e. “your can feel you heart rate slowly start pumping again and air starts to fill your lungs…” or you can gently blow on the player's forehead and around the face. or hold up your hand as a counter to show them the count down to their resurrection (counting down with your fingers, so five is dead and zero is alive). You can also combine these methods.
+
+A slow careful resurrection is desirable and not only the sign of a controlled, powerful witch, but also the best way to revive someone. However an inexperienced witch or a time pressed one can kick start your heart like an adrenaline kick: that is not a pleasant way to be revived.  
+
+A weaker witch may not be able to complete the Vitalis: causing terrible side effects, or a skillful witch might do so on purpose. Side effects of an incomplete Vitalis can include: brain damage, loss of speech, sight, or use of limbs and needs to be healed again with a stronger Vitalis. Vitalis witches can also help restore the memories of someone who has been exposed to powerful or repeated Concilium by healing the brain tissue damaged.  
 
 ### Concilium: Mind Control
 
