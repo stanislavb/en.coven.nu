@@ -142,7 +142,7 @@ The power to resurrect the dead and heal the living. It comes from the Original 
 
 **It is known:** *Vitalis witches share of their life energy to heal others, this should shorten their lifespan considerably, but since they also constantly heal themselves it often isn’t as dire as it could be. A powerful Vitalis witch can begin to suck the life energy out of those whom they heal and prolong their own life. This can make some witches reluctant to be healed by a powerful Vitalis witch, even though it is very unusual and can take half a lifetime to achieve.*  
 
-**If it is not your primary power:** You can heal yourself and others, but you can not resurrect yourself from the dead. You need to link with more witches to heal someone from Mortis.  
+**If it is not your primary power:** You can heal yourself and others, but you can not resurrect yourself from the dead. You need to link with more witches to heal someone killed by Mortis.  
 
 **How to use it:** Vitalis requires skin to skin contact: the words “Alma: Vitalis” and you can either describe the process of their resurrection to the player i.e. “your can feel you heart rate slowly start pumping again and air starts to fill your lungs…” or you can gently blow on the player's forehead and around the face. or hold up your hand as a counter to show them the count down to their resurrection (counting down with your fingers, so five is dead and zero is alive). You can also combine these methods.
 
