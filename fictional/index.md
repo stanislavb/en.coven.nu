@@ -72,8 +72,7 @@ The personality of the Supreme steers the coven: a kind Supreme nourishes its co
 
 There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (but only if they have sworn the oath). It is generally seen as bad taste to mistreat your coven and since its survival relies on new witches joining it, not the smartest move.
 
-**The Seven Trials**
-
+**The Seven Trials**  
 Every Supreme of every coven has gone through the The Seven Trials and proven themselves to be the most powerful witch in their coven: able to command all seven of the Original Powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. 
 
 You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the reveal of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no available research to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in their death.
@@ -82,15 +81,12 @@ It has previously been the tradition that the Supreme should personally select t
 
 *We will ask all those interested in taking the Trials to report to us on the friday, and explain everything you'd need to know about taking part of them at that time.*
 
-**The Witches’ Council** 
+**The Witches’ Council**   
+The largest and oldest recorded Coven in the world.  For hundreds of years it has been the highest authority amongst the Covens. It functions as the magical communities police, legal system and army. This Coven and its Supreme are heavily guarded, its exact location is kept secret and its agents exist all over world. Its current Supreme Witch is the recently selected Alessa Caito.
 
-The largest and oldest recorded Coven in the world. For hundreds of years it has been the highest authority amongst the Covens. It functions as the magical communities police, legal system and army. This Coven and its Supreme are heavily guarded and its exact location in the world is kept secret. 
+The Council does not only protect the community, they also have their own ideas and traditions that they expect their members to answer to and can mete out punishments, or give orders to Covens against the wishes of the Covens own Supreme. Most importantly they themselves are bound to follow the wishes of their own Supreme Witch, like all Covens. 
 
-Its current Supreme Witch is the rather newly ordained Alessa Caito. Agents of the Council exist all over world. These agents are respected and feared as direct extensions of the will of the Council and The Supreme Witch Alessa.
-
-It is expected that the Supremes swear an oath to the Council on behalf of their Coven. Thereby placing everyone in their Coven under the Council's protection and power. Supremes are only answerable to the Council.
-
-The Witches’ Council can only exercise this power over those that have sworn the oath to them, and they cannot force a Supreme or any other witch to swear the oath. However most covens  traditionally do so and those that do not are often regarded with suspicion. 
+The Witches’ Council can only exercise this power over those that have sworn the oath to them, and they cannot force a Supreme or any other witch to swear the oath. However it is expected that all Supremes swear the oath to the Council on behalf of their Coven. Thereby placing everyone in their Coven under the Council's protection and power, those that do not are regarded with suspicion. 
 
 ## Magic 
 
