@@ -65,13 +65,12 @@ You cannot swear an oath to two covens at the same time. The only exception bein
 
 *The original Dahlinians may well already have sworn the oath previously when the Coven did have Supreme, if the player wishes.*  
 
-**The Supreme Witches** 
+**The Supreme Witches**  
+The Supreme Witch of a coven is selected by The Seven Trials, these can only take place on the covens ground. The coven is ruled by its Supreme and all the witches in the coven must answer to their Supreme. The stronger the Supreme the stronger the rest of the coven becomes. 
 
-The Supreme Witch is summoned by The Seven Trials, these can only take place on the Covens ground. The Coven is ruled by its Supreme and all the witches in the Coven must answer to their Supreme. The stronger the Supreme the stronger the rest of the Coven becomes. 
+The personality of the Supreme steers the coven: a kind Supreme nourishes its coven and creates harmony, a nasty Supreme poisons the coven and creates conflict. Still it would be an offence punishable by death to try to kill your Supreme, so you must simply hope for better luck next time.
 
-The personality of the Supreme steers the Coven: a kind Supreme nourishes its Coven and creates harmony, a nasty Supreme poisons the Coven and creates conflict. Still it would be an offence punishable by death to try to kill your Supreme, so you must simply hope for better luck next time.
-
-There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (if they have sworn to it). It is also generally seen as bad taste to mistreat your Coven and, since its survival relies on new witches joining it, not the smartest move.
+There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (but only if they have sworn the oath). It is generally seen as bad taste to mistreat your coven and since its survival relies on new witches joining it, not the smartest move.
 
 **The Seven Trials**
 
