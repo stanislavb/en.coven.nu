@@ -55,7 +55,8 @@ The two ultimate punishment are death by burning or exile.
 * **Holm** was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. About a year ago it was attacked and destroyed by the witch hunters.
 
 **The Oaths**  
-You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme.     
+You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme.  
+
 Having been less than thirteen, with no Supreme, the current Dahlin Coven could not swear in its newest members (from Ekdal, Almsted and Holm). This means that if the Coven had continued to dwindle, or no more witches joined it, it would have been acceptable to leave for another coven after a while.  
 
 Witches are trained at a coven until they choose to take the oath, usually somewhere in their early twenties. You do not have to swear your oath to the coven that trained you, but most do. It is also not unusual that young witches from larger and more thriving covens are sent to smaller covens to try and revive them. As a Senior you may have been asked, ordered or volunteered to go to the Dahlin Coven.  
