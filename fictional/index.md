@@ -88,6 +88,11 @@ The Council does not only protect the community, they also have their own ideas 
 
 The Witches’ Council can only exercise this power over those that have sworn the oath to them, and they cannot force a Supreme or any other witch to swear the oath. However it is expected that all Supremes swear the oath to the Council on behalf of their Coven. Thereby placing everyone in their Coven under the Council's protection and power, those that do not are regarded with suspicion. 
 
+**Family Names and Protégés**  
+Having a good family name can help you get into a stronger, more prestigious or even safer coven. If you have a recognisable name it most likely means you come from a long line of prominent witches or have a famous ancestor.  
+
+If you have no living family (within the magical community) and no strong family name, but you are proving to be a powerful witch, another family can take you in and give you their name. A popular practice with the Council. Most witches are impressed by a Protégé, since it means you are strong enough to be favoured by the Council, but it can also cause jealousy.  
+
 ## Magic 
 
 All magic in this universe is linked to the powers present in The Seven Trials: Mortis, Vitalis, Concilium, Clairvoyance, Transfero, Telekinesis and Pyrokinesis. What that means is that as long as you can link it to one of the powers, it can be done: i.e. a ritual to load an amulet with the power of Vitalis to heal someone or protect from a deadly attack. Or maybe “curse” an object using Transfero, causing the first person to touch it to feel intense hatred or despair. 
