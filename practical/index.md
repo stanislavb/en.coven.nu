@@ -50,7 +50,7 @@ Reduced price: 650kr
 ## Workshop
 
 **The workshop is obligatory.**  
-Starts at 10.00 and finishes at 16.00, with an hour for lunch.  
+Starts at 10.00 and finishes at 16.00, with an hour for lunch (provided by us).  
 You then have an hour before the larp starts to prepare your things OFF.    
 You will be expected to have learnt the five powers before the workshop. 
 
