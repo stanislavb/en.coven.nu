@@ -92,7 +92,6 @@ The Witches’ Council can only exercise this power over those that have sworn t
 Having a good family name can help you get into a stronger, more prestigious or even safer coven. If you have a recognisable name it most likely means you come from a long line of prominent witches or have a famous ancestor.  
 
 If you have no living family (within the magical community) and no strong family name, but you are proving to be a powerful witch, another family can take you in and give you their name. A popular practice with the Council. Most witches are impressed by a Protégé, since it means you are strong enough to be favoured by the Council, but it can also cause jealousy.  
-
 ## Magic 
 
 All magic in this universe is linked to the powers present in The Seven Trials: Mortis, Vitalis, Concilium, Clairvoyance, Transfero, Telekinesis and Pyrokinesis. What that means is that as long as you can link it to one of the powers, it can be done: i.e. a ritual to load an amulet with the power of Vitalis to heal someone or protect from a deadly attack. Or maybe “curse” an object using Transfero, causing the first person to touch it to feel intense hatred or despair. 
@@ -105,15 +104,21 @@ The LARP aims for a type or realism (with magic, yes I know), but basically try 
 
 *These Rituals, Chants etc do not have a right or wrong way that they can be done (we will go through ideas for them during the workshop). In game, if you want it to work it will. If you don't want it to, mess it up. Absolutely best is to communicate with the players involved OFF before hand. However as a junior: if a Senior, Second or the The Supreme tells you something isn't going to work or breaks off a ritual or spell, they are always right.* 
 
-## The Five Powers
+## The Five Powers  
 
-As the covens began to die out and more witches stopped using their gifts, the powers got weaker over all. The two rarest powers: Pyrokinesis and Telekinesis disappeared almost all altogether, only Supremes can use them after having gained them through The Seven Trials. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today. 
+As the covens began to die out and more witches stopped using their gifts, the powers got weaker over all. The two rarest powers: Pyrokinesis and Telekinesis disappeared altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today, they are all watered down versions of the Seven Original Powers used in The Seven Trials.  
 
-Your first power to develop is called your Primary Power. All your powers after your primary power are consecutively weaker.
+Your first power to develop is called your Primary Power. All your powers after your Primary Power are consecutively weaker. Having a power as your Primary Power means you get both its greatest advantages and its greatest disadvantages. Having a power as your second or third power means that you may have to link with other witches to reach the effects of having it as a Primary Power.  
 
-Legends exist from a time when there were witches so powerful that they could burn down a forest with one look and control whole villages with their thoughts. If this is true or not is impossible to know, but that witches were once much more powerful than today is undeniable.
+Primary Powers are the ones that can go Rogue. Meaning that if a witch has Transfero as their Primary Power and doesn't keep complete control over it, their most private feelings might suddenly “leak out” to those around them or a Mortis witch might trigger their power accidentally when taken over by a sudden strong emotion, like happiness or love.  
 
-*Players have a lot of personal input into how they want to play on their powers and how powerful they want to be. This is something we trust you the player with. We would like to see that all players facilitate their co-players as much as possible with this. But it is always possible to avoid being bewitched and to blame this on weak powers or a sudden powerful defence. This exists so that players do not feel forced to play on things they are uncomfortable with OFF.*
+Playing on your primary power going Rogue can be done but saying "Alma, [insert primary power]" without directing it at any one in particular: perhaps as you gossip with friends you accidentally use Clairvoyance, say Mortis during sex or shout Transfero when you accidentally hurt yourself. It is then up to the player/s that heard you to play on it if they wish.  
+
+Witches who share the same Primary Power have an automatically closer connection to each other. They can more easily resist when others use their own power on them and they can more easily tell when someone else is using the same power close by.  
+
+The powers manifests differently depending on the witch: some can only use them only when taken over by a strong emotion, some have no control at all and use them without meaning to, some can use it at will but not always to completion, etc. The more powerful the witch (with training) the more control they should have over their powers, but this may also mean that when they do lose control the result is even more damaging.  
+
+*It is always up to the player getting the power cast on them whether they wish to play on it or not. It is always possible to opt-out of being bewitched and to blame this on weak powers or a sudden powerful defence. This exists so that players do not feel forced to play on things they are uncomfortable with OFF. For this reason: if a player doesn’t respond the first time, they may not have heard you, if they do not respond the second time they are probably choosing not to play on it. Do not say it a third time. We do however hope you all help each other out and make great scenes together.*
 
 ### Mortis: Touch of Death
 
