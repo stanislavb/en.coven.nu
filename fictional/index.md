@@ -35,6 +35,8 @@ This is the situation now. Newly rescued witches arrive at a Swedish coven to di
 
 ## Hierarchy and World Structure
 
+*If you are playing a junior this is not necessary information for you to know, but it can be worth skimming it to help you understand what’s going on around you more quickly during the game.*  
+
 **The Covens**  
 There are several covens around the world. They are stationary, formed in areas with a strong magical energy. This energy responds to the Coven: a large coven makes it stronger, a strong Supreme makes it stronger, strong witches make it stronger, and in turn stronger Supremes appear, and so forth. When a coven starts to die out the energy starts to wane.  
 
