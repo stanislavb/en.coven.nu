@@ -54,13 +54,15 @@ The two ultimate punishment are death by burning or exile.
 * **Almsted** is also a respectable Coven with loyalties to the Council.
 * **Holm** was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. About a year ago it was attacked and destroyed by the witch hunters.
 
-**The Oaths** 
+**The Oaths**  
+You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme.   
+Having been less than thirteen, with no Supreme, the current Dahlin Coven could not swear in its newest members (from Ekdal, Almsted and Holm). This means that if the Coven had continued to dwindle, or no more witches joined it, it would have been acceptable to leave for another coven after a while.  
 
-You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme. 
+Witches are trained at a coven until they choose to take the oath, usually somewhere in their early twenties. You do not have to swear your oath to the coven that trained you, but most do. It is also not unusual that young witches from larger and more thriving covens are sent to smaller covens to try and revive them. As a Senior you may have been asked, ordered or volunteered to go to the Dahlin Coven.  
 
-Witches apply to a coven by their early teens (as their powers emerge) and are trained there until they choose to take the oath, usually somewhere in their early twenties. You do not have to swear your oath to the coven that trained you, however most do.
+You cannot swear an oath to two covens at the same time. The only exception being the Witches’ Council (no one knows how they can do this). Unlike the oath to your Coven, which binds you for life, the longevity of your oath to the Witches’ Council depends on who swore it. If you swore it directly to them it lasts the rest of your life, if the Supreme of your Coven swore it on behalf of the whole Coven: it last their lifetime and has to be renewed by the next Supreme.  
 
-You cannot swear an oath to two covens at the same time. The only exception being the Witches’ Council (no one knows how they can do this). Unlike the oath to your Coven, which binds you for life, the longevity of your oath to the Witches’ Council depends on who swore it. If you swore it directly to them it lasts the rest of your life, if the Supreme of your Coven swore it on behalf of the whole Coven: it last their lifetime and has to be renewed by the next Supreme.
+*The original Dahlinians may well already have sworn the oath previously when the Coven did have Supreme, if the player wishes.*  
 
 **The Supreme Witches** 
 
