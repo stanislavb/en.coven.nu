@@ -88,28 +88,23 @@ It has been the tradition that the Supreme should personally select the witches 
 
 *We will ask all those interested in taking the Trials to report to us on friday, and explain everything you’d need to know about taking part of them at that time. Ingame you won’t know that the trails will be held during the weekend.*
 
-**The Witches’ Council**   
+### The Witches’ Council   
 The largest and oldest recorded Coven in the world.  For hundreds of years it has been the highest authority amongst the Covens. It functions as the magical communities police, legal system and army. This Coven and its Supreme are heavily guarded, its exact location is kept secret and its agents exist all over world. Its current Supreme Witch is the recently selected Alessa Caito.
 
-The Council does not only protect the community, they also have their own ideas and traditions that they expect their members to answer to and can mete out punishments, or give orders to Covens against the wishes of the Covens own Supreme. Most importantly they themselves are bound to follow the wishes of their own Supreme Witch, like all Covens. 
+The Witches’ Council can only exercise this power over those that have sworn the oath to them, and they cannot force a Supreme or any other witch to swear the oath. However it is expected that all Supremes swear the oath to the Council on behalf of their Coven. Thereby placing everyone in their Coven under the Council's protection and power; and those who do not swear allegiance to the Council are regarded with suspicion.  
 
-The Witches’ Council can only exercise this power over those that have sworn the oath to them, and they cannot force a Supreme or any other witch to swear the oath. However it is expected that all Supremes swear the oath to the Council on behalf of their Coven. Thereby placing everyone in their Coven under the Council's protection and power, those that do not are regarded with suspicion. 
-
-**Family Names and Protégés**  
-Having a good family name can help you get into a stronger, more prestigious or even safer coven. If you have a recognisable name it most likely means you come from a long line of prominent witches or have a famous ancestor.  
+### Family Names and Protégés  
+Having a good family name can help you get into a stronger, more prestigious or even safer coven. If you have a recognisable name it most likely means you come from a long line of prominent witches or have a famous ancestor. 
 
 If you have no living family (within the magical community) and no strong family name, but you are proving to be a powerful witch, another family can take you in and give you their name. A popular practice with the Council. Most witches are impressed by a Protégé, since it means you are strong enough to be favoured by the Council, but it can also cause jealousy.  
-## Magic 
+## About Magic 
+The LARP aims for a type or realism (with magic, yes we know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, symbols, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
 
-All magic in this universe is linked to the powers present in **The Seven Trials: Descensum (Mortis), Vitalium Vitalis, Concilium, Clairvoyance, Transmutation (Transfero), Telekinesis and Pyrokinesis.** What that means is that as long as you can link it to one of the powers, it can be done: i.e. a ritual to load an amulet with the power of Vitalis to heal someone or protect from a deadly attack. Or maybe “curse” an object using Transfero, causing the first person to touch it to feel intense hatred or despair. 
+All magic in this universe stems from the **Original Powers** of **The Seven Trials**: Descensum, Vitalium Vitalis, Concilium, Clairvoyance, Transmutation, Telekinesis and Pyrokinesis. This means that as long as you can link it to one of the powers, it can be done. 
 
-Tarot cards, crystals, amulets, rituals etc can all be used to chanel, store, enhance or protect against magic. However the bigger the effect wanted the more tiring and time consuming to use or create: requiring preparation, patience or great strength. (Also if you do make for example, a cursed object, either inform the person you plan to use it on or leave a little note on it or something so other players know how to play on it).
+You can lend your fellow witches your strength through linking together (with a ritual, chant, joining hands etc). But you can not “give” another witch your own powers. 
 
-You can also lend your fellow witches your strength through linking together (with a ritual, chant, joining hands etc): i.e. if a witch with Vitalis is too weak to heal someone, fellow witches can lend them strength to make their power strong enough. You can not “give” another witch your power though: i.e. a witch with Mortis can not lend this power to another witch that doesn’t possess it. This also means that if, say a healing ritual is being done at least one person with Vitalis must be part of it.
-
-The LARP aims for a type or realism (with magic, yes I know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
-
-*These Rituals, Chants etc do not have a right or wrong way that they can be done (we will go through ideas for them during the workshop). In game, if you want it to work it will. If you don't want it to, mess it up. Absolutely best is to communicate with the players involved OFF before hand. However as a junior: if a Senior, Second or the The Supreme tells you something isn't going to work or breaks off a ritual or spell, they are always right.* 
+Tarot cards, crystals, rituals etc can all be used to channel, store, enhance or protect against magic. However the bigger the effect wanted, the more tiring and time consuming to use or create.
 
 ## The Five Powers  
 
