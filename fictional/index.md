@@ -108,11 +108,13 @@ Tarot cards, crystals, rituals etc can all be used to channel, store, enhance or
 
 ## The Five Powers  
 
-As the covens began to die out and more witches stopped using their gifts, the powers got weaker. Pyrokinesis and Telekinesis disappeared altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today: they are all weaker versions of the Original Powers from The Seven Trials.
-Your first power to develop is called your Primary Power. You will get both its greatest advantages and its greatest disadvantages. Your other powers are weaker in descending order but you can link with other witches to reach the effects of having it as a Primary Power.
+As the covens began to die out and more witches stopped using their gifts, the powers got weaker. Pyrokinesis and Telekinesis disappeared altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today: they are all weaker versions of the **Original Powers** from **The Seven Trials**.
+
+Your first power to develop is called your **Primary Power**. You will get both its greatest advantages and its greatest disadvantages. Your other powers are weaker in descending order but you can link with other witches to reach the effects of having it as a Primary Power.
+
 Witches who share the same Primary Power have an automatically closer connection to each other. They can more easily resist when others use their own power on them and they can more easily tell when someone else is using the same power close by.
 
-Primary Powers are the ones that can go Rogue. Playing on your power going rogue can be done but saying "Alma (insert primary power)" without directing it at any one in particular. Meaning that if a witch has Transfero as their Primary Power and doesn't keep control over it, their most private feelings might suddenly “leak out” to those around them or transfer pain as they accidently hurt themselves. A Mortis witch might trigger their power accidentally when taken over by a sudden strong emotion or during sex. The list goes on and on.
+Primary Powers are the ones that can go **Rogue**. Playing on your power going rogue can be done but saying "Alma (insert primary power)" without directing it at any one in particular. Meaning that if a witch has Transfero as their Primary Power and doesn't keep control over it, their most private feelings might suddenly “leak out” to those around them or transfer pain as they accidently hurt themselves. A Mortis witch might trigger their power accidentally when taken over by a sudden strong emotion or during sex. The list goes on and on.
 
 The powers manifests differently depending on the witch: some can only use them when taken over by a strong emotion, some have no control at all and use them without meaning to, some can use them at will but not always to completion, etc. The more powerful the witch (with training) the more control they should have over their powers, but this may also mean that when they do lose control the result can be even more damaging.  
 
