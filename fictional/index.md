@@ -70,7 +70,7 @@ The Supreme Witch of a coven is selected by The Seven Trials. The coven is ruled
 The personality of the Supreme steers the coven: a kind Supreme nourishes its coven and creates harmony, a nasty Supreme poisons the coven and creates conflict. Still it would be an offence punishable by death or exile to try to kill your Supreme, so you must simply hope for better luck next time.
 
 ### The Seven Trials  
-Every Supreme has gone through the The Seven Trials and proven themselves able to command all seven of the Original Powers. The Original Powers are the pure forms of the currently existing weaker powers. Only during the Trials can these once again be accessed, and only by the witches in the Trials. Any powers gained during the Trials revert to being the weaker form once the Trial is over.
+Every Supreme has gone through the The Seven Trials and proven themselves able to command all seven of the **Original Powers**. The Original Powers are the pure forms of the currently existing weaker powers. Only during the Trials can these once again be accessed, and only by the witches in the Trials. Any powers gained during the Trials revert to being the weaker form once the Trial is over.
 
 **Descensum:** *The power to enter and exit the underworld or afterlife.*  
 **Vitalium Vitalis:** *The power over life, can reanimate the dead.*  
