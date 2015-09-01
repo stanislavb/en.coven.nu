@@ -126,7 +126,7 @@ Mortis is the power to take life. When you kill with Mortis your victim slowly d
 
 **If it is not your Primary Power:** It requires skin contact.
 
-**It is known:** *That a Mortis witch can make a deal with the Gatekeeper of Descensum for a longer life in exchange for innocent souls. Because of this they are regarded as the witches “most likely to become evil one day”. An unfair title since only an extremely powerful Mortis witch could ever hope to strike such a deal.
+**It is known:** *That a Mortis witch can make a deal with the Gatekeeper of Descensum for a longer life in exchange for innocent souls. Because of this they are regarded as the witches “most likely to become evil one day”. An unfair title since only an extremely powerful Mortis witch could ever hope to strike such a deal.*
 
 **How to use it:** The words “Alma Mortis” are spoken and the victim's body will shut down step by step as they die. 
 
@@ -136,51 +136,71 @@ You can play on being unable to complete the Mortis: leaving the victim on the b
 
 **There will be consequences:** If you use Mortis too much the barrier between Descensum and your consciousness begins to break. Giving you terrible nightmares or hallucinations.
 
-### Vitalis: Power of Resurrection
+## Vitalis: Power of Resurrection
 
-The power to resurrect the dead and heal the living. It comes from the Original Power: Vitalum Vitalis. It is a very respected and powerful gift to have, but also exhausting, you share your own life force with others to heal them.  
+The power to resurrect the dead and heal the living. This is the power that can bring someones soul back from Descensum (Mortis). 
 
-**If it is your Primary Power:** You can resurrect yourself from the dead. You can heal yourself and others. You can resurrect someone killed by Mortis. (One of the side effects of being raised back from Mortis is the euphoric rush of life. This has resulted in some witches using Mortis and Vitalis on each other to get a kick, known as M&V).  
+**If it is your Primary Power:** You can resurrect yourself from the dead. 
 
-**It is known:** *Vitalis witches share of their life energy to heal others, this should shorten their lifespan considerably, but since they also constantly heal themselves it often isn’t as dire as it could be. A powerful Vitalis witch can begin to suck the life energy out of those whom they heal and prolong their own life. This can make some witches reluctant to be healed by a powerful Vitalis witch, even though it is very unusual and can take half a lifetime to achieve.*  
+**If it is not your Primary Power:** You can not resurrect yourself from the dead. 
 
-**If it is not your primary power:** You can heal yourself and others, but you can not resurrect yourself from the dead. You need to link with more witches to heal someone killed by Mortis.  
+**It is known:** *That Vitalis witches share their life force to heal others, this shortens their lifespan gradually. A powerful Vitalis witch can begin to suck the life force out of those whom they heal and prolong their own life. This can make some witches reluctant to be healed by a powerful Vitalis witch, even though it can take half a lifetime to achieve such power.*
 
-**How to use it:** Vitalis requires skin to skin contact: the words “Alma: Vitalis” and you can either describe the process of their resurrection to the player i.e. “your can feel you heart rate slowly start pumping again and air starts to fill your lungs…” or you can gently blow on the player's forehead and around the face. or hold up your hand as a counter to show them the count down to their resurrection (counting down with your fingers, so five is dead and zero is alive). You can also combine these methods.
+**How to use it:** You say the words “Alma Vitalis” and then you can either describe the process of their resurrection to the player i.e. “your can feel you heart slowly start pumping again…” or hold up your hand as a counter to show them the count down to their resurrection (counting down with your fingers, so five is dead and zero is alive). You can also combine these methods.
 
-A slow careful resurrection is desirable and not only the sign of a controlled, powerful witch, but also the best way to revive someone. However an inexperienced witch or a time pressed one can kick start your heart like an adrenaline kick: that is not a pleasant way to be revived.  
+A slow careful resurrection is desirable and also the best way to revive someone safely. However an inexperienced witch or a time pressed one can kick start the heart like an adrenaline shock: that is not a pleasant way to be revived.
 
-A weaker witch may not be able to complete the Vitalis: causing terrible side effects, or a skillful witch might do so on purpose. Side effects of an incomplete Vitalis can include: brain damage, loss of speech, sight, or use of limbs and needs to be healed again with a stronger Vitalis. Vitalis witches can also help restore the memories of someone who has been exposed to powerful or repeated Concilium by healing the brain tissue damaged.  
+You can play on being unable to complete the Vitalis (causing terrible side effects) or might do it on purpose. Side effects of an incomplete Vitalis can include: brain damage, loss of speech, sight, or use of limbs. 
 
-### Concilium: Mind Control
+**There will be consequences:** Vitalis takes from your life force, making you tired and shortening your life little by little. This can make a Vitalis witch less keen to use the power frequently, but young witches don’t always think too much about the future.
 
-The power to control another’s mind and body. It originates from the power: Concilium.
+## Concilium: Mind Control
 
-Eye contact with the victim is always required: the words “Alma, Concilium” are followed by instructions i.e. “Alma, Concilium. Slap yourself” or a more complex variant would be “Alma, Concilium: Go make me a cup of tea”. 
+The power to control another’s mind and body. Concilium controls the body, turning it into a tool to perform a desired task, but it can not change the true thoughts and feelings of the victim. 
 
-The strength of the witch versus the strength of the victim is relevant when using Concilium, a stronger witch might be able to resist a Concilium by a weaker witch. Even a weaker witch might snap out of Concilium mid-tea brewing. Concilium might leave a victim feeling confused and disoriented or have them trapped, fully aware of their actions but unable to stop themselves.
+**If it is your Primary Power:** You can use it on more than one person at a time.
 
-A good indicator that Concilium has been used is the sharp but temporary headache that often follows a longer Concilium exposure. If the victim is being exposed to Concilium repeatedly or has been under Concilium for some time this can even lead to migraines, nausea and vomiting. 
+**If it is not your Primary Power:** You can only use it on one person at a time. 
 
-Prolonged use of Concilium will also have a physical effect on the witch casting it. The negative side effect vary from witch to witch and can include; nosebleeds, headaches, irritability, increased hunger and fatigue.
+**It is known:** *That a witch that casts Concilium on the same subject repeatedly creates a bond that can be hard to break, even by the witch. The constant damage to the brain tissue of the unfortunate victim also creates a zombie like state of total obedience. Fear of this can lead to powerful Concilium Witches excluding themselves (or being excluded) within their Coven.*
 
-### Clairvoyance: Mind Reading
+**How to use it:** Eye contact with the victim is required and the words “Alma Concilium” are followed by instructions i.e. “Alma Concilium: Go get me a cup of tea”. The more logical, short, or simple the action is: the likelier it is to succeed. You can add if you don’t want them to remember you cast it on them at the end of the command. 
 
-The power to read another's thoughts. It originates from the power: Clairvoyance.
+The victim performing the task might be confused or feel trapped: fully aware of their actions but unable to stop themselves. If the victim is being exposed to Concilium repeatedly or has been under Concilium for some time this can lead to migraines, nausea and vomiting.
 
-Eye contact with the victim is always required. Clairvoyance is also much harder to break if there is skin contact between the witch and the victim. The words “Alma, Clairvoyance” are spoken and the victim will start speaking their thoughts out loud; sometimes they do not notice themselves doing this, sometimes they do but cannot stop themselves.
+**There will be consequences:** It takes an incredibly amount of energy to use Concilium. Prolonged use will have a negative physical effect on the witch casting it such as: nosebleeds, headaches, irritability, fatigue and in worse case death. 
 
-As with Concilium the strength of the witch versus the strength of the victim is relevant; a stronger witch might be able to resist or break the Clairvoyance of a weaker witch. A weaker witch might break the spell by managing to break eye contact.  A third person can assist in breaking the eye contact between the witch and their victim.
+## Clairvoyance: Mind Reading
 
-### Transfero: Shifting injury to others
+The power to read another's thoughts and make them speak them out loud. 
 
-The power to transfer pain and injury onto others. It originates from the power: Transmutation. 
+**If it is your primary power:** You can also feel the true emotions of others by saying “Alma Clairvoyance: emotional state”. 
 
-Transfero requires that the witch has eye contact with their victim throughout the transfer. Loss of eye contact breaks the Transfero, but will not undo the damage already transferred. However it is very difficult to break eye contact once the transferal has begun. 
+**If it is not your Primary Power:** You can’t feel the emotions of others around you. 
 
-The witch establishes eye contact, says the words: “Alma, Transfero” and then causes damage to their own body in some way i.e. slaps their own face or stabs a fork in their hand. The victim feels the pain in the witch’s place and will also sustain damage to their body.
+**It is known:** *That Clairvoyant witches have long been pitied in the community. As they grow stronger they require more and more control to shut out the feelings and thoughts of others around them. This constant mental shield can grow exhausting and lead to powerful witches eventually isolating themselves completely or going mad.*
 
-It is harder for a weaker witch to break the Transfero of a stronger witch. Transfero can also be broken by a third person helping to break the eye contact between the witch and their victim.
+**How to use it:** Eye contact with the victim is required. The words “Alma Clairvoyance” are spoken and the victim will start speaking their thoughts out loud. This is usually just a babbling of all the thoughts going through their heads: sometimes they do not notice themselves doing this, sometimes they do but cannot stop themselves.
+
+The witch can also ask direct questions and will most often get truthful answers.
+
+**There will be consequences:** If you use Clairvoyance too much the line between your thoughts and your real voice begin to blur and you will start to say your own thoughts out loud too.
+
+## Transfero: Shifting injury and emotion to others
+
+The power to transfer your own injuries or emotions onto others. 
+
+**If it is your primary power:** You can not harm yourself, even if a casting fails a Transfero witch does not get hurt.
+
+**If it is not your Primary Power:** You can be hurt, if you fail at casting Transfero you keep the damage to your body.
+
+**It is known:** *That as Transfero witches send out their emotions and physical sensitivity they also slowly begin to lose them permanently. Long periods of feeling no physical pain or strong emotions has seen many a Transfero witch become sociopaths as the years pass by.*
+
+**How to use it:** Establish eye contact, say the words: “Alma Transfero” and then cause “damage” to your body in some way i.e. slap your face or say the emotion you want to transfer. The victim feels the pain/emotion in the witch’s place and will also sustain any physical damage to their body.
+
+Loss of eye contact breaks the Transfero, but will not undo the damage already transferred. However it is very difficult to break eye contact once the transferal has begun.
+
+**There will be consequences:** Prolonged use of Transfero will affect the witches impulse control  and they may generally care less about the consequences of their actions. 
 
 ## The Dahlin Coven
 
