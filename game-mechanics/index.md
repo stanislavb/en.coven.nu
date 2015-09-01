@@ -32,7 +32,7 @@ The colour coded markers we use to symbolise the powers are a meta-technique to 
 
 When using your powers you must use the words “Alma (insert name of power)”. This phrase does not exist in-game, your character doesn’t actually say it, only you the player. “Alma” is a meta word to catch the other players attention and make them aware that they need to listen to what you are about to say.
 
-These meta words for the powers, these are not heard by the players in-game:
+These are the meta words for the powers, they are not heard by the players in-game:
 
 **“Alma Mortis”** *(For the touch of death).*  
 **“Alma Vitalis”** *(To resurrect the dead or heal the living).*    
@@ -46,15 +46,15 @@ For more information on the five powers look under [Fictional](/fictional/).
 
 Each player will begin the LARP with one, two or three out of the five powers. During the game the players can at any time talk with a member of the household about receiving a new power. 
 
-The lottery system consists of pulling a coloured bead at random out of a bag: each power is represented by a colour. The beads are an OFF reminder to others of what powers you have. They can be placed on either a necklace or a bracelet but should be visible to other players at all times. 
+The lottery system consists of pulling a coloured marker out of a bag: each power is represented by a colour. The markers are an OFF reminder to others of what powers you have and should be visible to other players at all times. 
 
-The player also receives an envelope in the colour of their new power with a reminder of how it works in-game. The new power does not have to be played on straight away. It is not until the bead is placed on the necklace or bracelet that the player has put their new power into play.
+The player also receives an envelope with a reminder of how the new power works in-game. The new power does not have to be played on straight away. It is not until the coloured marker is put on display that the player has put their new power into play.
 
-These letters are also OFF. They can however be left out openly to allow other players to “sense” or “suspect” a new power is developing; or to simply remind others of what powers you have. But do not play on the new power until you see that the player in question has “put it into play” by placing the bead on their necklace/bracelet.
+These letters are also OFF. They can however be left out openly to allow other players to “sense” or “suspect” a new power is developing; or to simply remind others of what powers you have. But do not play on the new power until you see that the player in question has put it "into play”.
 
 A player can choose to receive no new powers at all during the LARP, or all five powers in the first day. The player chooses their own pace based on the story they want to create for their character. 
 
-In order to participate in the Seven Trials you must have at least four powers by Saturday afternoon.
+*In order to participate in The Seven Trials you must have at least three powers by Saturday afternoon. We will ask to talk to the interested players on Friday before the LARP.*
 
 ## Bloody, Easy and Tap Out
 
