@@ -35,7 +35,7 @@ This is the situation now. Newly rescued witches arrive at a Swedish coven to di
 
 ## Hierarchy and World Structure
 
-###The Covens
+### The Covens
 There are several covens around the world. They are stationary, formed in areas with a strong magical energy. This energy responds to the Coven: a large coven makes it stronger, a strong Supreme makes it stronger, strong witches make it stronger, and in turn stronger Supremes appear, and so forth. 
 
 A coven must consist of at least thirteen witches, if there are less than this a new Supreme will not appear and the coven will gradually lose its strength and die out. The Witches’ Council is a coven; the largest existing coven in the world. 
@@ -54,32 +54,39 @@ The two ultimate punishment are death by burning or exile.
 * **Almsted** is also a respectable Coven with loyalties to the Council.  
 * **Holm** was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. It was attacked and destroyed by the witch hunters.  
 
-**The Oaths**  
-You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme.  
+### The Oaths 
+You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme. 
 
-Having been less than thirteen, with no Supreme, the current Dahlin Coven could not swear in its newest members (from Ekdal, Almsted and Holm). This means that if the Coven had continued to dwindle, or no more witches joined it, it would have been acceptable to leave for another coven after a while.  
+Having been less than thirteen, with no Supreme, the current Dahlin Coven could not swear in its newest members (from Ekdal, Almsted and Holm). This means that if the Coven had continued to dwindle, or no more witches joined it, it would have been acceptable to leave for another coven. 
+Witches are trained at a coven until they choose to take the oath, usually somewhere in their early twenties. You do not have to swear your oath to the coven that trained you, but most do. It is also not unusual that young witches from larger and more thriving covens are sent to smaller covens to try and revive them. As a Senior you may have been asked, ordered or volunteered to go to the Dahlin Coven.
 
-Witches are trained at a coven until they choose to take the oath, usually somewhere in their early twenties. You do not have to swear your oath to the coven that trained you, but most do. It is also not unusual that young witches from larger and more thriving covens are sent to smaller covens to try and revive them. As a Senior you may have been asked, ordered or volunteered to go to the Dahlin Coven.  
+You cannot swear an oath to two covens at the same time. The only exception being the Witches’ Council (no one knows how they can do this). Unlike the oath to your Coven, which binds you for life, the longevity of your oath to the Witches’ Council depends on who swore it. If you swore it directly to them it lasts the rest of your life, if the Supreme of your Coven swore it on behalf of the whole Coven: it last their lifetime and has to be renewed by the next Supreme. 
 
-You cannot swear an oath to two covens at the same time. The only exception being the Witches’ Council (no one knows how they can do this). Unlike the oath to your Coven, which binds you for life, the longevity of your oath to the Witches’ Council depends on who swore it. If you swore it directly to them it lasts the rest of your life, if the Supreme of your Coven swore it on behalf of the whole Coven: it last their lifetime and has to be renewed by the next Supreme.  
+*The original Dahlinians had already sworn the oath to the Council and Dahlin previously when the Coven did have a Supreme, but only the oath to the Coven still stands.* 
 
-*The original Dahlinians may well already have sworn the oath previously when the Coven did have Supreme, if the player wishes.*  
+### The Supreme Witches 
+The Supreme Witch of a coven is selected by The Seven Trials. The coven is ruled by its Supreme and all the witches in the coven must answer to their Supreme. They are only answerable to the Witches’ Council (but only if they have sworn them the oath).
 
-**The Supreme Witches**  
-The Supreme Witch of a coven is selected by The Seven Trials, these can only take place on the covens ground. The coven is ruled by its Supreme and all the witches in the coven must answer to their Supreme. The stronger the Supreme the stronger the rest of the coven becomes. 
+The personality of the Supreme steers the coven: a kind Supreme nourishes its coven and creates harmony, a nasty Supreme poisons the coven and creates conflict. Still it would be an offence punishable by death or exile to try to kill your Supreme, so you must simply hope for better luck next time.
 
-The personality of the Supreme steers the coven: a kind Supreme nourishes its coven and creates harmony, a nasty Supreme poisons the coven and creates conflict. Still it would be an offence punishable by death to try to kill your Supreme, so you must simply hope for better luck next time.
+### The Seven Trials  
+Every Supreme has gone through the The Seven Trials and proven themselves able to command all seven of the Original Powers. The Original Powers are the pure forms of the currently existing weaker powers. Only during the Trials can these once again be accessed, and only by the witches in the Trials. Any powers gained during the Trials revert to being the weaker form once the Trial is over.
 
-There are of course limits, should a Supreme go mad and begin murdering their members the Council can be called on to help put the Supreme down. The Supreme Witch is only answerable to the Witches’ Council (but only if they have sworn the oath). It is generally seen as bad taste to mistreat your coven and since its survival relies on new witches joining it, not the smartest move.
+**Descensum:** *The power to enter and exit the underworld or afterlife.*  
+**Vitalium Vitalis:** *The power over life, can reanimate the dead.*  
+**Concilium:** *Controlling the minds of others.*  
+**Clairvoyance:** *The power to read minds, divination and see the future.*  
+**Transmutation:** *The power to teleport yourself, objects or feelings from one place to another.*  
+**Pyrokinesis:** *The power to create, control and manipulate fire with your mind.*  
+*(It can only be used during the Seven Trials. You have probably never seen it be used before).*    
+**Telekinesis:** *The power to move objects with your mind.*  
+*(It can only be used during the Seven Trials. You have probably never seen it be used before).*    
 
-**The Seven Trials**  
-Every Supreme of every coven has gone through the The Seven Trials and proven themselves to be the most powerful witch in their coven: able to command all seven of the Original Powers. Only one is chosen per trial and the other candidates are eliminated round by round. It is possible to die during the trials. 
+You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the development of new powers but you also cease to develop anymore powers afterwards. 
 
-You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the reveal of your powers but it can be a high price to pay; even if you survive the trials you cease to develop anymore powers afterwards. There is no available research to explain why this happens. Nor to explain why every recorded attempt of a witch to retake the trials has ended in their death.
+It has been the tradition that the Supreme should personally select the witches that will partake in the Seven Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake. If they are willing to pay the price even a junior witch can take the Trials.
 
-It has previously been the tradition that the Supreme should personally select the witches that will partake in the Seven Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake. If they are willing to pay the price even a junior Witch can take the Trials.
-
-*We will ask all those interested in taking the Trials to report to us on the friday, and explain everything you'd need to know about taking part of them at that time.*
+*We will ask all those interested in taking the Trials to report to us on friday, and explain everything you’d need to know about taking part of them at that time. Ingame you won’t know that the trails will be held during the weekend.*
 
 **The Witches’ Council**   
 The largest and oldest recorded Coven in the world.  For hundreds of years it has been the highest authority amongst the Covens. It functions as the magical communities police, legal system and army. This Coven and its Supreme are heavily guarded, its exact location is kept secret and its agents exist all over world. Its current Supreme Witch is the recently selected Alessa Caito.
