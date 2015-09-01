@@ -35,24 +35,24 @@ This is the situation now. Newly rescued witches arrive at a Swedish coven to di
 
 ## Hierarchy and World Structure
 
-*If you are playing a junior this is not necessary information for you to know, but it can be worth skimming it to help you understand what’s going on around you more quickly during the game.*  
+###The Covens
+There are several covens around the world. They are stationary, formed in areas with a strong magical energy. This energy responds to the Coven: a large coven makes it stronger, a strong Supreme makes it stronger, strong witches make it stronger, and in turn stronger Supremes appear, and so forth. 
 
-**The Covens**  
-There are several covens around the world. They are stationary, formed in areas with a strong magical energy. This energy responds to the Coven: a large coven makes it stronger, a strong Supreme makes it stronger, strong witches make it stronger, and in turn stronger Supremes appear, and so forth. When a coven starts to die out the energy starts to wane.  
+A coven must consist of at least thirteen witches, if there are less than this a new Supreme will not appear and the coven will gradually lose its strength and die out. The Witches’ Council is a coven; the largest existing coven in the world. 
 
-A coven must consist of at least thirteen witches, less than this and a new Supreme will not appear and the coven will gradually lose its strength and die out. The Witches’ Council is a coven: it is the largest existing coven in the world.   
+Normally once your first power appears, usually in your early teens, you are sent to a coven. If you have family living within the magical community then you, or they, will probably have had a say in which coven you were sent to. Most seniors have come from families that are aware of their linage and would have expected the Council to come get them. 
 
-Normally once your first power appears, usually in your early teens, you are sent to a coven. If you have family living within the magical community then you, or they, will probably have had a say in which coven you were sent to. Most seniors have come from families that are aware of their linage and would have expected the Council to come get you when it became clear that you were a witch. Back when witches were prevalent it wasn’t unusual for a family to contain more than one witch within the same generation. Nowadays you may only have a single distant relative in a far off coven, but they are now considered your only family. The family you had outside of the magical community are rarely seen or spoken to again. Even your parents.  
+You may only have a single distant relative in a far off coven, but they are now considered your only family. The family you had outside of the magical community are rarely seen or spoken to again. Even your parents.
 
-Covens are not actually schools, although they do teach their members. They are more like tribes or even nunneries, once you have sworn yourself to a coven you are there for life, and you can’t change your mind and leave whenever you want. Depending on the Supreme punishment for unacceptable behaviour in the coven can vary greatly.   
+Covens are not actually schools, although they do teach. They are more like tribes or even nunneries, once you have sworn yourself to a coven you are there for life, and you can’t change your mind and leave whenever you want. Punishment for unacceptable behaviour in the coven can vary greatly. 
 
 The two ultimate punishment are death by burning or exile.  
 
 **Other Covens you should know of are:**  
-* **Dahlin** has been a Coven on the brink of extinction for several years, but once it was an influential coven with strong ties to the Council.  
+* **Dahlin** has been a Coven on the brink of extinction for several years, but once it was an influential coven with strong ties to the Council. (Your new Coven).
 * **Ekdal** is a large prestigious Coven with close ties to the Witches’ Council. Many of its witches go on to work for the Council.  
 * **Almsted** is also a respectable Coven with loyalties to the Council.  
-* **Holm** was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. About a year ago it was attacked and destroyed by the witch hunters.  
+* **Holm** was a smaller and rather isolated Coven. It had a long history of refusing to swear loyalty to the Council. It was attacked and destroyed by the witch hunters.  
 
 **The Oaths**  
 You are not born into a coven, you join one by swearing an oath to it. Once you’ve sworn the oath you are bound to your Coven and all its coming Supremes until your death, or the covens “death”: numbers fall under thirteen and has no Supreme.  
