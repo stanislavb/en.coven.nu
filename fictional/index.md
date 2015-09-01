@@ -118,19 +118,23 @@ The powers manifests differently depending on the witch: some can only use them 
 
 *It is always up to the player getting the power cast on them whether they wish to play on it or not. It is always possible to opt-out of being bewitched and to blame this on weak powers or a sudden powerful defence. This exists so that players do not feel forced to play on things they are uncomfortable with OFF. For this reason: if a player doesn’t respond the first time, they may not have heard you, if they do not respond the second time they are probably choosing not to play on it. Do not say it a third time. We do however hope you all help each other out and make great scenes together.*
 
-### Mortis: Touch of Death
+## Mortis: Touch of Death
 
-Mortis is the power to take life. It comes from the Original Power: Descensum. Descensum being the decent into a hell dimension where your worst nightmares repeat endlessly, so if you kill someone with Mortis, you send them to this eternal hell. This is also a more true death than by knife or Transfero and needs a witch with Vitalis as their Primary Power to undo.  
+Mortis is the power to take life. When you kill with Mortis your victim slowly descends into Descensum: a hell dimension where their worst nightmares repeat endlessly. 
 
-**If it is your primary power:** You do not require skin contact to use it, but you must be visible to the person/s you are casting on. You can cast on more than one person at the same time.    
+**If it is your Primary Power:** You do not require skin contact to use it, but you must be visible to the person/s you are casting on. 
 
-**It is known:** *A powerful enough Mortis witch can make a deal with the Gate Keeper of Descensum for a longer life in exchange for the souls of others. This make other witches a little fearful and suspicious of the Mortis witch and earned them a reputation as the witches “most likely to become evil one day”.*  
+**If it is not your Primary Power:** It requires skin contact.
 
-**If it is not your primary power:** It requires skin contact, you need to link with more witches to cast as if it was a Primary Power.  
+**It is known:** *That a Mortis witch can make a deal with the Gatekeeper of Descensum for a longer life in exchange for innocent souls. Because of this they are regarded as the witches “most likely to become evil one day”. An unfair title since only an extremely powerful Mortis witch could ever hope to strike such a deal.
 
-**How to use it:** The words “Alma, Mortis” are spoken and the victim will feel their body shut down step by step as they die. You can describe the process of their death to the player i.e. “you can feel your heart rate slow down and your breathing becoming harder…” or you can hold up your hand as a counter to show them how close to their death they are (counting down with your fingers, so five is alive and zero is dead). You can also combine these methods. 
+**How to use it:** The words “Alma Mortis” are spoken and the victim's body will shut down step by step as they die. 
 
-It is possible to be too weak to complete the Mortis: leaving the victim on the brink of death, or for a powerful witch to purposely do so as a form of torture. The damage to the organs caused by the Mortis remain after the witch has stopped casting. Depending on how close to death the victim is the more powerful Vitalis is needed to heal them.
+You can describe the process of their death to the player i.e. “you can feel your heart rate slowing down…” or you can hold up your hand as a counter to show them how close to their death they are (counting down with your fingers, so five is alive and zero is dead). You can also combine these methods.
+
+You can play on being unable to complete the Mortis: leaving the victim on the brink of death or purposely do so as a form of torture. The damage to the organs caused by the Mortis remain after the witch has stopped casting.
+
+**There will be consequences:** If you use Mortis too much the barrier between Descensum and your consciousness begins to break. Giving you terrible nightmares or hallucinations.
 
 ### Vitalis: Power of Resurrection
 
