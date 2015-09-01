@@ -22,25 +22,23 @@ There are different definitions of what a game-mechanic is and what a meta-techn
 
 ## Meta-techniques
 
-These are ways in which we can communicate between players in-game without having to stop the game completely and break character. As a player if you see or hear these techniques and they are not being directed at you personally: you most often ignore them. They do not exist in the in-game world. The words used when casting our powers are an example of a meta-technique, as are the beads you will wear to show other players which powers you have.
+These are ways in which we can communicate off-game information between players in-game without having to stop and break character. As a player if you see or hear these techniques and they are not being directed at you personally: you most often ignore them. They do not exist in the in-game world. The words used when casting powers are an example of a meta-technique, as are the markers you will wear to show other players which powers you have.
 
 ## The Powers
 
 Almost everything to do with using and receiving your powers will involve meta-techniques.
 
-The colour coded beads we use to symbolise the powers, for example, are “invisible” in-game. As are the letters you receive when your new power is lotted out. They are a reminders for you and other players of which powers that exists and who has them.
+The colour coded markers we use to symbolise the powers are a meta-technique to remind each other what powers we have. These markers are “invisible” in-game. 
 
-When you use your powers, take Mortis for example, you must use the words “Alma, Mortis” in order for the other player to know what is now expected of them. This phrase does not exist in-game, your character doesn’t actually say it, only you the player. “Alma” is a meta word to catch the other players attention and make them aware that they need to listen to what you are about to say.
+When using your powers you must use the words “Alma (insert name of power)”. This phrase does not exist in-game, your character doesn’t actually say it, only you the player. “Alma” is a meta word to catch the other players attention and make them aware that they need to listen to what you are about to say.
 
-“Alma, Mortis” is also an OFF indicator that your character is actively trying to use their power. This also allows you to play on your character using their powers by accident or trying to use them and failing: if you say “Mortis” without using Alma first it is up to the other player if it has any effect at all or if it has failed completely. They can also choose whether their character noticed your characters attempt to use mortis on them or not.
+These meta words for the powers, these are not heard by the players in-game:
 
-The meta words for the powers:
-
-“Alma, Mortis”: for the touch of death.  
-“Alma, Vitalis”: to resurrect the dead or heal the living.  
-“Alma, Concilium”: for mind control.  
-“Alma, Clarvoyance”: for mind reading.  
-“Alma, Transfero”: to transfer your injury or emotions to another.  
+**“Alma Mortis”** *(For the touch of death).*  
+**“Alma Vitalis”** *(To resurrect the dead or heal the living).*    
+**“Alma Concilium: (followed by further instructions)”** *(For mind control).*    
+**“Alma Clairvoyance: (followed by further instructions)"** *(For mind reading).*    
+**“Alma Transfero”** *(to transfer your injury or emotions to another).*  
 
 For more information on the five powers look under [Fictional](/fictional/).
 
