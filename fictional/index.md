@@ -96,7 +96,8 @@ The Witches’ Council can only exercise this power over those that have sworn t
 ### Family Names and Protégés  
 Having a good family name can help you get into a stronger, more prestigious or even safer coven. If you have a recognisable name it most likely means you come from a long line of prominent witches or have a famous ancestor. 
 
-If you have no living family (within the magical community) and no strong family name, but you are proving to be a powerful witch, another family can take you in and give you their name. A popular practice with the Council. Most witches are impressed by a Protégé, since it means you are strong enough to be favoured by the Council, but it can also cause jealousy.  
+If you have no living family (within the magical community) and no strong family name, but you are proving to be a powerful witch, another family can take you in and give you their name. A popular practice with the Council. Most witches are impressed by a Protégé, since it means you are strong enough to be favoured by the Council, but it can also cause jealousy.
+
 ## About Magic 
 The LARP aims for a type or realism (with magic, yes we know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, symbols, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
 
