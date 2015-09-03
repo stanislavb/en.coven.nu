@@ -75,7 +75,7 @@ Every Supreme has gone through the The Seven Trials and proven themselves able t
 **Descensum:** *The power to enter and exit the underworld or afterlife.*  
 **Vitalium Vitalis:** *The power over life, can reanimate the dead.*  
 **Concilium:** *Controlling the minds of others.*  
-**Clairvoyance:** *The power to read minds, divination and see the future.*  
+**Divination:** *The power to read minds, divination and see the future.*  
 **Transmutation:** *The power to teleport yourself, objects or feelings from one place to another.*  
 **Pyrokinesis:** *The power to create, control and manipulate fire with your mind.*  
 *(It can only be used during the Seven Trials. You have probably never seen it be used before).*    
