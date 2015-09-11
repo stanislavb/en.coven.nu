@@ -28,7 +28,7 @@ These are ways in which we can communicate off-game information between players 
 
 Almost everything to do with using and receiving your powers will involve meta-techniques.
 
-The colour coded markers we use to symbolise the powers are a meta-technique to remind each other what powers we have. These markers are “invisible” in-game. 
+The colour coded bands we use to symbolise the powers are a meta-technique to remind each other what powers we have. These bands are “invisible” in-game. 
 
 When using your powers you must use the words “Alma (insert name of power)”. This phrase does not exist in-game, your character doesn’t actually say it, only you the player. “Alma” is a meta word to catch the other players attention and make them aware that they need to listen to what you are about to say.
 
@@ -44,13 +44,13 @@ For more information on the five powers look under [Fictional](/fictional/).
 
 ## The Lottery System
 
-Each player will begin the LARP with one, two or three out of the five powers. During the game the players can at any time talk with a member of the household about receiving a new power. 
+Each player will begin the LARP with one, two or three out of the five powers. During the game the players can at any time go to the OFF-room and ask to receive a new power. 
 
-The lottery system consists of pulling a coloured marker out of a bag: each power is represented by a colour. The markers are an OFF reminder to others of what powers you have and should be visible to other players at all times. 
+The lottery system consists of pulling a coloured bead out of a bag: each power is represented by a colour. They are then given a coloured band and an info card. These are an OFF reminder to others of what powers you have and should be visible to other players at all times. 
 
-The player also receives an envelope with a reminder of how the new power works in-game. The new power does not have to be played on straight away. It is not until the coloured marker is put on display that the player has put their new power into play.
+The player also receives an info card with a reminder of how the new power works in-game. The new power does not have to be played on straight away. It is not until the coloured band is put on display that the player has put their new power into play.
 
-These letters are also OFF. They can however be left out openly to allow other players to “sense” or “suspect” a new power is developing; or to simply remind others of what powers you have. But do not play on the new power until you see that the player in question has put it "into play”.
+These info cards are also OFF. They can however be left out openly to allow other players to “sense” or “suspect” a new power is developing; or to simply remind others of what powers you have. But do not play on the new power until you see that the player in question has put it "into play” by putting the coloured band on.
 
 A player can choose to receive no new powers at all during the LARP, or all five powers in the first day. The player chooses their own pace based on the story they want to create for their character. 
 
