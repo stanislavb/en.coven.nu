@@ -22,7 +22,7 @@ image:
 
 The Supreme Witch is the head of the coven; each coven has their own Supreme. 
 
-To become the Supreme of a coven you must complete The Seven Trials. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in covens of at least thirteen and above; meaning that a coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme while they hope for the coven to gain enough members again.
+To become the Supreme of a coven you must complete The Five Trials. This means that the Supreme has proven themselves able to use all seven powers. Only one Supreme exists in each coven generation and you only take the trial once in your life, if at all. However this activation of a Supreme only occurs in covens of at least thirteen and above; meaning that a coven with less witches will not receive a new Supreme and often die out. This is the case for the Dahlin Coven, which only has an acting Supreme while they hope for the coven to gain enough members again.
 
 The Supreme is not just the Coven leader; their attitude, morals and ethics affects the whole Coven and can make it stronger or weaker, righteous or criminal. 
 
@@ -54,9 +54,9 @@ The household includes the cooks and the staff. Most of them have been a part of
 
 ## Friends & Family
 
-In your character description you will find that some of the people in your characters life may have been mentioned. Since the LARP is set in the present time you will be able to phone some these characters, if you wish, during the LARP. We strongly encourage you to invite people to play either these roles, or others which you feel would benefit your character. We will also have a list of available players who wish to be phone contacts during the larp.
+In your character description you will find that some of the people in your characters life may have been mentioned. Since the LARP is set in the present time you will be able to phone some these characters, if you wish, during the LARP. We strongly encourage you to invite people to play either these roles, or others which you feel would benefit your character.
 
-*Friends and family are played by people you invite yourself or that have been provided by us at your request.*
+*Friends and family are played by people you invite yourself.*
 
 ## The Witch Hunters
 
