@@ -62,15 +62,13 @@ Witches are trained at a coven until they choose to take the oath, usually somew
 
 You cannot swear an oath to two covens at the same time. The only exception being the Witches’ Council (no one knows how they can do this). Unlike the oath to your Coven, which binds you for life, the longevity of your oath to the Witches’ Council depends on who swore it. If you swore it directly to them it lasts the rest of your life, if the Supreme of your Coven swore it on behalf of the whole Coven: it last their lifetime and has to be renewed by the next Supreme. 
 
-*The original Dahlinians had already sworn the oath to the Council and Dahlin previously when the Coven did have a Supreme, but only the oath to the Coven still stands.* 
-
 ### The Supreme Witches 
-The Supreme Witch of a coven is selected by The Seven Trials. The coven is ruled by its Supreme and all the witches in the coven must answer to their Supreme. They are only answerable to the Witches’ Council (but only if they have sworn them the oath).
+The Supreme Witch of a coven is selected by The Five Trials. The coven is ruled by its Supreme and all the witches in the coven must answer to their Supreme. They are only answerable to the Witches’ Council (but only if they have sworn them the oath).
 
 The personality of the Supreme steers the coven: a kind Supreme nourishes its coven and creates harmony, a nasty Supreme poisons the coven and creates conflict. Still it would be an offence punishable by death or exile to try to kill your Supreme, so you must simply hope for better luck next time.
 
-### The Seven Trials  
-Every Supreme has gone through the The Seven Trials and proven themselves able to command all seven of the **Original Powers**. The Original Powers are the pure forms of the currently existing weaker powers. Only during the Trials can these once again be accessed, and only by the witches in the Trials. Any powers gained during the Trials revert to being the weaker form once the Trial is over.
+### The Five Trials  
+Every Supreme has gone through the The Five Trials and proven themselves able to command all five of the **Original Powers**. The Original Powers are the pure forms of the currently existing weaker powers. Only during the Trials can these once again be accessed, and only by the witches in the Trials. Any powers gained during the Trials revert to being the weaker form once the Trial is over.
 
 **Descensum:** *The power to enter and exit the underworld or afterlife.*  
 **Vitalium Vitalis:** *The power over life, can reanimate the dead.*  
@@ -84,9 +82,9 @@ Every Supreme has gone through the The Seven Trials and proven themselves able t
 
 You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the development of new powers but you also cease to develop anymore powers afterwards. 
 
-It has been the tradition that the Supreme should personally select the witches that will partake in the Seven Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake. If they are willing to pay the price even a junior witch can take the Trials.
+It has been the tradition that the Supreme should personally select the witches that will partake in the Five Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake. If they are willing to pay the price even a junior witch can take the Trials.
 
-*We will ask all those interested in taking the Trials to report to us on friday, and explain everything you’d need to know about taking part of them at that time. Ingame you won’t know that the trails will be held during the weekend.*
+*We will ask all those interested in taking the Trials to report to us on friday, and explain everything you’d need to know about taking part of them at that time. Ingame you won’t know that the trials will be held during the weekend.*
 
 ### The Witches’ Council   
 The largest and oldest recorded Coven in the world.  For hundreds of years it has been the highest authority amongst the Covens. It functions as the magical communities police, legal system and army. This Coven and its Supreme are heavily guarded, its exact location is kept secret and its agents exist all over world. Its current Supreme Witch is the recently selected Alessa Caito.
@@ -101,7 +99,7 @@ If you have no living family (within the magical community) and no strong family
 ## About Magic 
 The LARP aims for a type or realism (with magic, yes we know), but basically try to steer clear of the fantasy magical vibe present in for example Harry Potter: no wands, no abrakadabra, no magical creatures or potions that make you swap bodies. Instead think primal rituals, chants, symbols, blood and some gore. And remember all magic has a price, whether it be a headache, a nosebleed or your soul.
 
-All magic in this universe stems from the **Original Powers** of **The Seven Trials**: Descensum, Vitalium Vitalis, Concilium, Clairvoyance, Transmutation, Telekinesis and Pyrokinesis. This means that as long as you can link it to one of the powers, it can be done. 
+All magic in this universe stems from the **Original Powers** of **The Five Trials**: Descensum, Vitalium Vitalis, Concilium, Clairvoyance, Transmutation. This means that as long as you can link it to one of the powers, it can be done. 
 
 You can lend your fellow witches your strength through linking together (with a ritual, chant, joining hands etc). But you can not “give” another witch your own powers. 
 
@@ -109,7 +107,7 @@ Tarot cards, crystals, rituals etc can all be used to channel, store, enhance or
 
 ## The Five Powers  
 
-As the covens began to die out and more witches stopped using their gifts, the powers got weaker. Pyrokinesis and Telekinesis disappeared altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today: they are all weaker versions of the **Original Powers** from **The Seven Trials**.
+As the covens began to die out and more witches stopped using their gifts, the powers got weaker. Pyrokinesis and Telekinesis disappeared altogether. Mortis, Vitalis, Concilium, Clairvoyance and Transfero are the five powers seen in young witches today: they are all weaker versions of the **Original Powers** from **The Five Trials**.
 
 Your first power to develop is called your **Primary Power**. You will get both its greatest advantages and its greatest disadvantages. Your other powers are weaker in descending order but you can link with other witches to reach the effects of having it as a Primary Power.
 
@@ -214,4 +212,4 @@ It was the local church who stepped in and refuted the rumours. The Dahlin’s, 
 The coven has posed as several different types of retreats; schools, and even an orphanage through its history. However it was in 1925 when the Countess Ebba von Eckermann, a former member of the Frustunaby Girls Outdoor Club, donated Frustunaby to the Girl Guides Association that a permanent cover was created and remains to this day. 
 It wasn’t until the merging of the Girl Guides Association with the Swedish Scout Association in 1960 that boys began to join the Dahlin Coven.
 
-The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other covens over the last year was promising, and the Seven Trials was held. However it quickly became clear that no new Supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
+The Dahlin Coven was like most covens today: on the brink of extinction. The numbers had dwindled dramatically over the last thirty years and new applicants had become rarer and rarer. With the death of the last Supreme four years back it was clear that no new supreme would be called until the coven regained its numbers. The sudden influx of witches from other covens over the last year was promising, and the Five Trials was held. However it quickly became clear that no new Supreme would emerge and that the trial was not valid. The coven was simply not strong enough.
