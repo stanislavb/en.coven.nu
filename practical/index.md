@@ -54,15 +54,6 @@ Starts at 10.00 and finishes at 16.00, with an hour for lunch (provided by us).
 You then have an hour before the larp starts to prepare your things OFF.    
 You will be expected to have learnt the five powers before the workshop. 
 
-The workshop will include:
-
- - Character development
- - Relationship building
- - Safety techniques and key words
- - Meta-techniques and Game Mechanics
- - The narrative plot and time schedule 
- - Getting into character
-
 ## What to bring with you
 
 1. At least one pair of black clothing (that you are not afraid to get blood on).
