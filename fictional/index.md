@@ -75,14 +75,8 @@ Every Supreme has gone through the The Five Trials and proven themselves able to
 **Concilium:** *Controlling the minds of others.*  
 **Divination:** *The power to read minds, divination and see the future.*  
 **Transmutation:** *The power to teleport yourself, objects or feelings from one place to another.*  
-**Pyrokinesis:** *The power to create, control and manipulate fire with your mind.*  
-*(It can only be used during the Seven Trials. You have probably never seen it be used before).*    
-**Telekinesis:** *The power to move objects with your mind.*  
-*(It can only be used during the Seven Trials. You have probably never seen it be used before).*    
 
-You only enter the trial once in your life, if at all. Entering the trials can be a way to speed up the development of new powers but you also cease to develop anymore powers afterwards. 
-
-It has been the tradition that the Supreme should personally select the witches that will partake in the Five Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake. If they are willing to pay the price even a junior witch can take the Trials.
+You only enter the trial once in your life, if at all. It has been the tradition that the Supreme should personally select the witches that will partake in the Five Trials. These days it is not unusual for witches to volunteer themselves or even to be forced by the other coven members to partake. If they are willing to pay the price even a junior witch can take the Trials.
 
 *We will ask all those interested in taking the Trials to report to us on friday, and explain everything you’d need to know about taking part of them at that time. Ingame you won’t know that the trials will be held during the weekend.*
 
